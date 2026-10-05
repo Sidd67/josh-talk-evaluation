@@ -1,0 +1,1001 @@
+user_id,recording_url,whisper_text,user_text,is_edited,duration,time_taken_by_user,segment_character_per_second,ground_truth_archetype,audio_had_whisper_error
+U001,https://cdn.joshtalks.ai/audio/task_00001.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,4.61,13.43,2.76,legitimate_diligent,True
+U001,https://cdn.joshtalks.ai/audio/task_00002.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,7.55,18.8,1.97,legitimate_diligent,True
+U001,https://cdn.joshtalks.ai/audio/task_00003.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.03,1.82,6.59,legitimate_diligent,False
+U001,https://cdn.joshtalks.ai/audio/task_00004.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,5.16,18.85,2.39,legitimate_diligent,True
+U001,https://cdn.joshtalks.ai/audio/task_00005.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,7.52,19.77,2.28,legitimate_diligent,True
+U001,https://cdn.joshtalks.ai/audio/task_00006.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,7.91,17.99,2.06,legitimate_diligent,True
+U001,https://cdn.joshtalks.ai/audio/task_00007.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,4.7,16.18,2.29,legitimate_diligent,True
+U001,https://cdn.joshtalks.ai/audio/task_00008.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,6.21,16.37,2.26,legitimate_diligent,True
+U001,https://cdn.joshtalks.ai/audio/task_00009.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,7.63,21.0,1.76,legitimate_diligent,True
+U001,https://cdn.joshtalks.ai/audio/task_00010.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.06,2.38,5.04,legitimate_diligent,False
+U001,https://cdn.joshtalks.ai/audio/task_00011.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,6.6,16.34,2.26,legitimate_diligent,True
+U001,https://cdn.joshtalks.ai/audio/task_00012.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.43,10.0,3.9,legitimate_diligent,False
+U001,https://cdn.joshtalks.ai/audio/task_00013.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,6.21,19.81,1.87,legitimate_diligent,True
+U001,https://cdn.joshtalks.ai/audio/task_00014.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.43,5.75,6.78,legitimate_diligent,False
+U001,https://cdn.joshtalks.ai/audio/task_00015.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,7.24,19.23,1.92,legitimate_diligent,True
+U001,https://cdn.joshtalks.ai/audio/task_00016.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.66,6.84,5.7,legitimate_diligent,False
+U001,https://cdn.joshtalks.ai/audio/task_00017.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,6.32,21.53,2.09,legitimate_diligent,True
+U001,https://cdn.joshtalks.ai/audio/task_00018.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,5.53,14.28,2.59,legitimate_diligent,True
+U001,https://cdn.joshtalks.ai/audio/task_00019.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,4.3,16.88,2.19,legitimate_diligent,True
+U001,https://cdn.joshtalks.ai/audio/task_00020.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,4.96,18.67,1.98,legitimate_diligent,True
+U002,https://cdn.joshtalks.ai/audio/task_00021.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.11,2.45,4.9,legitimate_diligent,False
+U002,https://cdn.joshtalks.ai/audio/task_00022.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,6.58,23.86,1.89,legitimate_diligent,True
+U002,https://cdn.joshtalks.ai/audio/task_00023.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.29,2.7,4.44,legitimate_diligent,False
+U002,https://cdn.joshtalks.ai/audio/task_00024.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.07,1.71,7.02,legitimate_diligent,False
+U002,https://cdn.joshtalks.ai/audio/task_00025.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.48,7.43,5.25,legitimate_diligent,False
+U002,https://cdn.joshtalks.ai/audio/task_00026.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.48,2.65,4.53,legitimate_diligent,False
+U002,https://cdn.joshtalks.ai/audio/task_00027.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,10.16,23.84,1.89,legitimate_diligent,True
+U002,https://cdn.joshtalks.ai/audio/task_00028.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,9.51,24.6,1.83,legitimate_diligent,True
+U002,https://cdn.joshtalks.ai/audio/task_00029.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,5.96,20.24,1.83,legitimate_diligent,True
+U002,https://cdn.joshtalks.ai/audio/task_00030.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,8.37,22.05,1.68,legitimate_diligent,True
+U002,https://cdn.joshtalks.ai/audio/task_00031.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,8.42,20.61,1.8,legitimate_diligent,True
+U002,https://cdn.joshtalks.ai/audio/task_00032.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,6.19,16.91,2.66,legitimate_diligent,True
+U002,https://cdn.joshtalks.ai/audio/task_00033.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,10.51,26.12,1.72,legitimate_diligent,True
+U002,https://cdn.joshtalks.ai/audio/task_00034.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,8.68,25.15,1.47,legitimate_diligent,True
+U002,https://cdn.joshtalks.ai/audio/task_00035.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,5.08,16.04,2.31,legitimate_diligent,True
+U002,https://cdn.joshtalks.ai/audio/task_00036.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,4.89,13.41,2.76,legitimate_diligent,True
+U002,https://cdn.joshtalks.ai/audio/task_00037.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,9.6,22.08,2.04,legitimate_diligent,True
+U002,https://cdn.joshtalks.ai/audio/task_00038.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,5.99,20.63,2.18,legitimate_diligent,True
+U002,https://cdn.joshtalks.ai/audio/task_00039.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.82,9.65,4.04,legitimate_diligent,False
+U002,https://cdn.joshtalks.ai/audio/task_00040.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,5.8,17.15,2.16,legitimate_diligent,True
+U003,https://cdn.joshtalks.ai/audio/task_00041.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,7.71,17.45,2.58,legitimate_diligent,True
+U003,https://cdn.joshtalks.ai/audio/task_00042.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,7.15,16.18,2.29,legitimate_diligent,True
+U003,https://cdn.joshtalks.ai/audio/task_00043.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,7.69,15.05,2.46,legitimate_diligent,True
+U003,https://cdn.joshtalks.ai/audio/task_00044.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,8.37,16.88,2.19,legitimate_diligent,True
+U003,https://cdn.joshtalks.ai/audio/task_00045.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.17,2.7,4.44,legitimate_diligent,False
+U003,https://cdn.joshtalks.ai/audio/task_00046.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,8.46,21.41,2.1,legitimate_diligent,True
+U003,https://cdn.joshtalks.ai/audio/task_00047.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.15,2.15,5.58,legitimate_diligent,False
+U003,https://cdn.joshtalks.ai/audio/task_00048.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.33,2.57,4.67,legitimate_diligent,False
+U003,https://cdn.joshtalks.ai/audio/task_00049.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,4.77,18.55,1.99,legitimate_diligent,True
+U003,https://cdn.joshtalks.ai/audio/task_00050.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,5.62,15.74,2.35,legitimate_diligent,True
+U003,https://cdn.joshtalks.ai/audio/task_00051.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.15,2.84,4.23,legitimate_diligent,False
+U003,https://cdn.joshtalks.ai/audio/task_00052.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,6.49,19.97,1.85,legitimate_diligent,True
+U003,https://cdn.joshtalks.ai/audio/task_00053.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,7.43,16.59,2.23,legitimate_diligent,True
+U003,https://cdn.joshtalks.ai/audio/task_00054.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,8.67,20.79,1.78,legitimate_diligent,True
+U003,https://cdn.joshtalks.ai/audio/task_00055.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.39,3.51,3.42,legitimate_diligent,False
+U003,https://cdn.joshtalks.ai/audio/task_00056.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.45,7.85,4.97,legitimate_diligent,False
+U003,https://cdn.joshtalks.ai/audio/task_00057.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.23,2.97,4.04,legitimate_diligent,False
+U003,https://cdn.joshtalks.ai/audio/task_00058.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,8.97,21.14,2.13,legitimate_diligent,True
+U003,https://cdn.joshtalks.ai/audio/task_00059.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.92,9.02,4.32,legitimate_diligent,False
+U003,https://cdn.joshtalks.ai/audio/task_00060.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,4.26,15.58,2.37,legitimate_diligent,True
+U004,https://cdn.joshtalks.ai/audio/task_00061.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,5.94,18.08,2.49,legitimate_diligent,True
+U004,https://cdn.joshtalks.ai/audio/task_00062.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,3.67,5.18,7.53,legitimate_diligent,False
+U004,https://cdn.joshtalks.ai/audio/task_00063.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.1,2.43,4.94,legitimate_diligent,False
+U004,https://cdn.joshtalks.ai/audio/task_00064.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,5.24,18.63,2.42,legitimate_diligent,True
+U004,https://cdn.joshtalks.ai/audio/task_00065.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,8.14,22.37,2.01,legitimate_diligent,True
+U004,https://cdn.joshtalks.ai/audio/task_00066.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,5.07,17.16,2.16,legitimate_diligent,True
+U004,https://cdn.joshtalks.ai/audio/task_00067.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,6.06,21.98,1.68,legitimate_diligent,True
+U004,https://cdn.joshtalks.ai/audio/task_00068.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,6.56,23.42,1.58,legitimate_diligent,True
+U004,https://cdn.joshtalks.ai/audio/task_00069.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,6.92,16.51,2.24,legitimate_diligent,True
+U004,https://cdn.joshtalks.ai/audio/task_00070.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,7.96,21.14,1.75,legitimate_diligent,True
+U004,https://cdn.joshtalks.ai/audio/task_00071.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.6,6.9,5.65,legitimate_diligent,False
+U004,https://cdn.joshtalks.ai/audio/task_00072.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,5.05,17.92,2.51,legitimate_diligent,True
+U004,https://cdn.joshtalks.ai/audio/task_00073.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,8.73,16.82,2.2,legitimate_diligent,True
+U004,https://cdn.joshtalks.ai/audio/task_00074.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,7.84,17.0,2.18,legitimate_diligent,True
+U004,https://cdn.joshtalks.ai/audio/task_00075.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.29,7.07,5.52,legitimate_diligent,False
+U004,https://cdn.joshtalks.ai/audio/task_00076.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,6.27,19.59,1.89,legitimate_diligent,True
+U004,https://cdn.joshtalks.ai/audio/task_00077.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,4.92,14.57,2.54,legitimate_diligent,True
+U004,https://cdn.joshtalks.ai/audio/task_00078.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,6.0,19.29,1.92,legitimate_diligent,True
+U004,https://cdn.joshtalks.ai/audio/task_00079.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.35,8.05,4.84,legitimate_diligent,False
+U004,https://cdn.joshtalks.ai/audio/task_00080.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,5.0,18.84,1.96,legitimate_diligent,True
+U005,https://cdn.joshtalks.ai/audio/task_00081.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.86,8.38,4.65,legitimate_diligent,False
+U005,https://cdn.joshtalks.ai/audio/task_00082.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.57,5.55,7.03,legitimate_diligent,False
+U005,https://cdn.joshtalks.ai/audio/task_00083.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,8.55,17.86,2.07,legitimate_diligent,True
+U005,https://cdn.joshtalks.ai/audio/task_00084.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,6.09,20.3,1.82,legitimate_diligent,True
+U005,https://cdn.joshtalks.ai/audio/task_00085.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,9.5,24.69,1.82,legitimate_diligent,True
+U005,https://cdn.joshtalks.ai/audio/task_00086.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.94,10.21,3.82,legitimate_diligent,False
+U005,https://cdn.joshtalks.ai/audio/task_00087.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,5.31,19.84,1.86,legitimate_diligent,True
+U005,https://cdn.joshtalks.ai/audio/task_00088.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.64,3.8,3.16,legitimate_diligent,False
+U005,https://cdn.joshtalks.ai/audio/task_00089.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,4.72,15.77,2.35,legitimate_diligent,True
+U005,https://cdn.joshtalks.ai/audio/task_00090.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,8.36,21.27,1.74,legitimate_diligent,True
+U005,https://cdn.joshtalks.ai/audio/task_00091.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.28,3.28,3.66,legitimate_diligent,False
+U005,https://cdn.joshtalks.ai/audio/task_00092.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,3.56,4.8,8.12,legitimate_diligent,False
+U005,https://cdn.joshtalks.ai/audio/task_00093.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,8.85,21.03,1.76,legitimate_diligent,True
+U005,https://cdn.joshtalks.ai/audio/task_00094.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.54,3.15,3.81,legitimate_diligent,False
+U005,https://cdn.joshtalks.ai/audio/task_00095.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,5.02,15.73,2.35,legitimate_diligent,True
+U005,https://cdn.joshtalks.ai/audio/task_00096.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,4.17,14.5,2.55,legitimate_diligent,True
+U005,https://cdn.joshtalks.ai/audio/task_00097.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,5.96,16.87,2.19,legitimate_diligent,True
+U005,https://cdn.joshtalks.ai/audio/task_00098.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,6.14,17.74,2.54,legitimate_diligent,True
+U005,https://cdn.joshtalks.ai/audio/task_00099.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,10.55,27.56,1.63,legitimate_diligent,True
+U005,https://cdn.joshtalks.ai/audio/task_00100.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.41,5.76,6.77,legitimate_diligent,False
+U006,https://cdn.joshtalks.ai/audio/task_00101.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,6.8,16.95,2.18,legitimate_diligent,True
+U006,https://cdn.joshtalks.ai/audio/task_00102.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,6.28,17.5,2.11,legitimate_diligent,True
+U006,https://cdn.joshtalks.ai/audio/task_00103.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,6.49,18.08,2.05,legitimate_diligent,True
+U006,https://cdn.joshtalks.ai/audio/task_00104.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.54,3.49,3.44,legitimate_diligent,False
+U006,https://cdn.joshtalks.ai/audio/task_00105.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,5.83,17.32,2.14,legitimate_diligent,True
+U006,https://cdn.joshtalks.ai/audio/task_00106.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.57,7.32,5.33,legitimate_diligent,False
+U006,https://cdn.joshtalks.ai/audio/task_00107.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.35,2.91,4.12,legitimate_diligent,False
+U006,https://cdn.joshtalks.ai/audio/task_00108.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.15,7.19,5.42,legitimate_diligent,False
+U006,https://cdn.joshtalks.ai/audio/task_00109.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,7.01,24.3,1.85,legitimate_diligent,True
+U006,https://cdn.joshtalks.ai/audio/task_00110.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,5.01,12.42,2.98,legitimate_diligent,True
+U006,https://cdn.joshtalks.ai/audio/task_00111.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.96,9.41,4.14,legitimate_diligent,False
+U006,https://cdn.joshtalks.ai/audio/task_00112.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.33,2.53,4.74,legitimate_diligent,False
+U006,https://cdn.joshtalks.ai/audio/task_00113.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.4,2.76,4.35,legitimate_diligent,False
+U006,https://cdn.joshtalks.ai/audio/task_00114.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,8.52,25.15,1.47,legitimate_diligent,True
+U006,https://cdn.joshtalks.ai/audio/task_00115.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.18,2.95,4.07,legitimate_diligent,False
+U006,https://cdn.joshtalks.ai/audio/task_00116.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.04,2.54,4.72,legitimate_diligent,False
+U006,https://cdn.joshtalks.ai/audio/task_00117.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.11,2.45,4.9,legitimate_diligent,False
+U006,https://cdn.joshtalks.ai/audio/task_00118.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,8.57,28.37,1.59,legitimate_diligent,True
+U006,https://cdn.joshtalks.ai/audio/task_00119.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,9.89,26.55,1.69,legitimate_diligent,True
+U006,https://cdn.joshtalks.ai/audio/task_00120.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,7.68,23.1,1.95,legitimate_diligent,True
+U007,https://cdn.joshtalks.ai/audio/task_00121.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.21,2.53,4.74,legitimate_diligent,False
+U007,https://cdn.joshtalks.ai/audio/task_00122.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,7.91,20.51,2.19,legitimate_diligent,True
+U007,https://cdn.joshtalks.ai/audio/task_00123.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,5.06,18.36,2.02,legitimate_diligent,True
+U007,https://cdn.joshtalks.ai/audio/task_00124.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,5.12,16.86,2.19,legitimate_diligent,True
+U007,https://cdn.joshtalks.ai/audio/task_00125.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,3.66,5.6,6.96,legitimate_diligent,False
+U007,https://cdn.joshtalks.ai/audio/task_00126.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.05,2.46,4.88,legitimate_diligent,False
+U007,https://cdn.joshtalks.ai/audio/task_00127.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,10.68,25.64,1.76,legitimate_diligent,True
+U007,https://cdn.joshtalks.ai/audio/task_00128.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,7.28,18.1,2.49,legitimate_diligent,True
+U007,https://cdn.joshtalks.ai/audio/task_00129.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.68,3.56,3.37,legitimate_diligent,False
+U007,https://cdn.joshtalks.ai/audio/task_00130.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,9.8,26.91,1.67,legitimate_diligent,True
+U007,https://cdn.joshtalks.ai/audio/task_00131.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,5.96,14.84,2.49,legitimate_diligent,True
+U007,https://cdn.joshtalks.ai/audio/task_00132.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.58,3.8,3.16,legitimate_diligent,False
+U007,https://cdn.joshtalks.ai/audio/task_00133.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,8.2,25.29,1.78,legitimate_diligent,True
+U007,https://cdn.joshtalks.ai/audio/task_00134.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,4.88,18.25,2.03,legitimate_diligent,True
+U007,https://cdn.joshtalks.ai/audio/task_00135.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,3.63,5.17,7.54,legitimate_diligent,False
+U007,https://cdn.joshtalks.ai/audio/task_00136.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,5.52,16.84,2.2,legitimate_diligent,True
+U007,https://cdn.joshtalks.ai/audio/task_00137.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.2,1.78,6.74,legitimate_diligent,False
+U007,https://cdn.joshtalks.ai/audio/task_00138.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,5.31,18.16,2.48,legitimate_diligent,True
+U007,https://cdn.joshtalks.ai/audio/task_00139.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,8.02,22.56,1.64,legitimate_diligent,True
+U007,https://cdn.joshtalks.ai/audio/task_00140.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.0,4.7,8.3,legitimate_diligent,False
+U008,https://cdn.joshtalks.ai/audio/task_00141.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.68,6.45,6.05,legitimate_diligent,False
+U008,https://cdn.joshtalks.ai/audio/task_00142.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.56,2.95,4.07,legitimate_diligent,False
+U008,https://cdn.joshtalks.ai/audio/task_00143.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,10.78,29.48,1.53,legitimate_diligent,True
+U008,https://cdn.joshtalks.ai/audio/task_00144.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.91,6.82,5.72,legitimate_diligent,False
+U008,https://cdn.joshtalks.ai/audio/task_00145.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,6.59,19.2,1.93,legitimate_diligent,True
+U008,https://cdn.joshtalks.ai/audio/task_00146.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,3.69,6.35,6.14,legitimate_diligent,False
+U008,https://cdn.joshtalks.ai/audio/task_00147.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,7.64,19.99,1.85,legitimate_diligent,True
+U008,https://cdn.joshtalks.ai/audio/task_00148.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,8.08,17.74,2.09,legitimate_diligent,True
+U008,https://cdn.joshtalks.ai/audio/task_00149.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,7.57,21.22,2.12,legitimate_diligent,True
+U008,https://cdn.joshtalks.ai/audio/task_00150.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,4.06,14.83,2.49,legitimate_diligent,True
+U008,https://cdn.joshtalks.ai/audio/task_00151.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.77,3.77,3.18,legitimate_diligent,False
+U008,https://cdn.joshtalks.ai/audio/task_00152.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.59,8.08,4.83,legitimate_diligent,False
+U008,https://cdn.joshtalks.ai/audio/task_00153.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,6.77,22.04,1.68,legitimate_diligent,True
+U008,https://cdn.joshtalks.ai/audio/task_00154.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.35,2.71,4.43,legitimate_diligent,False
+U008,https://cdn.joshtalks.ai/audio/task_00155.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.58,7.25,5.38,legitimate_diligent,False
+U008,https://cdn.joshtalks.ai/audio/task_00156.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.38,8.39,4.65,legitimate_diligent,False
+U008,https://cdn.joshtalks.ai/audio/task_00157.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,4.13,14.04,2.64,legitimate_diligent,True
+U008,https://cdn.joshtalks.ai/audio/task_00158.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.39,5.85,6.67,legitimate_diligent,False
+U008,https://cdn.joshtalks.ai/audio/task_00159.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,9.21,18.91,2.38,legitimate_diligent,True
+U008,https://cdn.joshtalks.ai/audio/task_00160.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,3.71,6.3,6.19,legitimate_diligent,False
+U009,https://cdn.joshtalks.ai/audio/task_00161.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.23,8.25,4.73,legitimate_diligent,False
+U009,https://cdn.joshtalks.ai/audio/task_00162.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,4.92,16.59,2.23,legitimate_diligent,True
+U009,https://cdn.joshtalks.ai/audio/task_00163.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,6.99,18.68,1.98,legitimate_diligent,True
+U009,https://cdn.joshtalks.ai/audio/task_00164.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,5.91,17.3,2.14,legitimate_diligent,True
+U009,https://cdn.joshtalks.ai/audio/task_00165.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.22,2.02,5.94,legitimate_diligent,False
+U009,https://cdn.joshtalks.ai/audio/task_00166.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.29,7.65,5.1,legitimate_diligent,False
+U009,https://cdn.joshtalks.ai/audio/task_00167.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,3.98,6.52,5.98,legitimate_diligent,False
+U009,https://cdn.joshtalks.ai/audio/task_00168.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,10.86,24.54,1.83,legitimate_diligent,True
+U009,https://cdn.joshtalks.ai/audio/task_00169.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,8.25,18.65,1.98,legitimate_diligent,True
+U009,https://cdn.joshtalks.ai/audio/task_00170.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,4.06,13.75,2.69,legitimate_diligent,True
+U009,https://cdn.joshtalks.ai/audio/task_00171.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,6.99,17.37,2.13,legitimate_diligent,True
+U009,https://cdn.joshtalks.ai/audio/task_00172.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.08,1.87,6.42,legitimate_diligent,False
+U009,https://cdn.joshtalks.ai/audio/task_00173.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.35,2.05,5.85,legitimate_diligent,False
+U009,https://cdn.joshtalks.ai/audio/task_00174.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.09,2.12,5.66,legitimate_diligent,False
+U009,https://cdn.joshtalks.ai/audio/task_00175.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,8.78,18.3,2.46,legitimate_diligent,True
+U009,https://cdn.joshtalks.ai/audio/task_00176.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,10.69,21.24,2.12,legitimate_diligent,True
+U009,https://cdn.joshtalks.ai/audio/task_00177.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,9.59,27.23,1.65,legitimate_diligent,True
+U009,https://cdn.joshtalks.ai/audio/task_00178.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.44,8.09,4.82,legitimate_diligent,False
+U009,https://cdn.joshtalks.ai/audio/task_00179.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,7.87,21.13,1.75,legitimate_diligent,True
+U009,https://cdn.joshtalks.ai/audio/task_00180.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,5.36,17.31,2.6,legitimate_diligent,True
+U010,https://cdn.joshtalks.ai/audio/task_00181.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.06,6.44,6.06,legitimate_diligent,False
+U010,https://cdn.joshtalks.ai/audio/task_00182.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,3.93,4.61,8.46,legitimate_diligent,False
+U010,https://cdn.joshtalks.ai/audio/task_00183.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.55,2.52,4.76,legitimate_diligent,False
+U010,https://cdn.joshtalks.ai/audio/task_00184.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,7.18,19.72,1.88,legitimate_diligent,True
+U010,https://cdn.joshtalks.ai/audio/task_00185.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.81,9.68,4.03,legitimate_diligent,False
+U010,https://cdn.joshtalks.ai/audio/task_00186.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.56,7.2,5.42,legitimate_diligent,False
+U010,https://cdn.joshtalks.ai/audio/task_00187.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,7.72,15.75,2.35,legitimate_diligent,True
+U010,https://cdn.joshtalks.ai/audio/task_00188.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,6.68,22.44,1.65,legitimate_diligent,True
+U010,https://cdn.joshtalks.ai/audio/task_00189.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.1,2.75,4.36,legitimate_diligent,False
+U010,https://cdn.joshtalks.ai/audio/task_00190.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,6.25,15.27,2.42,legitimate_diligent,True
+U010,https://cdn.joshtalks.ai/audio/task_00191.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,8.5,22.7,1.63,legitimate_diligent,True
+U010,https://cdn.joshtalks.ai/audio/task_00192.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,4.91,19.66,1.88,legitimate_diligent,True
+U010,https://cdn.joshtalks.ai/audio/task_00193.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,8.52,22.58,1.99,legitimate_diligent,True
+U010,https://cdn.joshtalks.ai/audio/task_00194.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,6.59,17.37,2.13,legitimate_diligent,True
+U010,https://cdn.joshtalks.ai/audio/task_00195.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,8.91,23.3,1.93,legitimate_diligent,True
+U010,https://cdn.joshtalks.ai/audio/task_00196.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,7.62,26.86,1.68,legitimate_diligent,True
+U010,https://cdn.joshtalks.ai/audio/task_00197.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.28,2.71,4.43,legitimate_diligent,False
+U010,https://cdn.joshtalks.ai/audio/task_00198.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.32,6.91,5.64,legitimate_diligent,False
+U010,https://cdn.joshtalks.ai/audio/task_00199.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.65,3.15,3.81,legitimate_diligent,False
+U010,https://cdn.joshtalks.ai/audio/task_00200.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,5.14,17.02,2.17,legitimate_diligent,True
+U011,https://cdn.joshtalks.ai/audio/task_00201.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,9.95,24.71,1.82,legitimate_diligent,True
+U011,https://cdn.joshtalks.ai/audio/task_00202.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.33,2.34,5.13,legitimate_diligent,False
+U011,https://cdn.joshtalks.ai/audio/task_00203.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.5,2.89,4.15,legitimate_diligent,False
+U011,https://cdn.joshtalks.ai/audio/task_00204.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,5.79,21.63,2.08,legitimate_diligent,True
+U011,https://cdn.joshtalks.ai/audio/task_00205.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.1,2.85,4.21,legitimate_diligent,False
+U011,https://cdn.joshtalks.ai/audio/task_00206.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.27,6.77,5.76,legitimate_diligent,False
+U011,https://cdn.joshtalks.ai/audio/task_00207.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.07,3.12,3.85,legitimate_diligent,False
+U011,https://cdn.joshtalks.ai/audio/task_00208.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.76,3.1,3.87,legitimate_diligent,False
+U011,https://cdn.joshtalks.ai/audio/task_00209.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,6.29,19.23,1.92,legitimate_diligent,True
+U011,https://cdn.joshtalks.ai/audio/task_00210.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.19,2.47,4.86,legitimate_diligent,False
+U011,https://cdn.joshtalks.ai/audio/task_00211.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,8.05,27.01,1.67,legitimate_diligent,True
+U011,https://cdn.joshtalks.ai/audio/task_00212.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,7.48,20.11,1.84,legitimate_diligent,True
+U011,https://cdn.joshtalks.ai/audio/task_00213.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,6.6,20.26,2.22,legitimate_diligent,True
+U011,https://cdn.joshtalks.ai/audio/task_00214.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,8.48,26.56,1.69,legitimate_diligent,True
+U011,https://cdn.joshtalks.ai/audio/task_00215.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.43,2.78,4.32,legitimate_diligent,False
+U011,https://cdn.joshtalks.ai/audio/task_00216.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,7.26,26.08,1.73,legitimate_diligent,True
+U011,https://cdn.joshtalks.ai/audio/task_00217.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.93,6.9,5.65,legitimate_diligent,False
+U011,https://cdn.joshtalks.ai/audio/task_00218.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,5.93,20.02,1.85,legitimate_diligent,True
+U011,https://cdn.joshtalks.ai/audio/task_00219.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.31,3.15,3.81,legitimate_diligent,False
+U011,https://cdn.joshtalks.ai/audio/task_00220.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.74,5.85,6.67,legitimate_diligent,False
+U012,https://cdn.joshtalks.ai/audio/task_00221.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,6.99,21.98,2.05,legitimate_diligent,True
+U012,https://cdn.joshtalks.ai/audio/task_00222.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,6.87,19.96,1.85,legitimate_diligent,True
+U012,https://cdn.joshtalks.ai/audio/task_00223.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.7,3.26,3.68,legitimate_diligent,False
+U012,https://cdn.joshtalks.ai/audio/task_00224.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,5.52,18.56,1.99,legitimate_diligent,True
+U012,https://cdn.joshtalks.ai/audio/task_00225.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,7.84,20.93,1.77,legitimate_diligent,True
+U012,https://cdn.joshtalks.ai/audio/task_00226.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,6.82,20.18,1.83,legitimate_diligent,True
+U012,https://cdn.joshtalks.ai/audio/task_00227.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,5.22,18.36,2.45,legitimate_diligent,True
+U012,https://cdn.joshtalks.ai/audio/task_00228.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,8.49,21.68,1.71,legitimate_diligent,True
+U012,https://cdn.joshtalks.ai/audio/task_00229.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,7.92,18.56,1.99,legitimate_diligent,True
+U012,https://cdn.joshtalks.ai/audio/task_00230.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.24,8.63,4.52,legitimate_diligent,False
+U012,https://cdn.joshtalks.ai/audio/task_00231.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,5.82,14.7,2.52,legitimate_diligent,True
+U012,https://cdn.joshtalks.ai/audio/task_00232.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,7.47,20.0,2.25,legitimate_diligent,True
+U012,https://cdn.joshtalks.ai/audio/task_00233.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,3.7,6.75,5.78,legitimate_diligent,False
+U012,https://cdn.joshtalks.ai/audio/task_00234.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.74,7.13,5.47,legitimate_diligent,False
+U012,https://cdn.joshtalks.ai/audio/task_00235.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,6.07,20.81,1.78,legitimate_diligent,True
+U012,https://cdn.joshtalks.ai/audio/task_00236.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.72,3.08,3.9,legitimate_diligent,False
+U012,https://cdn.joshtalks.ai/audio/task_00237.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.76,3.6,3.33,legitimate_diligent,False
+U012,https://cdn.joshtalks.ai/audio/task_00238.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.55,2.78,4.32,legitimate_diligent,False
+U012,https://cdn.joshtalks.ai/audio/task_00239.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.68,2.67,4.49,legitimate_diligent,False
+U012,https://cdn.joshtalks.ai/audio/task_00240.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,6.59,19.03,1.94,legitimate_diligent,True
+U013,https://cdn.joshtalks.ai/audio/task_00241.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.22,2.82,4.26,legitimate_diligent,False
+U013,https://cdn.joshtalks.ai/audio/task_00242.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,8.6,24.34,1.52,legitimate_diligent,True
+U013,https://cdn.joshtalks.ai/audio/task_00243.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,7.49,20.23,1.83,legitimate_diligent,True
+U013,https://cdn.joshtalks.ai/audio/task_00244.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.09,8.16,4.78,legitimate_diligent,False
+U013,https://cdn.joshtalks.ai/audio/task_00245.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.07,8.96,4.35,legitimate_diligent,False
+U013,https://cdn.joshtalks.ai/audio/task_00246.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,7.55,16.66,2.22,legitimate_diligent,True
+U013,https://cdn.joshtalks.ai/audio/task_00247.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,3.73,5.64,6.91,legitimate_diligent,False
+U013,https://cdn.joshtalks.ai/audio/task_00248.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.0,7.26,5.37,legitimate_diligent,False
+U013,https://cdn.joshtalks.ai/audio/task_00249.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,6.39,21.78,1.7,legitimate_diligent,True
+U013,https://cdn.joshtalks.ai/audio/task_00250.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,8.11,25.45,1.45,legitimate_diligent,True
+U013,https://cdn.joshtalks.ai/audio/task_00251.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,7.36,16.24,2.28,legitimate_diligent,True
+U013,https://cdn.joshtalks.ai/audio/task_00252.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,5.13,20.18,1.83,legitimate_diligent,True
+U013,https://cdn.joshtalks.ai/audio/task_00253.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.77,3.49,3.44,legitimate_diligent,False
+U013,https://cdn.joshtalks.ai/audio/task_00254.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.01,2.29,5.24,legitimate_diligent,False
+U013,https://cdn.joshtalks.ai/audio/task_00255.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,6.63,22.48,1.65,legitimate_diligent,True
+U013,https://cdn.joshtalks.ai/audio/task_00256.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,7.54,20.23,1.83,legitimate_diligent,True
+U013,https://cdn.joshtalks.ai/audio/task_00257.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,6.97,22.58,1.99,legitimate_diligent,True
+U013,https://cdn.joshtalks.ai/audio/task_00258.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.73,2.95,4.07,legitimate_diligent,False
+U013,https://cdn.joshtalks.ai/audio/task_00259.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,3.61,5.19,7.51,legitimate_diligent,False
+U013,https://cdn.joshtalks.ai/audio/task_00260.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,4.94,15.08,2.45,legitimate_diligent,True
+U014,https://cdn.joshtalks.ai/audio/task_00261.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.3,3.24,3.7,legitimate_diligent,False
+U014,https://cdn.joshtalks.ai/audio/task_00262.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,7.51,20.14,2.23,legitimate_diligent,True
+U014,https://cdn.joshtalks.ai/audio/task_00263.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.52,3.4,3.53,legitimate_diligent,False
+U014,https://cdn.joshtalks.ai/audio/task_00264.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,4.15,14.52,2.55,legitimate_diligent,True
+U014,https://cdn.joshtalks.ai/audio/task_00265.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.64,7.16,5.45,legitimate_diligent,False
+U014,https://cdn.joshtalks.ai/audio/task_00266.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,10.41,23.0,1.96,legitimate_diligent,True
+U014,https://cdn.joshtalks.ai/audio/task_00267.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,4.85,17.2,2.15,legitimate_diligent,True
+U014,https://cdn.joshtalks.ai/audio/task_00268.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.07,2.35,5.11,legitimate_diligent,False
+U014,https://cdn.joshtalks.ai/audio/task_00269.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,4.73,18.56,1.99,legitimate_diligent,True
+U014,https://cdn.joshtalks.ai/audio/task_00270.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,6.23,21.67,2.08,legitimate_diligent,True
+U014,https://cdn.joshtalks.ai/audio/task_00271.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,6.3,20.2,2.23,legitimate_diligent,True
+U014,https://cdn.joshtalks.ai/audio/task_00272.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.47,8.2,4.76,legitimate_diligent,False
+U014,https://cdn.joshtalks.ai/audio/task_00273.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.97,9.2,4.24,legitimate_diligent,False
+U014,https://cdn.joshtalks.ai/audio/task_00274.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,7.47,14.34,2.58,legitimate_diligent,True
+U014,https://cdn.joshtalks.ai/audio/task_00275.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.97,5.78,6.75,legitimate_diligent,False
+U014,https://cdn.joshtalks.ai/audio/task_00276.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.35,8.28,4.71,legitimate_diligent,False
+U014,https://cdn.joshtalks.ai/audio/task_00277.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.36,2.75,4.36,legitimate_diligent,False
+U014,https://cdn.joshtalks.ai/audio/task_00278.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.4,2.74,4.38,legitimate_diligent,False
+U014,https://cdn.joshtalks.ai/audio/task_00279.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,6.81,17.78,2.53,legitimate_diligent,True
+U014,https://cdn.joshtalks.ai/audio/task_00280.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.68,2.72,4.41,legitimate_diligent,False
+U015,https://cdn.joshtalks.ai/audio/task_00281.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.06,2.22,5.41,legitimate_diligent,False
+U015,https://cdn.joshtalks.ai/audio/task_00282.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,5.07,17.31,2.14,legitimate_diligent,True
+U015,https://cdn.joshtalks.ai/audio/task_00283.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,5.71,16.27,2.27,legitimate_diligent,True
+U015,https://cdn.joshtalks.ai/audio/task_00284.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,8.63,22.61,1.99,legitimate_diligent,True
+U015,https://cdn.joshtalks.ai/audio/task_00285.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,9.33,22.09,2.04,legitimate_diligent,True
+U015,https://cdn.joshtalks.ai/audio/task_00286.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.53,7.68,5.08,legitimate_diligent,False
+U015,https://cdn.joshtalks.ai/audio/task_00287.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,5.91,15.28,2.42,legitimate_diligent,True
+U015,https://cdn.joshtalks.ai/audio/task_00288.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.22,7.3,5.34,legitimate_diligent,False
+U015,https://cdn.joshtalks.ai/audio/task_00289.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,4.92,16.51,2.24,legitimate_diligent,True
+U015,https://cdn.joshtalks.ai/audio/task_00290.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.89,7.67,5.08,legitimate_diligent,False
+U015,https://cdn.joshtalks.ai/audio/task_00291.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,7.02,20.91,1.77,legitimate_diligent,True
+U015,https://cdn.joshtalks.ai/audio/task_00292.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.69,3.89,3.08,legitimate_diligent,False
+U015,https://cdn.joshtalks.ai/audio/task_00293.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,6.87,19.28,2.33,legitimate_diligent,True
+U015,https://cdn.joshtalks.ai/audio/task_00294.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.14,6.44,6.06,legitimate_diligent,False
+U015,https://cdn.joshtalks.ai/audio/task_00295.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,7.21,23.0,1.96,legitimate_diligent,True
+U015,https://cdn.joshtalks.ai/audio/task_00296.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.68,3.98,3.02,legitimate_diligent,False
+U015,https://cdn.joshtalks.ai/audio/task_00297.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,9.05,24.83,1.81,legitimate_diligent,True
+U015,https://cdn.joshtalks.ai/audio/task_00298.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,4.13,16.26,2.28,legitimate_diligent,True
+U015,https://cdn.joshtalks.ai/audio/task_00299.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,5.58,13.75,2.69,legitimate_diligent,True
+U015,https://cdn.joshtalks.ai/audio/task_00300.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.06,3.0,4.0,legitimate_diligent,False
+U016,https://cdn.joshtalks.ai/audio/task_00301.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,7.86,18.18,2.04,legitimate_diligent,True
+U016,https://cdn.joshtalks.ai/audio/task_00302.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,4.71,14.29,2.59,legitimate_diligent,True
+U016,https://cdn.joshtalks.ai/audio/task_00303.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,8.58,22.42,2.01,legitimate_diligent,True
+U016,https://cdn.joshtalks.ai/audio/task_00304.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,5.3,17.05,2.64,legitimate_diligent,True
+U016,https://cdn.joshtalks.ai/audio/task_00305.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.39,2.53,4.74,legitimate_diligent,False
+U016,https://cdn.joshtalks.ai/audio/task_00306.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,5.68,17.41,2.58,legitimate_diligent,True
+U016,https://cdn.joshtalks.ai/audio/task_00307.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,7.92,19.54,2.3,legitimate_diligent,True
+U016,https://cdn.joshtalks.ai/audio/task_00308.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.79,2.55,4.71,legitimate_diligent,False
+U016,https://cdn.joshtalks.ai/audio/task_00309.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.42,8.69,4.49,legitimate_diligent,False
+U016,https://cdn.joshtalks.ai/audio/task_00310.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,4.53,14.33,2.58,legitimate_diligent,True
+U016,https://cdn.joshtalks.ai/audio/task_00311.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.43,2.69,4.46,legitimate_diligent,False
+U016,https://cdn.joshtalks.ai/audio/task_00312.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,4.32,13.48,2.74,legitimate_diligent,True
+U016,https://cdn.joshtalks.ai/audio/task_00313.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,6.57,15.51,2.39,legitimate_diligent,True
+U016,https://cdn.joshtalks.ai/audio/task_00314.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.46,3.0,4.0,legitimate_diligent,False
+U016,https://cdn.joshtalks.ai/audio/task_00315.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,6.32,17.72,2.09,legitimate_diligent,True
+U016,https://cdn.joshtalks.ai/audio/task_00316.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,7.76,21.84,2.06,legitimate_diligent,True
+U016,https://cdn.joshtalks.ai/audio/task_00317.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.68,3.01,3.99,legitimate_diligent,False
+U016,https://cdn.joshtalks.ai/audio/task_00318.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,5.47,22.13,2.03,legitimate_diligent,True
+U016,https://cdn.joshtalks.ai/audio/task_00319.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.33,5.78,6.75,legitimate_diligent,False
+U016,https://cdn.joshtalks.ai/audio/task_00320.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,6.89,19.23,1.92,legitimate_diligent,True
+U017,https://cdn.joshtalks.ai/audio/task_00321.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,7.27,22.63,1.63,legitimate_diligent,True
+U017,https://cdn.joshtalks.ai/audio/task_00322.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,3.76,5.01,7.78,legitimate_diligent,False
+U017,https://cdn.joshtalks.ai/audio/task_00323.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.4,8.2,4.76,legitimate_diligent,False
+U017,https://cdn.joshtalks.ai/audio/task_00324.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.37,2.91,4.12,legitimate_diligent,False
+U017,https://cdn.joshtalks.ai/audio/task_00325.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,8.86,24.68,1.82,legitimate_diligent,True
+U017,https://cdn.joshtalks.ai/audio/task_00326.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,4.68,14.31,2.59,legitimate_diligent,True
+U017,https://cdn.joshtalks.ai/audio/task_00327.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,7.58,19.14,1.93,legitimate_diligent,True
+U017,https://cdn.joshtalks.ai/audio/task_00328.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,5.9,14.52,2.55,legitimate_diligent,True
+U017,https://cdn.joshtalks.ai/audio/task_00329.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,4.35,18.65,1.98,legitimate_diligent,True
+U017,https://cdn.joshtalks.ai/audio/task_00330.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,8.56,23.07,1.95,legitimate_diligent,True
+U017,https://cdn.joshtalks.ai/audio/task_00331.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,6.52,20.45,1.81,legitimate_diligent,True
+U017,https://cdn.joshtalks.ai/audio/task_00332.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,6.72,21.43,1.73,legitimate_diligent,True
+U017,https://cdn.joshtalks.ai/audio/task_00333.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.08,2.51,4.78,legitimate_diligent,False
+U017,https://cdn.joshtalks.ai/audio/task_00334.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,6.77,15.69,2.36,legitimate_diligent,True
+U017,https://cdn.joshtalks.ai/audio/task_00335.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.79,3.46,3.47,legitimate_diligent,False
+U017,https://cdn.joshtalks.ai/audio/task_00336.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,5.68,15.88,2.33,legitimate_diligent,True
+U017,https://cdn.joshtalks.ai/audio/task_00337.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,7.06,17.91,2.07,legitimate_diligent,True
+U017,https://cdn.joshtalks.ai/audio/task_00338.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,4.3,15.47,2.39,legitimate_diligent,True
+U017,https://cdn.joshtalks.ai/audio/task_00339.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,5.13,20.48,1.81,legitimate_diligent,True
+U017,https://cdn.joshtalks.ai/audio/task_00340.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,10.24,24.85,1.81,legitimate_diligent,True
+U018,https://cdn.joshtalks.ai/audio/task_00341.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.79,8.02,4.86,legitimate_diligent,False
+U018,https://cdn.joshtalks.ai/audio/task_00342.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.1,2.15,5.58,legitimate_diligent,False
+U018,https://cdn.joshtalks.ai/audio/task_00343.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,7.26,25.03,1.8,legitimate_diligent,True
+U018,https://cdn.joshtalks.ai/audio/task_00344.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,5.56,19.79,2.27,legitimate_diligent,True
+U018,https://cdn.joshtalks.ai/audio/task_00345.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,6.13,14.8,2.5,legitimate_diligent,True
+U018,https://cdn.joshtalks.ai/audio/task_00346.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.15,2.49,4.82,legitimate_diligent,False
+U018,https://cdn.joshtalks.ai/audio/task_00347.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,7.8,19.78,1.87,legitimate_diligent,True
+U018,https://cdn.joshtalks.ai/audio/task_00348.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,5.23,20.25,2.22,legitimate_diligent,True
+U018,https://cdn.joshtalks.ai/audio/task_00349.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.99,6.13,6.36,legitimate_diligent,False
+U018,https://cdn.joshtalks.ai/audio/task_00350.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,9.85,22.28,2.02,legitimate_diligent,True
+U018,https://cdn.joshtalks.ai/audio/task_00351.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.29,3.32,3.61,legitimate_diligent,False
+U018,https://cdn.joshtalks.ai/audio/task_00352.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,6.71,21.26,2.12,legitimate_diligent,True
+U018,https://cdn.joshtalks.ai/audio/task_00353.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,6.44,24.27,1.85,legitimate_diligent,True
+U018,https://cdn.joshtalks.ai/audio/task_00354.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.42,8.42,4.63,legitimate_diligent,False
+U018,https://cdn.joshtalks.ai/audio/task_00355.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.62,3.38,3.55,legitimate_diligent,False
+U018,https://cdn.joshtalks.ai/audio/task_00356.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.77,3.94,3.05,legitimate_diligent,False
+U018,https://cdn.joshtalks.ai/audio/task_00357.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.68,6.84,5.7,legitimate_diligent,False
+U018,https://cdn.joshtalks.ai/audio/task_00358.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,6.5,18.88,1.96,legitimate_diligent,True
+U018,https://cdn.joshtalks.ai/audio/task_00359.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,5.78,16.8,2.2,legitimate_diligent,True
+U018,https://cdn.joshtalks.ai/audio/task_00360.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,5.88,22.76,1.98,legitimate_diligent,True
+U019,https://cdn.joshtalks.ai/audio/task_00361.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.54,9.91,3.94,legitimate_diligent,False
+U019,https://cdn.joshtalks.ai/audio/task_00362.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.04,2.09,5.74,legitimate_diligent,False
+U019,https://cdn.joshtalks.ai/audio/task_00363.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,6.19,18.81,1.97,legitimate_diligent,True
+U019,https://cdn.joshtalks.ai/audio/task_00364.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,7.56,16.65,2.22,legitimate_diligent,True
+U019,https://cdn.joshtalks.ai/audio/task_00365.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.56,2.9,4.14,legitimate_diligent,False
+U019,https://cdn.joshtalks.ai/audio/task_00366.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.49,2.82,4.26,legitimate_diligent,False
+U019,https://cdn.joshtalks.ai/audio/task_00367.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.59,8.66,4.5,legitimate_diligent,False
+U019,https://cdn.joshtalks.ai/audio/task_00368.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,7.54,20.97,2.15,legitimate_diligent,True
+U019,https://cdn.joshtalks.ai/audio/task_00369.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,4.71,17.55,2.11,legitimate_diligent,True
+U019,https://cdn.joshtalks.ai/audio/task_00370.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.05,2.58,4.65,legitimate_diligent,False
+U019,https://cdn.joshtalks.ai/audio/task_00371.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,5.1,16.63,2.71,legitimate_diligent,True
+U019,https://cdn.joshtalks.ai/audio/task_00372.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.23,5.09,7.66,legitimate_diligent,False
+U019,https://cdn.joshtalks.ai/audio/task_00373.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,7.5,19.24,2.34,legitimate_diligent,True
+U019,https://cdn.joshtalks.ai/audio/task_00374.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,4.3,15.51,2.39,legitimate_diligent,True
+U019,https://cdn.joshtalks.ai/audio/task_00375.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,8.32,21.97,2.05,legitimate_diligent,True
+U019,https://cdn.joshtalks.ai/audio/task_00376.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.78,2.57,4.67,legitimate_diligent,False
+U019,https://cdn.joshtalks.ai/audio/task_00377.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,6.05,19.32,1.92,legitimate_diligent,True
+U019,https://cdn.joshtalks.ai/audio/task_00378.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,9.41,19.73,2.28,legitimate_diligent,True
+U019,https://cdn.joshtalks.ai/audio/task_00379.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,7.03,24.19,1.86,legitimate_diligent,True
+U019,https://cdn.joshtalks.ai/audio/task_00380.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.78,2.97,4.04,legitimate_diligent,False
+U020,https://cdn.joshtalks.ai/audio/task_00381.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,3.66,6.32,6.17,legitimate_diligent,False
+U020,https://cdn.joshtalks.ai/audio/task_00382.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,4.91,19.47,1.9,legitimate_diligent,True
+U020,https://cdn.joshtalks.ai/audio/task_00383.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,8.2,23.62,1.57,legitimate_diligent,True
+U020,https://cdn.joshtalks.ai/audio/task_00384.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,7.84,21.06,2.14,legitimate_diligent,True
+U020,https://cdn.joshtalks.ai/audio/task_00385.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,5.61,20.34,1.82,legitimate_diligent,True
+U020,https://cdn.joshtalks.ai/audio/task_00386.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,5.23,17.15,2.16,legitimate_diligent,True
+U020,https://cdn.joshtalks.ai/audio/task_00387.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.59,3.33,3.6,legitimate_diligent,False
+U020,https://cdn.joshtalks.ai/audio/task_00388.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.74,7.58,5.15,legitimate_diligent,False
+U020,https://cdn.joshtalks.ai/audio/task_00389.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,6.6,18.27,2.46,legitimate_diligent,True
+U020,https://cdn.joshtalks.ai/audio/task_00390.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.48,3.26,3.68,legitimate_diligent,False
+U020,https://cdn.joshtalks.ai/audio/task_00391.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,4.46,13.86,2.67,legitimate_diligent,True
+U020,https://cdn.joshtalks.ai/audio/task_00392.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.48,3.05,3.93,legitimate_diligent,False
+U020,https://cdn.joshtalks.ai/audio/task_00393.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,6.01,21.02,1.76,legitimate_diligent,True
+U020,https://cdn.joshtalks.ai/audio/task_00394.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,10.99,28.4,1.58,legitimate_diligent,True
+U020,https://cdn.joshtalks.ai/audio/task_00395.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,4.84,15.64,2.37,legitimate_diligent,True
+U020,https://cdn.joshtalks.ai/audio/task_00396.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.88,7.49,5.21,legitimate_diligent,False
+U020,https://cdn.joshtalks.ai/audio/task_00397.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.03,2.35,5.11,legitimate_diligent,False
+U020,https://cdn.joshtalks.ai/audio/task_00398.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,5.63,15.7,2.36,legitimate_diligent,True
+U020,https://cdn.joshtalks.ai/audio/task_00399.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.2,9.03,4.32,legitimate_diligent,False
+U020,https://cdn.joshtalks.ai/audio/task_00400.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,7.08,18.49,2.0,legitimate_diligent,True
+U021,https://cdn.joshtalks.ai/audio/task_00401.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,5.12,16.76,2.21,legitimate_diligent,True
+U021,https://cdn.joshtalks.ai/audio/task_00402.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.41,2.8,4.29,legitimate_diligent,False
+U021,https://cdn.joshtalks.ai/audio/task_00403.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,7.17,18.6,1.99,legitimate_diligent,True
+U021,https://cdn.joshtalks.ai/audio/task_00404.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.16,1.83,6.56,legitimate_diligent,False
+U021,https://cdn.joshtalks.ai/audio/task_00405.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.75,7.87,4.96,legitimate_diligent,False
+U021,https://cdn.joshtalks.ai/audio/task_00406.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,7.01,20.11,1.84,legitimate_diligent,True
+U021,https://cdn.joshtalks.ai/audio/task_00407.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,8.01,23.24,1.59,legitimate_diligent,True
+U021,https://cdn.joshtalks.ai/audio/task_00408.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.48,7.77,5.02,legitimate_diligent,False
+U021,https://cdn.joshtalks.ai/audio/task_00409.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.48,7.25,5.38,legitimate_diligent,False
+U021,https://cdn.joshtalks.ai/audio/task_00410.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,6.49,19.64,1.88,legitimate_diligent,True
+U021,https://cdn.joshtalks.ai/audio/task_00411.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,5.78,17.45,2.58,legitimate_diligent,True
+U021,https://cdn.joshtalks.ai/audio/task_00412.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.8,3.6,3.33,legitimate_diligent,False
+U021,https://cdn.joshtalks.ai/audio/task_00413.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.66,3.21,3.74,legitimate_diligent,False
+U021,https://cdn.joshtalks.ai/audio/task_00414.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,6.52,18.01,2.05,legitimate_diligent,True
+U021,https://cdn.joshtalks.ai/audio/task_00415.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,8.84,25.3,1.78,legitimate_diligent,True
+U021,https://cdn.joshtalks.ai/audio/task_00416.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.4,3.46,3.47,legitimate_diligent,False
+U021,https://cdn.joshtalks.ai/audio/task_00417.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,5.92,17.07,2.64,legitimate_diligent,True
+U021,https://cdn.joshtalks.ai/audio/task_00418.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.37,8.23,4.74,legitimate_diligent,False
+U021,https://cdn.joshtalks.ai/audio/task_00419.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,5.63,17.9,2.07,legitimate_diligent,True
+U021,https://cdn.joshtalks.ai/audio/task_00420.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.06,7.52,5.19,legitimate_diligent,False
+U022,https://cdn.joshtalks.ai/audio/task_00421.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.98,7.39,5.28,legitimate_diligent,False
+U022,https://cdn.joshtalks.ai/audio/task_00422.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,9.32,27.25,1.65,legitimate_diligent,True
+U022,https://cdn.joshtalks.ai/audio/task_00423.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,5.25,16.69,2.7,legitimate_diligent,True
+U022,https://cdn.joshtalks.ai/audio/task_00424.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,6.59,19.9,2.26,legitimate_diligent,True
+U022,https://cdn.joshtalks.ai/audio/task_00425.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,8.83,24.37,1.85,legitimate_diligent,True
+U022,https://cdn.joshtalks.ai/audio/task_00426.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,6.89,16.34,2.26,legitimate_diligent,True
+U022,https://cdn.joshtalks.ai/audio/task_00427.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.24,1.85,6.49,legitimate_diligent,False
+U022,https://cdn.joshtalks.ai/audio/task_00428.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.33,2.54,4.72,legitimate_diligent,False
+U022,https://cdn.joshtalks.ai/audio/task_00429.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.28,7.36,5.3,legitimate_diligent,False
+U022,https://cdn.joshtalks.ai/audio/task_00430.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,8.39,18.04,2.05,legitimate_diligent,True
+U022,https://cdn.joshtalks.ai/audio/task_00431.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,5.64,15.5,2.9,legitimate_diligent,True
+U022,https://cdn.joshtalks.ai/audio/task_00432.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.2,2.06,5.83,legitimate_diligent,False
+U022,https://cdn.joshtalks.ai/audio/task_00433.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.69,3.58,3.35,legitimate_diligent,False
+U022,https://cdn.joshtalks.ai/audio/task_00434.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.53,9.85,3.96,legitimate_diligent,False
+U022,https://cdn.joshtalks.ai/audio/task_00435.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.41,8.04,4.85,legitimate_diligent,False
+U022,https://cdn.joshtalks.ai/audio/task_00436.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.7,2.8,4.29,legitimate_diligent,False
+U022,https://cdn.joshtalks.ai/audio/task_00437.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.4,2.93,4.1,legitimate_diligent,False
+U022,https://cdn.joshtalks.ai/audio/task_00438.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,4.22,15.35,2.41,legitimate_diligent,True
+U022,https://cdn.joshtalks.ai/audio/task_00439.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.23,1.84,6.52,legitimate_diligent,False
+U022,https://cdn.joshtalks.ai/audio/task_00440.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.71,9.47,4.12,legitimate_diligent,False
+U023,https://cdn.joshtalks.ai/audio/task_00441.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,4.2,14.52,2.55,legitimate_diligent,True
+U023,https://cdn.joshtalks.ai/audio/task_00442.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,6.49,16.61,2.23,legitimate_diligent,True
+U023,https://cdn.joshtalks.ai/audio/task_00443.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,6.68,23.95,1.88,legitimate_diligent,True
+U023,https://cdn.joshtalks.ai/audio/task_00444.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,5.08,14.38,2.57,legitimate_diligent,True
+U023,https://cdn.joshtalks.ai/audio/task_00445.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,6.51,15.51,2.39,legitimate_diligent,True
+U023,https://cdn.joshtalks.ai/audio/task_00446.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,8.05,18.91,2.38,legitimate_diligent,True
+U023,https://cdn.joshtalks.ai/audio/task_00447.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.28,8.85,4.41,legitimate_diligent,False
+U023,https://cdn.joshtalks.ai/audio/task_00448.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.02,7.4,5.27,legitimate_diligent,False
+U023,https://cdn.joshtalks.ai/audio/task_00449.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,6.91,21.36,2.11,legitimate_diligent,True
+U023,https://cdn.joshtalks.ai/audio/task_00450.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,6.67,18.57,1.99,legitimate_diligent,True
+U023,https://cdn.joshtalks.ai/audio/task_00451.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.57,3.17,3.79,legitimate_diligent,False
+U023,https://cdn.joshtalks.ai/audio/task_00452.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,5.49,15.13,2.45,legitimate_diligent,True
+U023,https://cdn.joshtalks.ai/audio/task_00453.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,7.59,21.88,1.69,legitimate_diligent,True
+U023,https://cdn.joshtalks.ai/audio/task_00454.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,7.19,19.12,1.94,legitimate_diligent,True
+U023,https://cdn.joshtalks.ai/audio/task_00455.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,8.47,24.7,1.82,legitimate_diligent,True
+U023,https://cdn.joshtalks.ai/audio/task_00456.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.81,8.17,4.77,legitimate_diligent,False
+U023,https://cdn.joshtalks.ai/audio/task_00457.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.12,2.11,5.69,legitimate_diligent,False
+U023,https://cdn.joshtalks.ai/audio/task_00458.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,5.36,16.07,2.3,legitimate_diligent,True
+U023,https://cdn.joshtalks.ai/audio/task_00459.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.55,3.21,3.74,legitimate_diligent,False
+U023,https://cdn.joshtalks.ai/audio/task_00460.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.7,3.01,3.99,legitimate_diligent,False
+U024,https://cdn.joshtalks.ai/audio/task_00461.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.8,7.91,4.93,legitimate_diligent,False
+U024,https://cdn.joshtalks.ai/audio/task_00462.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.42,2.36,5.08,legitimate_diligent,False
+U024,https://cdn.joshtalks.ai/audio/task_00463.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,7.05,22.55,2.0,legitimate_diligent,True
+U024,https://cdn.joshtalks.ai/audio/task_00464.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,6.75,15.74,2.35,legitimate_diligent,True
+U024,https://cdn.joshtalks.ai/audio/task_00465.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,6.79,26.24,1.71,legitimate_diligent,True
+U024,https://cdn.joshtalks.ai/audio/task_00466.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,7.17,19.88,1.86,legitimate_diligent,True
+U024,https://cdn.joshtalks.ai/audio/task_00467.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.28,3.29,3.65,legitimate_diligent,False
+U024,https://cdn.joshtalks.ai/audio/task_00468.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,5.3,17.2,2.15,legitimate_diligent,True
+U024,https://cdn.joshtalks.ai/audio/task_00469.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.65,3.9,3.08,legitimate_diligent,False
+U024,https://cdn.joshtalks.ai/audio/task_00470.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,4.19,13.75,2.69,legitimate_diligent,True
+U024,https://cdn.joshtalks.ai/audio/task_00471.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.52,2.92,4.11,legitimate_diligent,False
+U024,https://cdn.joshtalks.ai/audio/task_00472.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,6.63,19.04,2.36,legitimate_diligent,True
+U024,https://cdn.joshtalks.ai/audio/task_00473.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,7.27,18.01,2.05,legitimate_diligent,True
+U024,https://cdn.joshtalks.ai/audio/task_00474.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,6.35,16.1,2.8,legitimate_diligent,True
+U024,https://cdn.joshtalks.ai/audio/task_00475.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,7.23,19.17,1.93,legitimate_diligent,True
+U024,https://cdn.joshtalks.ai/audio/task_00476.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,8.84,21.68,1.71,legitimate_diligent,True
+U024,https://cdn.joshtalks.ai/audio/task_00477.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.38,3.01,3.99,legitimate_diligent,False
+U024,https://cdn.joshtalks.ai/audio/task_00478.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,5.28,16.96,2.18,legitimate_diligent,True
+U024,https://cdn.joshtalks.ai/audio/task_00479.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,6.39,23.83,1.89,legitimate_diligent,True
+U024,https://cdn.joshtalks.ai/audio/task_00480.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,8.61,21.72,1.7,legitimate_diligent,True
+U025,https://cdn.joshtalks.ai/audio/task_00481.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.83,7.29,5.35,legitimate_diligent,False
+U025,https://cdn.joshtalks.ai/audio/task_00482.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.15,3.04,3.95,legitimate_diligent,False
+U025,https://cdn.joshtalks.ai/audio/task_00483.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,7.95,18.23,2.03,legitimate_diligent,True
+U025,https://cdn.joshtalks.ai/audio/task_00484.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,8.68,19.94,1.86,legitimate_diligent,True
+U025,https://cdn.joshtalks.ai/audio/task_00485.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,8.15,21.63,2.08,legitimate_diligent,True
+U025,https://cdn.joshtalks.ai/audio/task_00486.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,7.81,17.68,2.55,legitimate_diligent,True
+U025,https://cdn.joshtalks.ai/audio/task_00487.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.33,8.62,4.52,legitimate_diligent,False
+U025,https://cdn.joshtalks.ai/audio/task_00488.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,7.81,21.75,1.7,legitimate_diligent,True
+U025,https://cdn.joshtalks.ai/audio/task_00489.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,3.94,7.36,5.3,legitimate_diligent,False
+U025,https://cdn.joshtalks.ai/audio/task_00490.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.41,2.65,4.53,legitimate_diligent,False
+U025,https://cdn.joshtalks.ai/audio/task_00491.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.95,9.09,4.29,legitimate_diligent,False
+U025,https://cdn.joshtalks.ai/audio/task_00492.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,5.67,17.87,2.07,legitimate_diligent,True
+U025,https://cdn.joshtalks.ai/audio/task_00493.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,5.36,14.42,2.57,legitimate_diligent,True
+U025,https://cdn.joshtalks.ai/audio/task_00494.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,7.12,14.79,2.5,legitimate_diligent,True
+U025,https://cdn.joshtalks.ai/audio/task_00495.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,4.72,19.13,1.93,legitimate_diligent,True
+U025,https://cdn.joshtalks.ai/audio/task_00496.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,7.11,22.41,1.65,legitimate_diligent,True
+U025,https://cdn.joshtalks.ai/audio/task_00497.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,6.77,15.16,2.44,legitimate_diligent,True
+U025,https://cdn.joshtalks.ai/audio/task_00498.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.64,8.27,4.72,legitimate_diligent,False
+U025,https://cdn.joshtalks.ai/audio/task_00499.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,10.48,29.48,1.53,legitimate_diligent,True
+U025,https://cdn.joshtalks.ai/audio/task_00500.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.4,8.7,4.48,legitimate_diligent,False
+U026,https://cdn.joshtalks.ai/audio/task_00501.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,6.86,17.97,2.06,legitimate_diligent,True
+U026,https://cdn.joshtalks.ai/audio/task_00502.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,5.67,23.5,1.91,legitimate_diligent,True
+U026,https://cdn.joshtalks.ai/audio/task_00503.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.93,6.2,6.29,legitimate_diligent,False
+U026,https://cdn.joshtalks.ai/audio/task_00504.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,7.65,24.36,1.85,legitimate_diligent,True
+U026,https://cdn.joshtalks.ai/audio/task_00505.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.07,2.71,4.43,legitimate_diligent,False
+U026,https://cdn.joshtalks.ai/audio/task_00506.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.11,2.45,4.9,legitimate_diligent,False
+U026,https://cdn.joshtalks.ai/audio/task_00507.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,7.77,25.16,1.79,legitimate_diligent,True
+U026,https://cdn.joshtalks.ai/audio/task_00508.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.2,1.92,6.25,legitimate_diligent,False
+U026,https://cdn.joshtalks.ai/audio/task_00509.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,4.7,12.73,2.91,legitimate_diligent,True
+U026,https://cdn.joshtalks.ai/audio/task_00510.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,8.71,21.6,1.71,legitimate_diligent,True
+U026,https://cdn.joshtalks.ai/audio/task_00511.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,5.79,13.93,2.66,legitimate_diligent,True
+U026,https://cdn.joshtalks.ai/audio/task_00512.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.3,2.94,4.08,legitimate_diligent,False
+U026,https://cdn.joshtalks.ai/audio/task_00513.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.3,2.99,4.01,legitimate_diligent,False
+U026,https://cdn.joshtalks.ai/audio/task_00514.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,5.8,17.8,2.53,legitimate_diligent,True
+U026,https://cdn.joshtalks.ai/audio/task_00515.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,7.36,23.51,1.91,legitimate_diligent,True
+U026,https://cdn.joshtalks.ai/audio/task_00516.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,7.9,22.11,1.67,legitimate_diligent,True
+U026,https://cdn.joshtalks.ai/audio/task_00517.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,7.54,19.11,2.35,legitimate_diligent,True
+U026,https://cdn.joshtalks.ai/audio/task_00518.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.28,2.93,4.1,legitimate_diligent,False
+U026,https://cdn.joshtalks.ai/audio/task_00519.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,4.64,17.01,2.18,legitimate_diligent,True
+U026,https://cdn.joshtalks.ai/audio/task_00520.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,5.58,16.2,2.28,legitimate_diligent,True
+U027,https://cdn.joshtalks.ai/audio/task_00521.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.48,2.65,4.53,legitimate_diligent,False
+U027,https://cdn.joshtalks.ai/audio/task_00522.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,6.31,15.22,2.43,legitimate_diligent,True
+U027,https://cdn.joshtalks.ai/audio/task_00523.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,5.13,16.32,2.27,legitimate_diligent,True
+U027,https://cdn.joshtalks.ai/audio/task_00524.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,6.91,22.63,1.99,legitimate_diligent,True
+U027,https://cdn.joshtalks.ai/audio/task_00525.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,5.07,20.6,1.8,legitimate_diligent,True
+U027,https://cdn.joshtalks.ai/audio/task_00526.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,6.33,16.04,2.81,legitimate_diligent,True
+U027,https://cdn.joshtalks.ai/audio/task_00527.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,10.28,28.79,1.56,legitimate_diligent,True
+U027,https://cdn.joshtalks.ai/audio/task_00528.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.44,2.32,5.17,legitimate_diligent,False
+U027,https://cdn.joshtalks.ai/audio/task_00529.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.63,2.86,4.2,legitimate_diligent,False
+U027,https://cdn.joshtalks.ai/audio/task_00530.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.25,5.76,6.77,legitimate_diligent,False
+U027,https://cdn.joshtalks.ai/audio/task_00531.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.62,7.84,4.97,legitimate_diligent,False
+U027,https://cdn.joshtalks.ai/audio/task_00532.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.73,3.78,3.17,legitimate_diligent,False
+U027,https://cdn.joshtalks.ai/audio/task_00533.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,8.18,20.14,2.23,legitimate_diligent,True
+U027,https://cdn.joshtalks.ai/audio/task_00534.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,6.91,22.72,1.63,legitimate_diligent,True
+U027,https://cdn.joshtalks.ai/audio/task_00535.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,6.91,17.33,2.14,legitimate_diligent,True
+U027,https://cdn.joshtalks.ai/audio/task_00536.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.54,3.47,3.46,legitimate_diligent,False
+U027,https://cdn.joshtalks.ai/audio/task_00537.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.51,8.62,4.52,legitimate_diligent,False
+U027,https://cdn.joshtalks.ai/audio/task_00538.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.7,7.98,4.89,legitimate_diligent,False
+U027,https://cdn.joshtalks.ai/audio/task_00539.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,5.45,17.4,2.13,legitimate_diligent,True
+U027,https://cdn.joshtalks.ai/audio/task_00540.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.73,3.66,3.28,legitimate_diligent,False
+U028,https://cdn.joshtalks.ai/audio/task_00541.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.73,3.58,3.35,legitimate_diligent,False
+U028,https://cdn.joshtalks.ai/audio/task_00542.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.37,2.71,4.43,legitimate_diligent,False
+U028,https://cdn.joshtalks.ai/audio/task_00543.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,6.31,15.47,2.39,legitimate_diligent,True
+U028,https://cdn.joshtalks.ai/audio/task_00544.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.61,2.62,4.58,legitimate_diligent,False
+U028,https://cdn.joshtalks.ai/audio/task_00545.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,5.86,15.89,2.33,legitimate_diligent,True
+U028,https://cdn.joshtalks.ai/audio/task_00546.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,3.54,5.8,6.72,legitimate_diligent,False
+U028,https://cdn.joshtalks.ai/audio/task_00547.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.24,2.12,5.66,legitimate_diligent,False
+U028,https://cdn.joshtalks.ai/audio/task_00548.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,10.0,26.1,1.72,legitimate_diligent,True
+U028,https://cdn.joshtalks.ai/audio/task_00549.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,5.16,20.44,1.81,legitimate_diligent,True
+U028,https://cdn.joshtalks.ai/audio/task_00550.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.37,2.82,4.26,legitimate_diligent,False
+U028,https://cdn.joshtalks.ai/audio/task_00551.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.3,8.27,4.72,legitimate_diligent,False
+U028,https://cdn.joshtalks.ai/audio/task_00552.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,10.94,29.33,1.53,legitimate_diligent,True
+U028,https://cdn.joshtalks.ai/audio/task_00553.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,8.75,23.73,1.56,legitimate_diligent,True
+U028,https://cdn.joshtalks.ai/audio/task_00554.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.11,2.1,5.71,legitimate_diligent,False
+U028,https://cdn.joshtalks.ai/audio/task_00555.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,3.52,5.46,7.14,legitimate_diligent,False
+U028,https://cdn.joshtalks.ai/audio/task_00556.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,8.83,28.86,1.56,legitimate_diligent,True
+U028,https://cdn.joshtalks.ai/audio/task_00557.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.01,2.24,5.36,legitimate_diligent,False
+U028,https://cdn.joshtalks.ai/audio/task_00558.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,6.88,20.82,1.78,legitimate_diligent,True
+U028,https://cdn.joshtalks.ai/audio/task_00559.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,6.76,18.96,1.95,legitimate_diligent,True
+U028,https://cdn.joshtalks.ai/audio/task_00560.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,3.77,4.64,8.41,legitimate_diligent,False
+U029,https://cdn.joshtalks.ai/audio/task_00561.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.05,6.67,5.85,legitimate_diligent,False
+U029,https://cdn.joshtalks.ai/audio/task_00562.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.06,2.63,4.56,legitimate_diligent,False
+U029,https://cdn.joshtalks.ai/audio/task_00563.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.98,7.97,4.89,legitimate_diligent,False
+U029,https://cdn.joshtalks.ai/audio/task_00564.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,7.44,22.71,1.63,legitimate_diligent,True
+U029,https://cdn.joshtalks.ai/audio/task_00565.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,6.32,17.4,2.13,legitimate_diligent,True
+U029,https://cdn.joshtalks.ai/audio/task_00566.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,7.66,20.02,1.85,legitimate_diligent,True
+U029,https://cdn.joshtalks.ai/audio/task_00567.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,6.55,17.18,2.15,legitimate_diligent,True
+U029,https://cdn.joshtalks.ai/audio/task_00568.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,10.51,26.95,1.67,legitimate_diligent,True
+U029,https://cdn.joshtalks.ai/audio/task_00569.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,7.85,16.74,2.69,legitimate_diligent,True
+U029,https://cdn.joshtalks.ai/audio/task_00570.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,8.05,17.64,2.1,legitimate_diligent,True
+U029,https://cdn.joshtalks.ai/audio/task_00571.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,4.07,12.14,3.05,legitimate_diligent,True
+U029,https://cdn.joshtalks.ai/audio/task_00572.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.74,3.12,3.85,legitimate_diligent,False
+U029,https://cdn.joshtalks.ai/audio/task_00573.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,10.01,27.31,1.65,legitimate_diligent,True
+U029,https://cdn.joshtalks.ai/audio/task_00574.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,5.73,19.91,1.86,legitimate_diligent,True
+U029,https://cdn.joshtalks.ai/audio/task_00575.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,6.75,17.69,2.09,legitimate_diligent,True
+U029,https://cdn.joshtalks.ai/audio/task_00576.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.19,2.35,5.11,legitimate_diligent,False
+U029,https://cdn.joshtalks.ai/audio/task_00577.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,10.73,27.3,1.65,legitimate_diligent,True
+U029,https://cdn.joshtalks.ai/audio/task_00578.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,7.35,20.3,1.82,legitimate_diligent,True
+U029,https://cdn.joshtalks.ai/audio/task_00579.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.39,7.8,5.0,legitimate_diligent,False
+U029,https://cdn.joshtalks.ai/audio/task_00580.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,8.96,22.25,2.02,legitimate_diligent,True
+U030,https://cdn.joshtalks.ai/audio/task_00581.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.28,6.19,6.3,legitimate_diligent,False
+U030,https://cdn.joshtalks.ai/audio/task_00582.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.35,6.97,5.6,legitimate_diligent,False
+U030,https://cdn.joshtalks.ai/audio/task_00583.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,8.74,22.52,1.64,legitimate_diligent,True
+U030,https://cdn.joshtalks.ai/audio/task_00584.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,5.1,15.16,2.44,legitimate_diligent,True
+U030,https://cdn.joshtalks.ai/audio/task_00585.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,8.07,17.36,2.59,legitimate_diligent,True
+U030,https://cdn.joshtalks.ai/audio/task_00586.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,5.56,18.14,2.48,legitimate_diligent,True
+U030,https://cdn.joshtalks.ai/audio/task_00587.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.01,2.54,4.72,legitimate_diligent,False
+U030,https://cdn.joshtalks.ai/audio/task_00588.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,10.43,29.03,1.55,legitimate_diligent,True
+U030,https://cdn.joshtalks.ai/audio/task_00589.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.21,6.51,5.99,legitimate_diligent,False
+U030,https://cdn.joshtalks.ai/audio/task_00590.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,6.22,15.85,2.33,legitimate_diligent,True
+U030,https://cdn.joshtalks.ai/audio/task_00591.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.24,2.68,4.48,legitimate_diligent,False
+U030,https://cdn.joshtalks.ai/audio/task_00592.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.3,7.99,4.88,legitimate_diligent,False
+U030,https://cdn.joshtalks.ai/audio/task_00593.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.09,2.74,4.38,legitimate_diligent,False
+U030,https://cdn.joshtalks.ai/audio/task_00594.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,7.79,21.65,1.71,legitimate_diligent,True
+U030,https://cdn.joshtalks.ai/audio/task_00595.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.27,3.25,3.69,legitimate_diligent,False
+U030,https://cdn.joshtalks.ai/audio/task_00596.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,5.82,22.29,2.02,legitimate_diligent,True
+U030,https://cdn.joshtalks.ai/audio/task_00597.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.7,6.1,6.39,legitimate_diligent,False
+U030,https://cdn.joshtalks.ai/audio/task_00598.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,5.31,17.27,2.14,legitimate_diligent,True
+U030,https://cdn.joshtalks.ai/audio/task_00599.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,9.69,21.83,2.06,legitimate_diligent,True
+U030,https://cdn.joshtalks.ai/audio/task_00600.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.29,2.71,4.43,legitimate_diligent,False
+U031,https://cdn.joshtalks.ai/audio/task_00601.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,6.08,17.19,2.62,legitimate_diligent,True
+U031,https://cdn.joshtalks.ai/audio/task_00602.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.75,3.27,3.67,legitimate_diligent,False
+U031,https://cdn.joshtalks.ai/audio/task_00603.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,8.19,21.33,1.73,legitimate_diligent,True
+U031,https://cdn.joshtalks.ai/audio/task_00604.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.11,2.06,5.83,legitimate_diligent,False
+U031,https://cdn.joshtalks.ai/audio/task_00605.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.29,8.37,4.66,legitimate_diligent,False
+U031,https://cdn.joshtalks.ai/audio/task_00606.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,7.88,21.75,2.07,legitimate_diligent,True
+U031,https://cdn.joshtalks.ai/audio/task_00607.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.43,2.97,4.04,legitimate_diligent,False
+U031,https://cdn.joshtalks.ai/audio/task_00608.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,8.56,22.19,2.03,legitimate_diligent,True
+U031,https://cdn.joshtalks.ai/audio/task_00609.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.14,7.38,5.28,legitimate_diligent,False
+U031,https://cdn.joshtalks.ai/audio/task_00610.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,7.03,20.48,1.81,legitimate_diligent,True
+U031,https://cdn.joshtalks.ai/audio/task_00611.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,8.35,17.23,2.15,legitimate_diligent,True
+U031,https://cdn.joshtalks.ai/audio/task_00612.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,5.0,17.41,2.13,legitimate_diligent,True
+U031,https://cdn.joshtalks.ai/audio/task_00613.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,6.33,19.39,2.32,legitimate_diligent,True
+U031,https://cdn.joshtalks.ai/audio/task_00614.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,9.14,25.7,1.75,legitimate_diligent,True
+U031,https://cdn.joshtalks.ai/audio/task_00615.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.08,2.81,4.27,legitimate_diligent,False
+U031,https://cdn.joshtalks.ai/audio/task_00616.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,8.24,20.7,1.79,legitimate_diligent,True
+U031,https://cdn.joshtalks.ai/audio/task_00617.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,6.05,16.5,2.24,legitimate_diligent,True
+U031,https://cdn.joshtalks.ai/audio/task_00618.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.08,2.5,4.8,legitimate_diligent,False
+U031,https://cdn.joshtalks.ai/audio/task_00619.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,5.85,16.08,2.3,legitimate_diligent,True
+U031,https://cdn.joshtalks.ai/audio/task_00620.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,6.92,17.43,2.12,legitimate_diligent,True
+U032,https://cdn.joshtalks.ai/audio/task_00621.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.79,7.21,5.41,legitimate_diligent,False
+U032,https://cdn.joshtalks.ai/audio/task_00622.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.77,2.92,4.11,legitimate_diligent,False
+U032,https://cdn.joshtalks.ai/audio/task_00623.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,3.97,6.43,6.07,legitimate_diligent,False
+U032,https://cdn.joshtalks.ai/audio/task_00624.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,10.3,24.46,1.84,legitimate_diligent,True
+U032,https://cdn.joshtalks.ai/audio/task_00625.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,7.67,20.01,1.85,legitimate_diligent,True
+U032,https://cdn.joshtalks.ai/audio/task_00626.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,7.1,20.54,1.8,legitimate_diligent,True
+U032,https://cdn.joshtalks.ai/audio/task_00627.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,5.47,15.28,2.42,legitimate_diligent,True
+U032,https://cdn.joshtalks.ai/audio/task_00628.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.42,3.06,3.92,legitimate_diligent,False
+U032,https://cdn.joshtalks.ai/audio/task_00629.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,7.36,18.66,2.41,legitimate_diligent,True
+U032,https://cdn.joshtalks.ai/audio/task_00630.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.49,3.42,3.51,legitimate_diligent,False
+U032,https://cdn.joshtalks.ai/audio/task_00631.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,8.13,21.9,1.69,legitimate_diligent,True
+U032,https://cdn.joshtalks.ai/audio/task_00632.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,4.53,13.17,2.81,legitimate_diligent,True
+U032,https://cdn.joshtalks.ai/audio/task_00633.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.78,6.62,5.89,legitimate_diligent,False
+U032,https://cdn.joshtalks.ai/audio/task_00634.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.34,2.77,4.33,legitimate_diligent,False
+U032,https://cdn.joshtalks.ai/audio/task_00635.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.89,6.97,5.6,legitimate_diligent,False
+U032,https://cdn.joshtalks.ai/audio/task_00636.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,7.79,22.79,1.62,legitimate_diligent,True
+U032,https://cdn.joshtalks.ai/audio/task_00637.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,6.68,16.54,2.24,legitimate_diligent,True
+U032,https://cdn.joshtalks.ai/audio/task_00638.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,8.03,23.75,1.89,legitimate_diligent,True
+U032,https://cdn.joshtalks.ai/audio/task_00639.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.57,2.66,4.51,legitimate_diligent,False
+U032,https://cdn.joshtalks.ai/audio/task_00640.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,5.19,17.89,2.52,legitimate_diligent,True
+U033,https://cdn.joshtalks.ai/audio/task_00641.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,5.01,17.45,2.12,legitimate_diligent,True
+U033,https://cdn.joshtalks.ai/audio/task_00642.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,9.46,26.11,1.72,legitimate_diligent,True
+U033,https://cdn.joshtalks.ai/audio/task_00643.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,7.08,18.29,2.02,legitimate_diligent,True
+U033,https://cdn.joshtalks.ai/audio/task_00644.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,6.44,20.8,1.78,legitimate_diligent,True
+U033,https://cdn.joshtalks.ai/audio/task_00645.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.44,2.9,4.14,legitimate_diligent,False
+U033,https://cdn.joshtalks.ai/audio/task_00646.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.24,7.73,5.05,legitimate_diligent,False
+U033,https://cdn.joshtalks.ai/audio/task_00647.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,7.88,20.39,1.81,legitimate_diligent,True
+U033,https://cdn.joshtalks.ai/audio/task_00648.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,7.99,20.89,1.77,legitimate_diligent,True
+U033,https://cdn.joshtalks.ai/audio/task_00649.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,9.13,26.62,1.69,legitimate_diligent,True
+U033,https://cdn.joshtalks.ai/audio/task_00650.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.13,1.93,6.22,legitimate_diligent,False
+U033,https://cdn.joshtalks.ai/audio/task_00651.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.51,8.43,4.63,legitimate_diligent,False
+U033,https://cdn.joshtalks.ai/audio/task_00652.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,8.23,23.31,1.93,legitimate_diligent,True
+U033,https://cdn.joshtalks.ai/audio/task_00653.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,6.58,20.24,1.83,legitimate_diligent,True
+U033,https://cdn.joshtalks.ai/audio/task_00654.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,5.11,16.66,2.22,legitimate_diligent,True
+U033,https://cdn.joshtalks.ai/audio/task_00655.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,8.97,21.09,1.75,legitimate_diligent,True
+U033,https://cdn.joshtalks.ai/audio/task_00656.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.12,7.21,5.41,legitimate_diligent,False
+U033,https://cdn.joshtalks.ai/audio/task_00657.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.39,2.64,4.55,legitimate_diligent,False
+U033,https://cdn.joshtalks.ai/audio/task_00658.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.3,2.65,4.53,legitimate_diligent,False
+U033,https://cdn.joshtalks.ai/audio/task_00659.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,6.31,20.18,1.83,legitimate_diligent,True
+U033,https://cdn.joshtalks.ai/audio/task_00660.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,6.05,18.14,2.04,legitimate_diligent,True
+U034,https://cdn.joshtalks.ai/audio/task_00661.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,7.79,20.77,1.78,legitimate_diligent,True
+U034,https://cdn.joshtalks.ai/audio/task_00662.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,7.83,20.73,1.78,legitimate_diligent,True
+U034,https://cdn.joshtalks.ai/audio/task_00663.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.66,2.98,4.03,legitimate_diligent,False
+U034,https://cdn.joshtalks.ai/audio/task_00664.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,5.52,17.66,2.1,legitimate_diligent,True
+U034,https://cdn.joshtalks.ai/audio/task_00665.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.63,3.77,3.18,legitimate_diligent,False
+U034,https://cdn.joshtalks.ai/audio/task_00666.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,4.95,16.83,2.2,legitimate_diligent,True
+U034,https://cdn.joshtalks.ai/audio/task_00667.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,8.68,19.03,1.94,legitimate_diligent,True
+U034,https://cdn.joshtalks.ai/audio/task_00668.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.16,2.27,5.29,legitimate_diligent,False
+U034,https://cdn.joshtalks.ai/audio/task_00669.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,4.72,15.75,2.35,legitimate_diligent,True
+U034,https://cdn.joshtalks.ai/audio/task_00670.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,5.13,18.62,1.99,legitimate_diligent,True
+U034,https://cdn.joshtalks.ai/audio/task_00671.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,3.63,6.22,6.27,legitimate_diligent,False
+U034,https://cdn.joshtalks.ai/audio/task_00672.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.57,5.42,7.2,legitimate_diligent,False
+U034,https://cdn.joshtalks.ai/audio/task_00673.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.69,5.79,6.74,legitimate_diligent,False
+U034,https://cdn.joshtalks.ai/audio/task_00674.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.01,2.75,4.36,legitimate_diligent,False
+U034,https://cdn.joshtalks.ai/audio/task_00675.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.56,2.74,4.38,legitimate_diligent,False
+U034,https://cdn.joshtalks.ai/audio/task_00676.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,7.79,16.9,2.19,legitimate_diligent,True
+U034,https://cdn.joshtalks.ai/audio/task_00677.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,4.62,18.16,2.04,legitimate_diligent,True
+U034,https://cdn.joshtalks.ai/audio/task_00678.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.1,7.74,5.04,legitimate_diligent,False
+U034,https://cdn.joshtalks.ai/audio/task_00679.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,5.05,18.49,2.43,legitimate_diligent,True
+U034,https://cdn.joshtalks.ai/audio/task_00680.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.07,6.44,6.06,legitimate_diligent,False
+U035,https://cdn.joshtalks.ai/audio/task_00681.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.69,2.38,5.04,legitimate_diligent,False
+U035,https://cdn.joshtalks.ai/audio/task_00682.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,7.15,21.52,1.72,legitimate_diligent,True
+U035,https://cdn.joshtalks.ai/audio/task_00683.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,7.56,19.4,1.91,legitimate_diligent,True
+U035,https://cdn.joshtalks.ai/audio/task_00684.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.88,7.74,5.04,legitimate_diligent,False
+U035,https://cdn.joshtalks.ai/audio/task_00685.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,8.32,20.16,1.84,legitimate_diligent,True
+U035,https://cdn.joshtalks.ai/audio/task_00686.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,8.64,20.71,2.17,legitimate_diligent,True
+U035,https://cdn.joshtalks.ai/audio/task_00687.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,8.03,20.02,1.85,legitimate_diligent,True
+U035,https://cdn.joshtalks.ai/audio/task_00688.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.09,2.51,4.78,legitimate_diligent,False
+U035,https://cdn.joshtalks.ai/audio/task_00689.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,10.33,21.27,2.12,legitimate_diligent,True
+U035,https://cdn.joshtalks.ai/audio/task_00690.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,4.59,17.2,2.15,legitimate_diligent,True
+U035,https://cdn.joshtalks.ai/audio/task_00691.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,6.46,16.75,2.21,legitimate_diligent,True
+U035,https://cdn.joshtalks.ai/audio/task_00692.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,4.58,13.07,2.83,legitimate_diligent,True
+U035,https://cdn.joshtalks.ai/audio/task_00693.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,8.65,22.74,1.63,legitimate_diligent,True
+U035,https://cdn.joshtalks.ai/audio/task_00694.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,6.83,18.16,2.04,legitimate_diligent,True
+U035,https://cdn.joshtalks.ai/audio/task_00695.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.07,2.53,4.74,legitimate_diligent,False
+U035,https://cdn.joshtalks.ai/audio/task_00696.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,4.38,17.04,2.17,legitimate_diligent,True
+U035,https://cdn.joshtalks.ai/audio/task_00697.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.84,7.11,5.49,legitimate_diligent,False
+U035,https://cdn.joshtalks.ai/audio/task_00698.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,5.9,20.11,1.84,legitimate_diligent,True
+U035,https://cdn.joshtalks.ai/audio/task_00699.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,3.64,4.76,8.19,legitimate_diligent,False
+U035,https://cdn.joshtalks.ai/audio/task_00700.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.49,2.71,4.43,legitimate_diligent,False
+U036,https://cdn.joshtalks.ai/audio/task_00701.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,3.8,1.38,28.26,speed_runner,False
+U036,https://cdn.joshtalks.ai/audio/task_00702.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,No,5.24,2.28,15.79,speed_runner,True
+U036,https://cdn.joshtalks.ai/audio/task_00703.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,No,8.1,3.21,12.15,speed_runner,True
+U036,https://cdn.joshtalks.ai/audio/task_00704.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளை காலை நான் மதுரைக்கு போகிறேன்,No,4.75,0.89,32.58,speed_runner,True
+U036,https://cdn.joshtalks.ai/audio/task_00705.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளை காலை நான் மதுரைக்கு போகிறேன்,No,7.3,1.35,21.48,speed_runner,True
+U036,https://cdn.joshtalks.ai/audio/task_00706.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,No,6.01,1.68,21.43,speed_runner,True
+U036,https://cdn.joshtalks.ai/audio/task_00707.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,No,5.38,1.96,19.9,speed_runner,True
+U036,https://cdn.joshtalks.ai/audio/task_00708.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,No,8.77,2.62,14.89,speed_runner,True
+U036,https://cdn.joshtalks.ai/audio/task_00709.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,No,7.16,2.15,18.14,speed_runner,True
+U036,https://cdn.joshtalks.ai/audio/task_00710.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,No,6.0,1.18,33.05,speed_runner,True
+U036,https://cdn.joshtalks.ai/audio/task_00711.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,No,8.52,3.0,12.0,speed_runner,True
+U036,https://cdn.joshtalks.ai/audio/task_00712.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,No,5.53,1.67,21.56,speed_runner,True
+U036,https://cdn.joshtalks.ai/audio/task_00713.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,No,8.36,1.28,28.12,speed_runner,True
+U036,https://cdn.joshtalks.ai/audio/task_00714.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,No,6.62,1.75,20.57,speed_runner,True
+U036,https://cdn.joshtalks.ai/audio/task_00715.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,3.95,1.73,22.54,speed_runner,False
+U036,https://cdn.joshtalks.ai/audio/task_00716.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,No,6.99,2.97,12.12,speed_runner,True
+U036,https://cdn.joshtalks.ai/audio/task_00717.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.18,0.26,46.15,speed_runner,False
+U036,https://cdn.joshtalks.ai/audio/task_00718.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளை காலை நான் மதுரைக்கு போகிறேன்,No,5.22,0.9,32.22,speed_runner,True
+U036,https://cdn.joshtalks.ai/audio/task_00719.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளை காலை நான் மதுரைக்கு போகிறேன்,No,4.54,1.6,18.12,speed_runner,True
+U036,https://cdn.joshtalks.ai/audio/task_00720.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,No,5.31,2.08,17.31,speed_runner,True
+U037,https://cdn.joshtalks.ai/audio/task_00721.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,No,8.79,1.5,24.0,speed_runner,True
+U037,https://cdn.joshtalks.ai/audio/task_00722.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.69,0.65,18.46,speed_runner,False
+U037,https://cdn.joshtalks.ai/audio/task_00723.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளை காலை நான் மதுரைக்கு போகிறேன்,No,5.47,1.73,16.76,speed_runner,True
+U037,https://cdn.joshtalks.ai/audio/task_00724.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,No,6.16,1.46,24.66,speed_runner,True
+U037,https://cdn.joshtalks.ai/audio/task_00725.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளை காலை நான் மதுரைக்கு போகிறேன்,No,7.33,1.63,17.79,speed_runner,True
+U037,https://cdn.joshtalks.ai/audio/task_00726.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளை காலை நான் மதுரைக்கு போகிறேன்,No,6.66,1.98,14.65,speed_runner,True
+U037,https://cdn.joshtalks.ai/audio/task_00727.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.33,1.67,23.35,speed_runner,False
+U037,https://cdn.joshtalks.ai/audio/task_00728.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,3.88,1.67,23.35,speed_runner,False
+U037,https://cdn.joshtalks.ai/audio/task_00729.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,No,5.55,1.41,25.53,speed_runner,True
+U037,https://cdn.joshtalks.ai/audio/task_00730.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,No,8.78,1.32,27.27,speed_runner,True
+U037,https://cdn.joshtalks.ai/audio/task_00731.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.68,0.62,19.35,speed_runner,False
+U037,https://cdn.joshtalks.ai/audio/task_00732.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,No,5.42,2.41,14.94,speed_runner,True
+U037,https://cdn.joshtalks.ai/audio/task_00733.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.39,0.23,52.17,speed_runner,False
+U037,https://cdn.joshtalks.ai/audio/task_00734.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.28,0.94,41.49,speed_runner,False
+U037,https://cdn.joshtalks.ai/audio/task_00735.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.74,1.76,22.16,speed_runner,False
+U037,https://cdn.joshtalks.ai/audio/task_00736.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளை காலை நான் மதுரைக்கு போகிறேன்,No,6.06,2.27,12.78,speed_runner,True
+U037,https://cdn.joshtalks.ai/audio/task_00737.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,No,5.57,1.06,36.79,speed_runner,True
+U037,https://cdn.joshtalks.ai/audio/task_00738.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.06,0.34,35.29,speed_runner,False
+U037,https://cdn.joshtalks.ai/audio/task_00739.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.53,0.29,41.38,speed_runner,False
+U037,https://cdn.joshtalks.ai/audio/task_00740.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளை காலை நான் மதுரைக்கு போகிறேன்,No,5.17,1.26,23.02,speed_runner,True
+U038,https://cdn.joshtalks.ai/audio/task_00741.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.56,0.58,20.69,speed_runner,False
+U038,https://cdn.joshtalks.ai/audio/task_00742.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளை காலை நான் மதுரைக்கு போகிறேன்,No,6.04,1.33,21.8,speed_runner,True
+U038,https://cdn.joshtalks.ai/audio/task_00743.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,3.84,1.46,26.71,speed_runner,False
+U038,https://cdn.joshtalks.ai/audio/task_00744.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,No,5.2,1.04,34.62,speed_runner,True
+U038,https://cdn.joshtalks.ai/audio/task_00745.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.25,0.23,52.17,speed_runner,False
+U038,https://cdn.joshtalks.ai/audio/task_00746.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளை காலை நான் மதுரைக்கு போகிறேன்,No,8.34,1.77,16.38,speed_runner,True
+U038,https://cdn.joshtalks.ai/audio/task_00747.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளை காலை நான் மதுரைக்கு போகிறேன்,No,6.09,2.47,11.74,speed_runner,True
+U038,https://cdn.joshtalks.ai/audio/task_00748.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,No,5.21,1.85,19.46,speed_runner,True
+U038,https://cdn.joshtalks.ai/audio/task_00749.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,No,5.24,2.1,18.57,speed_runner,True
+U038,https://cdn.joshtalks.ai/audio/task_00750.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளை காலை நான் மதுரைக்கு போகிறேன்,No,4.67,1.7,17.06,speed_runner,True
+U038,https://cdn.joshtalks.ai/audio/task_00751.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளை காலை நான் மதுரைக்கு போகிறேன்,No,5.78,0.95,30.53,speed_runner,True
+U038,https://cdn.joshtalks.ai/audio/task_00752.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளை காலை நான் மதுரைக்கு போகிறேன்,No,5.17,2.31,12.55,speed_runner,True
+U038,https://cdn.joshtalks.ai/audio/task_00753.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,No,8.78,3.57,10.08,speed_runner,True
+U038,https://cdn.joshtalks.ai/audio/task_00754.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,No,9.49,2.13,18.31,speed_runner,True
+U038,https://cdn.joshtalks.ai/audio/task_00755.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.08,0.42,28.57,speed_runner,False
+U038,https://cdn.joshtalks.ai/audio/task_00756.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,No,4.55,1.82,19.78,speed_runner,True
+U038,https://cdn.joshtalks.ai/audio/task_00757.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,3.83,1.52,25.66,speed_runner,False
+U038,https://cdn.joshtalks.ai/audio/task_00758.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளை காலை நான் மதுரைக்கு போகிறேன்,No,7.09,3.06,9.48,speed_runner,True
+U038,https://cdn.joshtalks.ai/audio/task_00759.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,No,7.12,1.62,22.22,speed_runner,True
+U038,https://cdn.joshtalks.ai/audio/task_00760.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,No,4.6,0.78,46.15,speed_runner,True
+U039,https://cdn.joshtalks.ai/audio/task_00761.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.65,0.29,41.38,speed_runner,False
+U039,https://cdn.joshtalks.ai/audio/task_00762.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளை காலை நான் மதுரைக்கு போகிறேன்,No,4.55,1.97,14.72,speed_runner,True
+U039,https://cdn.joshtalks.ai/audio/task_00763.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,No,5.26,1.69,21.3,speed_runner,True
+U039,https://cdn.joshtalks.ai/audio/task_00764.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.4,0.37,32.43,speed_runner,False
+U039,https://cdn.joshtalks.ai/audio/task_00765.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.14,0.24,50.0,speed_runner,False
+U039,https://cdn.joshtalks.ai/audio/task_00766.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.19,1.19,32.77,speed_runner,False
+U039,https://cdn.joshtalks.ai/audio/task_00767.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,3.59,1.21,32.23,speed_runner,False
+U039,https://cdn.joshtalks.ai/audio/task_00768.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.12,1.53,25.49,speed_runner,False
+U039,https://cdn.joshtalks.ai/audio/task_00769.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,No,7.87,1.39,28.06,speed_runner,True
+U039,https://cdn.joshtalks.ai/audio/task_00770.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.11,0.23,52.17,speed_runner,False
+U039,https://cdn.joshtalks.ai/audio/task_00771.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,No,6.49,2.91,13.4,speed_runner,True
+U039,https://cdn.joshtalks.ai/audio/task_00772.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,No,9.77,4.37,8.92,speed_runner,True
+U039,https://cdn.joshtalks.ai/audio/task_00773.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளை காலை நான் மதுரைக்கு போகிறேன்,No,6.16,2.37,12.24,speed_runner,True
+U039,https://cdn.joshtalks.ai/audio/task_00774.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளை காலை நான் மதுரைக்கு போகிறேன்,No,8.11,2.44,11.89,speed_runner,True
+U039,https://cdn.joshtalks.ai/audio/task_00775.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.22,0.19,63.16,speed_runner,False
+U039,https://cdn.joshtalks.ai/audio/task_00776.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,No,6.31,2.64,14.77,speed_runner,True
+U039,https://cdn.joshtalks.ai/audio/task_00777.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளை காலை நான் மதுரைக்கு போகிறேன்,No,4.26,1.91,15.18,speed_runner,True
+U039,https://cdn.joshtalks.ai/audio/task_00778.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,No,7.14,2.32,16.81,speed_runner,True
+U039,https://cdn.joshtalks.ai/audio/task_00779.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.93,1.07,36.45,speed_runner,False
+U039,https://cdn.joshtalks.ai/audio/task_00780.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.17,1.65,23.64,speed_runner,False
+U040,https://cdn.joshtalks.ai/audio/task_00781.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,No,7.94,3.45,10.43,speed_runner,True
+U040,https://cdn.joshtalks.ai/audio/task_00782.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,No,10.08,3.92,9.95,speed_runner,True
+U040,https://cdn.joshtalks.ai/audio/task_00783.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளை காலை நான் மதுரைக்கு போகிறேன்,No,8.21,3.67,7.9,speed_runner,True
+U040,https://cdn.joshtalks.ai/audio/task_00784.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,3.94,1.29,30.23,speed_runner,False
+U040,https://cdn.joshtalks.ai/audio/task_00785.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளை காலை நான் மதுரைக்கு போகிறேன்,No,8.11,1.29,22.48,speed_runner,True
+U040,https://cdn.joshtalks.ai/audio/task_00786.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளை காலை நான் மதுரைக்கு போகிறேன்,No,8.26,2.64,10.98,speed_runner,True
+U040,https://cdn.joshtalks.ai/audio/task_00787.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,No,10.69,4.29,9.09,speed_runner,True
+U040,https://cdn.joshtalks.ai/audio/task_00788.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.43,0.29,41.38,speed_runner,False
+U040,https://cdn.joshtalks.ai/audio/task_00789.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,No,4.91,1.08,33.33,speed_runner,True
+U040,https://cdn.joshtalks.ai/audio/task_00790.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,3.55,1.04,37.5,speed_runner,False
+U040,https://cdn.joshtalks.ai/audio/task_00791.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளை காலை நான் மதுரைக்கு போகிறேன்,No,8.13,1.71,16.96,speed_runner,True
+U040,https://cdn.joshtalks.ai/audio/task_00792.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.35,0.88,44.32,speed_runner,False
+U040,https://cdn.joshtalks.ai/audio/task_00793.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளை காலை நான் மதுரைக்கு போகிறேன்,No,4.27,0.83,34.94,speed_runner,True
+U040,https://cdn.joshtalks.ai/audio/task_00794.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.44,2.2,17.73,speed_runner,False
+U040,https://cdn.joshtalks.ai/audio/task_00795.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளை காலை நான் மதுரைக்கு போகிறேன்,No,8.32,2.18,13.3,speed_runner,True
+U040,https://cdn.joshtalks.ai/audio/task_00796.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.47,0.37,32.43,speed_runner,False
+U040,https://cdn.joshtalks.ai/audio/task_00797.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளை காலை நான் மதுரைக்கு போகிறேன்,No,4.61,0.91,31.87,speed_runner,True
+U040,https://cdn.joshtalks.ai/audio/task_00798.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.63,0.71,16.9,speed_runner,False
+U040,https://cdn.joshtalks.ai/audio/task_00799.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளை காலை நான் மதுரைக்கு போகிறேன்,No,4.78,2.11,13.74,speed_runner,True
+U040,https://cdn.joshtalks.ai/audio/task_00800.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,No,9.72,2.11,18.48,speed_runner,True
+U041,https://cdn.joshtalks.ai/audio/task_00801.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,No,9.89,10.02,3.89,rubber_stamper,True
+U041,https://cdn.joshtalks.ai/audio/task_00802.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளை காலை நான் மதுரைக்கு போகிறேன்,No,4.57,5.11,5.68,rubber_stamper,True
+U041,https://cdn.joshtalks.ai/audio/task_00803.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,No,7.35,8.81,4.43,rubber_stamper,True
+U041,https://cdn.joshtalks.ai/audio/task_00804.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,No,5.19,5.61,6.95,rubber_stamper,True
+U041,https://cdn.joshtalks.ai/audio/task_00805.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,No,6.33,6.77,5.76,rubber_stamper,True
+U041,https://cdn.joshtalks.ai/audio/task_00806.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.11,1.25,9.6,rubber_stamper,False
+U041,https://cdn.joshtalks.ai/audio/task_00807.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.37,4.35,8.97,rubber_stamper,False
+U041,https://cdn.joshtalks.ai/audio/task_00808.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,No,8.2,9.03,3.99,rubber_stamper,True
+U041,https://cdn.joshtalks.ai/audio/task_00809.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளை காலை நான் மதுரைக்கு போகிறேன்,No,6.01,5.89,4.92,rubber_stamper,True
+U041,https://cdn.joshtalks.ai/audio/task_00810.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.23,5.26,7.41,rubber_stamper,False
+U041,https://cdn.joshtalks.ai/audio/task_00811.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,No,7.74,7.08,5.08,rubber_stamper,True
+U041,https://cdn.joshtalks.ai/audio/task_00812.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.59,1.89,6.35,rubber_stamper,False
+U041,https://cdn.joshtalks.ai/audio/task_00813.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.39,1.41,8.51,rubber_stamper,False
+U041,https://cdn.joshtalks.ai/audio/task_00814.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,No,7.25,8.33,4.68,rubber_stamper,True
+U041,https://cdn.joshtalks.ai/audio/task_00815.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,No,8.91,9.86,3.96,rubber_stamper,True
+U041,https://cdn.joshtalks.ai/audio/task_00816.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.63,5.28,7.39,rubber_stamper,False
+U041,https://cdn.joshtalks.ai/audio/task_00817.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,No,5.83,5.8,6.21,rubber_stamper,True
+U041,https://cdn.joshtalks.ai/audio/task_00818.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,No,4.83,4.59,7.84,rubber_stamper,True
+U041,https://cdn.joshtalks.ai/audio/task_00819.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.13,1.04,11.54,rubber_stamper,False
+U041,https://cdn.joshtalks.ai/audio/task_00820.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,No,6.02,7.2,5.0,rubber_stamper,True
+U042,https://cdn.joshtalks.ai/audio/task_00821.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.56,1.61,7.45,rubber_stamper,False
+U042,https://cdn.joshtalks.ai/audio/task_00822.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.02,5.17,7.54,rubber_stamper,False
+U042,https://cdn.joshtalks.ai/audio/task_00823.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,No,4.96,4.77,7.55,rubber_stamper,True
+U042,https://cdn.joshtalks.ai/audio/task_00824.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.52,4.82,8.09,rubber_stamper,False
+U042,https://cdn.joshtalks.ai/audio/task_00825.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,No,6.59,6.49,6.01,rubber_stamper,True
+U042,https://cdn.joshtalks.ai/audio/task_00826.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,3.74,3.81,10.24,rubber_stamper,False
+U042,https://cdn.joshtalks.ai/audio/task_00827.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,No,10.04,9.5,4.11,rubber_stamper,True
+U042,https://cdn.joshtalks.ai/audio/task_00828.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளை காலை நான் மதுரைக்கு போகிறேன்,No,4.02,3.72,7.8,rubber_stamper,True
+U042,https://cdn.joshtalks.ai/audio/task_00829.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,No,7.88,7.32,5.33,rubber_stamper,True
+U042,https://cdn.joshtalks.ai/audio/task_00830.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,3.93,3.88,10.05,rubber_stamper,False
+U042,https://cdn.joshtalks.ai/audio/task_00831.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,No,6.63,6.2,5.81,rubber_stamper,True
+U042,https://cdn.joshtalks.ai/audio/task_00832.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.38,1.61,7.45,rubber_stamper,False
+U042,https://cdn.joshtalks.ai/audio/task_00833.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளை காலை நான் மதுரைக்கு போகிறேன்,No,4.41,4.69,6.18,rubber_stamper,True
+U042,https://cdn.joshtalks.ai/audio/task_00834.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.43,4.49,8.69,rubber_stamper,False
+U042,https://cdn.joshtalks.ai/audio/task_00835.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.61,4.51,8.65,rubber_stamper,False
+U042,https://cdn.joshtalks.ai/audio/task_00836.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.21,1.39,8.63,rubber_stamper,False
+U042,https://cdn.joshtalks.ai/audio/task_00837.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,No,5.37,6.04,6.46,rubber_stamper,True
+U042,https://cdn.joshtalks.ai/audio/task_00838.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,No,4.89,4.91,7.33,rubber_stamper,True
+U042,https://cdn.joshtalks.ai/audio/task_00839.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,No,7.48,8.43,4.63,rubber_stamper,True
+U042,https://cdn.joshtalks.ai/audio/task_00840.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.88,5.62,6.94,rubber_stamper,False
+U043,https://cdn.joshtalks.ai/audio/task_00841.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,No,7.51,7.97,4.89,rubber_stamper,True
+U043,https://cdn.joshtalks.ai/audio/task_00842.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.46,1.42,8.45,rubber_stamper,False
+U043,https://cdn.joshtalks.ai/audio/task_00843.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளை காலை நான் மதுரைக்கு போகிறேன்,No,4.36,5.1,5.69,rubber_stamper,True
+U043,https://cdn.joshtalks.ai/audio/task_00844.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,No,6.76,7.91,4.55,rubber_stamper,True
+U043,https://cdn.joshtalks.ai/audio/task_00845.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,No,9.07,9.85,3.96,rubber_stamper,True
+U043,https://cdn.joshtalks.ai/audio/task_00846.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,No,8.77,9.07,3.97,rubber_stamper,True
+U043,https://cdn.joshtalks.ai/audio/task_00847.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.93,6.78,5.75,rubber_stamper,False
+U043,https://cdn.joshtalks.ai/audio/task_00848.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,3.61,3.33,11.71,rubber_stamper,False
+U043,https://cdn.joshtalks.ai/audio/task_00849.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.16,1.33,9.02,rubber_stamper,False
+U043,https://cdn.joshtalks.ai/audio/task_00850.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.59,5.46,7.14,rubber_stamper,False
+U043,https://cdn.joshtalks.ai/audio/task_00851.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,No,4.89,5.22,6.9,rubber_stamper,True
+U043,https://cdn.joshtalks.ai/audio/task_00852.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,No,6.96,6.84,5.7,rubber_stamper,True
+U043,https://cdn.joshtalks.ai/audio/task_00853.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.73,1.56,7.69,rubber_stamper,False
+U043,https://cdn.joshtalks.ai/audio/task_00854.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,No,8.53,9.68,4.03,rubber_stamper,True
+U043,https://cdn.joshtalks.ai/audio/task_00855.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,No,6.36,6.01,5.99,rubber_stamper,True
+U043,https://cdn.joshtalks.ai/audio/task_00856.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,No,8.5,10.11,3.86,rubber_stamper,True
+U043,https://cdn.joshtalks.ai/audio/task_00857.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,No,8.66,9.26,3.89,rubber_stamper,True
+U043,https://cdn.joshtalks.ai/audio/task_00858.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,No,8.04,9.33,3.86,rubber_stamper,True
+U043,https://cdn.joshtalks.ai/audio/task_00859.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளை காலை நான் மதுரைக்கு போகிறேன்,No,7.95,7.78,3.73,rubber_stamper,True
+U043,https://cdn.joshtalks.ai/audio/task_00860.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.46,1.52,7.89,rubber_stamper,False
+U044,https://cdn.joshtalks.ai/audio/task_00861.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.19,3.95,9.87,rubber_stamper,False
+U044,https://cdn.joshtalks.ai/audio/task_00862.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,No,9.08,9.27,4.21,rubber_stamper,True
+U044,https://cdn.joshtalks.ai/audio/task_00863.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.71,1.71,7.02,rubber_stamper,False
+U044,https://cdn.joshtalks.ai/audio/task_00864.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,3.62,3.77,10.34,rubber_stamper,False
+U044,https://cdn.joshtalks.ai/audio/task_00865.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளை காலை நான் மதுரைக்கு போகிறேன்,No,8.04,7.28,3.98,rubber_stamper,True
+U044,https://cdn.joshtalks.ai/audio/task_00866.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளை காலை நான் மதுரைக்கு போகிறேன்,No,5.4,6.23,4.65,rubber_stamper,True
+U044,https://cdn.joshtalks.ai/audio/task_00867.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,No,8.88,8.6,4.19,rubber_stamper,True
+U044,https://cdn.joshtalks.ai/audio/task_00868.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளை காலை நான் மதுரைக்கு போகிறேன்,No,8.38,8.66,3.35,rubber_stamper,True
+U044,https://cdn.joshtalks.ai/audio/task_00869.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளை காலை நான் மதுரைக்கு போகிறேன்,No,5.21,5.34,5.43,rubber_stamper,True
+U044,https://cdn.joshtalks.ai/audio/task_00870.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,No,5.35,5.15,6.99,rubber_stamper,True
+U044,https://cdn.joshtalks.ai/audio/task_00871.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.59,1.79,6.7,rubber_stamper,False
+U044,https://cdn.joshtalks.ai/audio/task_00872.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளை காலை நான் மதுரைக்கு போகிறேன்,No,7.69,8.11,3.58,rubber_stamper,True
+U044,https://cdn.joshtalks.ai/audio/task_00873.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,3.66,4.07,9.58,rubber_stamper,False
+U044,https://cdn.joshtalks.ai/audio/task_00874.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.11,1.28,9.38,rubber_stamper,False
+U044,https://cdn.joshtalks.ai/audio/task_00875.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,No,5.17,4.95,7.88,rubber_stamper,True
+U044,https://cdn.joshtalks.ai/audio/task_00876.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.59,5.45,7.16,rubber_stamper,False
+U044,https://cdn.joshtalks.ai/audio/task_00877.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.04,1.05,11.43,rubber_stamper,False
+U044,https://cdn.joshtalks.ai/audio/task_00878.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.18,4.79,8.14,rubber_stamper,False
+U044,https://cdn.joshtalks.ai/audio/task_00879.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,No,7.38,8.69,4.49,rubber_stamper,True
+U044,https://cdn.joshtalks.ai/audio/task_00880.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,No,5.59,5.85,6.15,rubber_stamper,True
+U045,https://cdn.joshtalks.ai/audio/task_00881.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.14,1.32,9.09,rubber_stamper,False
+U045,https://cdn.joshtalks.ai/audio/task_00882.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,No,8.31,8.34,4.68,rubber_stamper,True
+U045,https://cdn.joshtalks.ai/audio/task_00883.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளை காலை நான் மதுரைக்கு போகிறேன்,No,7.37,8.16,3.55,rubber_stamper,True
+U045,https://cdn.joshtalks.ai/audio/task_00884.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளை காலை நான் மதுரைக்கு போகிறேன்,No,4.12,3.77,7.69,rubber_stamper,True
+U045,https://cdn.joshtalks.ai/audio/task_00885.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,No,9.68,9.33,4.18,rubber_stamper,True
+U045,https://cdn.joshtalks.ai/audio/task_00886.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.12,5.65,6.9,rubber_stamper,False
+U045,https://cdn.joshtalks.ai/audio/task_00887.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளை காலை நான் மதுரைக்கு போகிறேன்,No,6.93,7.3,3.97,rubber_stamper,True
+U045,https://cdn.joshtalks.ai/audio/task_00888.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,No,6.63,6.23,5.78,rubber_stamper,True
+U045,https://cdn.joshtalks.ai/audio/task_00889.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.0,4.51,8.65,rubber_stamper,False
+U045,https://cdn.joshtalks.ai/audio/task_00890.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளை காலை நான் மதுரைக்கு போகிறேன்,No,6.74,7.97,3.64,rubber_stamper,True
+U045,https://cdn.joshtalks.ai/audio/task_00891.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளை காலை நான் மதுரைக்கு போகிறேன்,No,5.91,5.99,4.84,rubber_stamper,True
+U045,https://cdn.joshtalks.ai/audio/task_00892.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளை காலை நான் மதுரைக்கு போகிறேன்,No,6.07,5.86,4.95,rubber_stamper,True
+U045,https://cdn.joshtalks.ai/audio/task_00893.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளை காலை நான் மதுரைக்கு போகிறேன்,No,7.05,8.09,3.58,rubber_stamper,True
+U045,https://cdn.joshtalks.ai/audio/task_00894.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.47,1.33,9.02,rubber_stamper,False
+U045,https://cdn.joshtalks.ai/audio/task_00895.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளை காலை நான் மதுரைக்கு போகிறேன்,No,6.53,7.04,4.12,rubber_stamper,True
+U045,https://cdn.joshtalks.ai/audio/task_00896.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளை காலை நான் மதுரைக்கு போகிறேன்,No,5.34,4.98,5.82,rubber_stamper,True
+U045,https://cdn.joshtalks.ai/audio/task_00897.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,No,6.01,5.91,6.09,rubber_stamper,True
+U045,https://cdn.joshtalks.ai/audio/task_00898.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளை காலை நான் மதுரைக்கு போகிறேன்,No,7.88,7.71,3.76,rubber_stamper,True
+U045,https://cdn.joshtalks.ai/audio/task_00899.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளை காலை நான் மதுரைக்கு போகிறேன்,No,4.85,5.12,5.66,rubber_stamper,True
+U045,https://cdn.joshtalks.ai/audio/task_00900.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.75,6.56,5.95,rubber_stamper,False
+U046,https://cdn.joshtalks.ai/audio/task_00901.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ ,Yes,7.42,1.25,36.0,velocity_spammer,True
+U046,https://cdn.joshtalks.ai/audio/task_00902.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ ,Yes,7.45,2.2,20.45,velocity_spammer,True
+U046,https://cdn.joshtalks.ai/audio/task_00903.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल xyz junk,Yes,1.32,1.83,10.38,velocity_spammer,False
+U046,https://cdn.joshtalks.ai/audio/task_00904.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये xyz junk,Yes,9.9,1.28,40.62,velocity_spammer,True
+U046,https://cdn.joshtalks.ai/audio/task_00905.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये xyz junk,Yes,8.83,1.47,35.37,velocity_spammer,True
+U046,https://cdn.joshtalks.ai/audio/task_00906.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க xyz junk,Yes,6.28,1.98,22.22,velocity_spammer,True
+U046,https://cdn.joshtalks.ai/audio/task_00907.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ ,Yes,6.09,0.94,47.87,velocity_spammer,True
+U046,https://cdn.joshtalks.ai/audio/task_00908.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க xyz junk,Yes,7.26,1.58,27.85,velocity_spammer,True
+U046,https://cdn.joshtalks.ai/audio/task_00909.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ ,Yes,6.94,1.11,40.54,velocity_spammer,True
+U046,https://cdn.joshtalks.ai/audio/task_00910.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ ,Yes,5.89,2.04,22.06,velocity_spammer,True
+U046,https://cdn.joshtalks.ai/audio/task_00911.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ ,Yes,6.76,1.99,22.61,velocity_spammer,True
+U046,https://cdn.joshtalks.ai/audio/task_00912.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ ,Yes,8.48,1.67,26.95,velocity_spammer,True
+U046,https://cdn.joshtalks.ai/audio/task_00913.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ ,Yes,4.75,2.01,22.39,velocity_spammer,False
+U046,https://cdn.joshtalks.ai/audio/task_00914.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ ,Yes,5.86,2.02,22.28,velocity_spammer,True
+U046,https://cdn.joshtalks.ai/audio/task_00915.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें xyz junk,Yes,4.36,2.18,21.1,velocity_spammer,False
+U046,https://cdn.joshtalks.ai/audio/task_00916.wav,हाँ जी बिल्कुल,हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ ,Yes,1.11,2.01,22.39,velocity_spammer,False
+U046,https://cdn.joshtalks.ai/audio/task_00917.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ ,Yes,6.69,1.68,26.79,velocity_spammer,True
+U046,https://cdn.joshtalks.ai/audio/task_00918.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई xyz junk,Yes,4.52,1.18,37.29,velocity_spammer,True
+U046,https://cdn.joshtalks.ai/audio/task_00919.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें xyz junk,Yes,4.94,1.02,45.1,velocity_spammer,False
+U046,https://cdn.joshtalks.ai/audio/task_00920.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ ,Yes,5.08,1.41,31.91,velocity_spammer,True
+U047,https://cdn.joshtalks.ai/audio/task_00921.wav,हाँ जी बिल्कुल,हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ ,Yes,1.77,1.34,33.58,velocity_spammer,False
+U047,https://cdn.joshtalks.ai/audio/task_00922.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें xyz junk,Yes,5.33,2.13,21.6,velocity_spammer,False
+U047,https://cdn.joshtalks.ai/audio/task_00923.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये xyz junk,Yes,6.14,1.75,29.71,velocity_spammer,True
+U047,https://cdn.joshtalks.ai/audio/task_00924.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ ,Yes,4.07,2.03,22.17,velocity_spammer,False
+U047,https://cdn.joshtalks.ai/audio/task_00925.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ ,Yes,6.23,1.62,27.78,velocity_spammer,True
+U047,https://cdn.joshtalks.ai/audio/task_00926.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई xyz junk,Yes,5.84,1.21,36.36,velocity_spammer,True
+U047,https://cdn.joshtalks.ai/audio/task_00927.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये xyz junk,Yes,8.14,1.41,36.88,velocity_spammer,True
+U047,https://cdn.joshtalks.ai/audio/task_00928.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ ,Yes,4.36,2.06,21.84,velocity_spammer,False
+U047,https://cdn.joshtalks.ai/audio/task_00929.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें xyz junk,Yes,3.91,2.07,22.22,velocity_spammer,False
+U047,https://cdn.joshtalks.ai/audio/task_00930.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ ,Yes,5.53,1.82,24.73,velocity_spammer,True
+U047,https://cdn.joshtalks.ai/audio/task_00931.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ ,Yes,7.15,1.04,43.27,velocity_spammer,True
+U047,https://cdn.joshtalks.ai/audio/task_00932.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई xyz junk,Yes,6.19,1.7,25.88,velocity_spammer,True
+U047,https://cdn.joshtalks.ai/audio/task_00933.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये xyz junk,Yes,5.29,2.19,23.74,velocity_spammer,True
+U047,https://cdn.joshtalks.ai/audio/task_00934.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ ,Yes,4.72,0.96,46.88,velocity_spammer,True
+U047,https://cdn.joshtalks.ai/audio/task_00935.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ ,Yes,6.96,1.46,30.82,velocity_spammer,True
+U047,https://cdn.joshtalks.ai/audio/task_00936.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई xyz junk,Yes,5.86,1.73,25.43,velocity_spammer,True
+U047,https://cdn.joshtalks.ai/audio/task_00937.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ ,Yes,6.8,1.78,25.28,velocity_spammer,True
+U047,https://cdn.joshtalks.ai/audio/task_00938.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ ,Yes,6.8,1.66,27.11,velocity_spammer,True
+U047,https://cdn.joshtalks.ai/audio/task_00939.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई xyz junk,Yes,6.74,1.65,26.67,velocity_spammer,True
+U047,https://cdn.joshtalks.ai/audio/task_00940.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ ,Yes,10.84,1.3,34.62,velocity_spammer,True
+U048,https://cdn.joshtalks.ai/audio/task_00941.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ ,Yes,3.6,1.49,30.2,velocity_spammer,False
+U048,https://cdn.joshtalks.ai/audio/task_00942.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल xyz junk,Yes,1.26,0.8,23.75,velocity_spammer,False
+U048,https://cdn.joshtalks.ai/audio/task_00943.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ ,Yes,8.26,1.74,25.86,velocity_spammer,True
+U048,https://cdn.joshtalks.ai/audio/task_00944.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई xyz junk,Yes,8.01,0.91,48.35,velocity_spammer,True
+U048,https://cdn.joshtalks.ai/audio/task_00945.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க xyz junk,Yes,6.9,1.44,30.56,velocity_spammer,True
+U048,https://cdn.joshtalks.ai/audio/task_00946.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ ,Yes,6.09,0.94,47.87,velocity_spammer,True
+U048,https://cdn.joshtalks.ai/audio/task_00947.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई xyz junk,Yes,8.34,1.3,33.85,velocity_spammer,True
+U048,https://cdn.joshtalks.ai/audio/task_00948.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल xyz junk,Yes,1.59,0.93,20.43,velocity_spammer,False
+U048,https://cdn.joshtalks.ai/audio/task_00949.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई xyz junk,Yes,4.54,0.99,44.44,velocity_spammer,True
+U048,https://cdn.joshtalks.ai/audio/task_00950.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க xyz junk,Yes,5.61,1.41,31.21,velocity_spammer,True
+U048,https://cdn.joshtalks.ai/audio/task_00951.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ ,Yes,6.18,1.28,35.16,velocity_spammer,True
+U048,https://cdn.joshtalks.ai/audio/task_00952.wav,हाँ जी बिल्कुल,हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ ,Yes,1.77,1.18,38.14,velocity_spammer,False
+U048,https://cdn.joshtalks.ai/audio/task_00953.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल xyz junk,Yes,1.64,1.71,11.11,velocity_spammer,False
+U048,https://cdn.joshtalks.ai/audio/task_00954.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई xyz junk,Yes,5.1,1.82,24.18,velocity_spammer,True
+U048,https://cdn.joshtalks.ai/audio/task_00955.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ ,Yes,3.76,2.08,21.63,velocity_spammer,False
+U048,https://cdn.joshtalks.ai/audio/task_00956.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ ,Yes,9.07,1.05,42.86,velocity_spammer,True
+U048,https://cdn.joshtalks.ai/audio/task_00957.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க xyz junk,Yes,6.75,2.01,21.89,velocity_spammer,True
+U048,https://cdn.joshtalks.ai/audio/task_00958.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें xyz junk,Yes,4.71,1.48,31.08,velocity_spammer,False
+U048,https://cdn.joshtalks.ai/audio/task_00959.wav,हाँ जी बिल्कुल,हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ हाँ ,Yes,1.04,1.17,38.46,velocity_spammer,False
+U048,https://cdn.joshtalks.ai/audio/task_00960.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये xyz junk,Yes,9.61,1.61,32.3,velocity_spammer,True
+U049,https://cdn.joshtalks.ai/audio/task_00961.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,6.34,6.48,5.71,high_speed_expert,True
+U049,https://cdn.joshtalks.ai/audio/task_00962.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,5.57,5.66,7.95,high_speed_expert,True
+U049,https://cdn.joshtalks.ai/audio/task_00963.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.7,4.77,8.18,high_speed_expert,False
+U049,https://cdn.joshtalks.ai/audio/task_00964.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.12,1.18,10.17,high_speed_expert,False
+U049,https://cdn.joshtalks.ai/audio/task_00965.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,5.33,5.39,8.35,high_speed_expert,True
+U049,https://cdn.joshtalks.ai/audio/task_00966.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.76,4.6,8.48,high_speed_expert,False
+U049,https://cdn.joshtalks.ai/audio/task_00967.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.7,1.48,8.11,high_speed_expert,False
+U049,https://cdn.joshtalks.ai/audio/task_00968.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.26,1.18,10.17,high_speed_expert,False
+U049,https://cdn.joshtalks.ai/audio/task_00969.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,4.23,3.83,9.66,high_speed_expert,True
+U049,https://cdn.joshtalks.ai/audio/task_00970.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.32,1.2,10.0,high_speed_expert,False
+U049,https://cdn.joshtalks.ai/audio/task_00971.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.36,1.35,8.89,high_speed_expert,False
+U049,https://cdn.joshtalks.ai/audio/task_00972.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,8.35,8.03,4.61,high_speed_expert,True
+U049,https://cdn.joshtalks.ai/audio/task_00973.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,8.91,9.23,4.01,high_speed_expert,True
+U049,https://cdn.joshtalks.ai/audio/task_00974.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,4.96,4.73,7.82,high_speed_expert,True
+U049,https://cdn.joshtalks.ai/audio/task_00975.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,8.29,8.76,5.14,high_speed_expert,True
+U049,https://cdn.joshtalks.ai/audio/task_00976.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,10.78,10.88,4.14,high_speed_expert,True
+U049,https://cdn.joshtalks.ai/audio/task_00977.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,8.37,8.48,5.31,high_speed_expert,True
+U049,https://cdn.joshtalks.ai/audio/task_00978.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.76,1.66,7.23,high_speed_expert,False
+U049,https://cdn.joshtalks.ai/audio/task_00979.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,8.17,8.67,4.27,high_speed_expert,True
+U049,https://cdn.joshtalks.ai/audio/task_00980.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,6.52,6.55,5.65,high_speed_expert,True
+U050,https://cdn.joshtalks.ai/audio/task_00981.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.57,1.48,8.11,high_speed_expert,False
+U050,https://cdn.joshtalks.ai/audio/task_00982.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.09,1.13,10.62,high_speed_expert,False
+U050,https://cdn.joshtalks.ai/audio/task_00983.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,3.51,3.3,11.82,high_speed_expert,False
+U050,https://cdn.joshtalks.ai/audio/task_00984.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,6.46,6.09,6.08,high_speed_expert,True
+U050,https://cdn.joshtalks.ai/audio/task_00985.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,4.71,4.2,8.81,high_speed_expert,True
+U050,https://cdn.joshtalks.ai/audio/task_00986.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.55,5.75,6.78,high_speed_expert,False
+U050,https://cdn.joshtalks.ai/audio/task_00987.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.09,1.09,11.01,high_speed_expert,False
+U050,https://cdn.joshtalks.ai/audio/task_00988.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,3.8,4.04,9.65,high_speed_expert,False
+U050,https://cdn.joshtalks.ai/audio/task_00989.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.64,4.85,8.04,high_speed_expert,False
+U050,https://cdn.joshtalks.ai/audio/task_00990.wav,நாளை காலை நான் மதுரைக்கு போகிறேன்,நாளைக்கு காலையில நான் மதுரைக்கு வாரேனுங்க,Yes,4.48,4.27,8.67,high_speed_expert,True
+U050,https://cdn.joshtalks.ai/audio/task_00991.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,5.74,6.16,7.31,high_speed_expert,True
+U050,https://cdn.joshtalks.ai/audio/task_00992.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.53,1.67,7.19,high_speed_expert,False
+U050,https://cdn.joshtalks.ai/audio/task_00993.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.91,5.03,7.75,high_speed_expert,False
+U050,https://cdn.joshtalks.ai/audio/task_00994.wav,हम कल सुबह बनारस जा रहे हैं स्टेशन पर मिलेंगे,हम कल सुबह बनारस जा रहल बानी स्टेशन पर भेंट होई,Yes,6.99,6.7,5.52,high_speed_expert,True
+U050,https://cdn.joshtalks.ai/audio/task_00995.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,7.9,7.72,5.83,high_speed_expert,True
+U050,https://cdn.joshtalks.ai/audio/task_00996.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,5.23,4.67,8.35,high_speed_expert,False
+U050,https://cdn.joshtalks.ai/audio/task_00997.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,3.76,3.81,10.24,high_speed_expert,False
+U050,https://cdn.joshtalks.ai/audio/task_00998.wav,मेरा आर्डर अभी तक डिलीवर नहीं हुआ कृपया चेक करिए,मेरा order अभी तक deliver नहीं हुआ please check कीजिये,Yes,10.3,10.05,4.48,high_speed_expert,True
+U050,https://cdn.joshtalks.ai/audio/task_00999.wav,हाँ जी बिल्कुल,हाँ जी बिल्कुल,No,1.33,1.33,9.02,high_speed_expert,False
+U050,https://cdn.joshtalks.ai/audio/task_01000.wav,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,प्रधानमंत्री जन धन योजना के तहत बैंक खाता खोलें,No,4.18,4.56,8.55,high_speed_expert,False

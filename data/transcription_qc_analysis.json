@@ -1,0 +1,176 @@
+{
+  "total_transcription_tasks": 1000,
+  "total_transcribers_evaluated": 50,
+  "malicious_transcribers_count": 13,
+  "legitimate_transcribers_count": 37,
+  "blocking_evaluation_metrics": {
+    "true_positives": 13,
+    "false_positives": 0,
+    "true_negatives": 37,
+    "false_negatives": 0,
+    "accuracy_pct": 100.0,
+    "precision_pct": 100.0,
+    "recall_pct": 100.0,
+    "false_positive_rate_pct": 0.0
+  },
+  "key_telemetry_benchmarks": {
+    "diligent_avg_playback_ratio": 2.45,
+    "speed_runner_avg_playback_ratio": 0.3,
+    "diligent_avg_cps": 3.25,
+    "velocity_spammer_avg_cps": 30.04,
+    "rubber_stamper_zero_edit_rate": 100.0,
+    "diligent_zero_edit_rate": 41.4
+  },
+  "user_level_audit": [
+    {
+      "user_id": "U001",
+      "archetype": "legitimate_diligent",
+      "avg_playback_ratio": 2.671,
+      "pct_sub_realtime_tasks": 0.0,
+      "avg_cps": 3.03,
+      "max_cps": 6.78,
+      "zero_edit_rate": 25.0,
+      "error_pass_through_rate": 0.0
+    },
+    {
+      "user_id": "U002",
+      "archetype": "legitimate_diligent",
+      "avg_playback_ratio": 2.523,
+      "pct_sub_realtime_tasks": 0.0,
+      "avg_cps": 2.92,
+      "max_cps": 7.02,
+      "zero_edit_rate": 30.0,
+      "error_pass_through_rate": 0.0
+    },
+    {
+      "user_id": "U003",
+      "archetype": "legitimate_diligent",
+      "avg_playback_ratio": 2.412,
+      "pct_sub_realtime_tasks": 0.0,
+      "avg_cps": 3.1,
+      "max_cps": 5.58,
+      "zero_edit_rate": 40.0,
+      "error_pass_through_rate": 0.0
+    },
+    {
+      "user_id": "U004",
+      "archetype": "legitimate_diligent",
+      "avg_playback_ratio": 2.682,
+      "pct_sub_realtime_tasks": 0.0,
+      "avg_cps": 3.0,
+      "max_cps": 7.53,
+      "zero_edit_rate": 25.0,
+      "error_pass_through_rate": 0.0
+    },
+    {
+      "user_id": "U005",
+      "archetype": "legitimate_diligent",
+      "avg_playback_ratio": 2.46,
+      "pct_sub_realtime_tasks": 0.0,
+      "avg_cps": 3.29,
+      "max_cps": 8.12,
+      "zero_edit_rate": 40.0,
+      "error_pass_through_rate": 0.0
+    },
+    {
+      "user_id": "U006",
+      "archetype": "legitimate_diligent",
+      "avg_playback_ratio": 2.448,
+      "pct_sub_realtime_tasks": 0.0,
+      "avg_cps": 3.26,
+      "max_cps": 5.42,
+      "zero_edit_rate": 50.0,
+      "error_pass_through_rate": 0.0
+    },
+    {
+      "user_id": "U007",
+      "archetype": "legitimate_diligent",
+      "avg_playback_ratio": 2.516,
+      "pct_sub_realtime_tasks": 0.0,
+      "avg_cps": 3.53,
+      "max_cps": 8.3,
+      "zero_edit_rate": 40.0,
+      "error_pass_through_rate": 0.0
+    },
+    {
+      "user_id": "U008",
+      "archetype": "legitimate_diligent",
+      "avg_playback_ratio": 2.178,
+      "pct_sub_realtime_tasks": 0.0,
+      "avg_cps": 3.8,
+      "max_cps": 6.67,
+      "zero_edit_rate": 55.0,
+      "error_pass_through_rate": 0.0
+    },
+    {
+      "user_id": "U009",
+      "archetype": "legitimate_diligent",
+      "avg_playback_ratio": 2.276,
+      "pct_sub_realtime_tasks": 0.0,
+      "avg_cps": 3.5,
+      "max_cps": 6.42,
+      "zero_edit_rate": 40.0,
+      "error_pass_through_rate": 0.0
+    },
+    {
+      "user_id": "U010",
+      "archetype": "legitimate_diligent",
+      "avg_playback_ratio": 2.372,
+      "pct_sub_realtime_tasks": 0.0,
+      "avg_cps": 3.43,
+      "max_cps": 8.46,
+      "zero_edit_rate": 45.0,
+      "error_pass_through_rate": 0.0
+    },
+    {
+      "user_id": "U011",
+      "archetype": "legitimate_diligent",
+      "avg_playback_ratio": 2.489,
+      "pct_sub_realtime_tasks": 0.0,
+      "avg_cps": 3.45,
+      "max_cps": 6.67,
+      "zero_edit_rate": 55.0,
+      "error_pass_through_rate": 0.0
+    },
+    {
+      "user_id": "U012",
+      "archetype": "legitimate_diligent",
+      "avg_playback_ratio": 2.454,
+      "pct_sub_realtime_tasks": 0.0,
+      "avg_cps": 2.98,
+      "max_cps": 5.78,
+      "zero_edit_rate": 40.0,
+      "error_pass_through_rate": 0.0
+    },
+    {
+      "user_id": "U013",
+      "archetype": "legitimate_diligent",
+      "avg_playback_ratio": 2.459,
+      "pct_sub_realtime_tasks": 0.0,
+      "avg_cps": 3.33,
+      "max_cps": 7.51,
+      "zero_edit_rate": 45.0,
+      "error_pass_through_rate": 0.0
+    },
+    {
+      "user_id": "U014",
+      "archetype": "legitimate_diligent",
+      "avg_playback_ratio": 2.331,
+      "pct_sub_realtime_tasks": 0.0,
+      "avg_cps": 3.58,
+      "max_cps": 6.75,
+      "zero_edit_rate": 55.0,
+      "error_pass_through_rate": 0.0
+    },
+    {
+      "user_id": "U015",
+      "archetype": "legitimate_diligent",
+      "avg_playback_ratio": 2.541,
+      "pct_sub_realtime_tasks": 0.0,
+      "avg_cps": 3.15,
+      "max_cps": 6.06,
+      "zero_edit_rate": 40.0,
+      "error_pass_through_rate": 0.0
+    }
+  ]
+}

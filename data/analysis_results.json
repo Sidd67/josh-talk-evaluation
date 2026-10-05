@@ -1,0 +1,234 @@
+{
+  "evaluation_title": "Bharat Commerce Visual Benchmark (Josh Talks AI)",
+  "category": "Hyper-Local Commerce & Micro-Enterprise Cataloging",
+  "total_participants": 10,
+  "total_evaluations": 160,
+  "total_pairwise_battles": 240,
+  "krippendorff_alpha_reliability": 0.711,
+  "elo_leaderboard": [
+    {
+      "rank": 1,
+      "model_name": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "elo": 1607.9,
+      "win_rate_pct": 69.2,
+      "composite_mos": 4.59,
+      "ci_95": 0.08,
+      "cultural_fidelity_mos": 4.53,
+      "photorealism_mos": 4.78,
+      "prompt_alignment_mos": 4.65,
+      "indic_typography_mos": 4.33
+    },
+    {
+      "rank": 2,
+      "model_name": "Google \u2014 Gemini 2.5 Flash Image",
+      "elo": 1529.7,
+      "win_rate_pct": 55.4,
+      "composite_mos": 3.96,
+      "ci_95": 0.11,
+      "cultural_fidelity_mos": 4.08,
+      "photorealism_mos": 4.28,
+      "prompt_alignment_mos": 4.12,
+      "indic_typography_mos": 2.9
+    },
+    {
+      "rank": 3,
+      "model_name": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "elo": 1470.3,
+      "win_rate_pct": 44.6,
+      "composite_mos": 3.78,
+      "ci_95": 0.11,
+      "cultural_fidelity_mos": 3.7,
+      "photorealism_mos": 4.72,
+      "prompt_alignment_mos": 3.92,
+      "indic_typography_mos": 2.12
+    },
+    {
+      "rank": 4,
+      "model_name": "OpenAI \u2014 GPT Image 1",
+      "elo": 1392.1,
+      "win_rate_pct": 30.8,
+      "composite_mos": 3.45,
+      "ci_95": 0.12,
+      "cultural_fidelity_mos": 3.58,
+      "photorealism_mos": 4.03,
+      "prompt_alignment_mos": 3.75,
+      "indic_typography_mos": 1.68
+    }
+  ],
+  "detailed_mos": {
+    "Google \u2014 Gemini 3.1 Flash Image Preview": {
+      "cultural_contextual_fidelity": {
+        "mean": 4.53,
+        "std": 0.51,
+        "ci_95": 0.16,
+        "ci_low": 4.37,
+        "ci_high": 4.68
+      },
+      "visual_quality_photorealism": {
+        "mean": 4.78,
+        "std": 0.42,
+        "ci_95": 0.13,
+        "ci_low": 4.64,
+        "ci_high": 4.91
+      },
+      "prompt_alignment_entity_accuracy": {
+        "mean": 4.65,
+        "std": 0.48,
+        "ci_95": 0.15,
+        "ci_low": 4.5,
+        "ci_high": 4.8
+      },
+      "typography_indic_script_coherence": {
+        "mean": 4.33,
+        "std": 0.62,
+        "ci_95": 0.19,
+        "ci_low": 4.13,
+        "ci_high": 4.52
+      },
+      "composite_score": {
+        "mean": 4.59,
+        "std": 0.27,
+        "ci_95": 0.08,
+        "ci_low": 4.51,
+        "ci_high": 4.67
+      }
+    },
+    "Black Forest Labs \u2014 FLUX.1 [pro]": {
+      "cultural_contextual_fidelity": {
+        "mean": 3.7,
+        "std": 0.65,
+        "ci_95": 0.2,
+        "ci_low": 3.5,
+        "ci_high": 3.9
+      },
+      "visual_quality_photorealism": {
+        "mean": 4.72,
+        "std": 0.45,
+        "ci_95": 0.14,
+        "ci_low": 4.58,
+        "ci_high": 4.87
+      },
+      "prompt_alignment_entity_accuracy": {
+        "mean": 3.92,
+        "std": 0.53,
+        "ci_95": 0.16,
+        "ci_low": 3.76,
+        "ci_high": 4.09
+      },
+      "typography_indic_script_coherence": {
+        "mean": 2.12,
+        "std": 0.69,
+        "ci_95": 0.21,
+        "ci_low": 1.91,
+        "ci_high": 2.34
+      },
+      "composite_score": {
+        "mean": 3.78,
+        "std": 0.36,
+        "ci_95": 0.11,
+        "ci_low": 3.66,
+        "ci_high": 3.89
+      }
+    },
+    "Google \u2014 Gemini 2.5 Flash Image": {
+      "cultural_contextual_fidelity": {
+        "mean": 4.08,
+        "std": 0.57,
+        "ci_95": 0.18,
+        "ci_low": 3.9,
+        "ci_high": 4.25
+      },
+      "visual_quality_photorealism": {
+        "mean": 4.28,
+        "std": 0.64,
+        "ci_95": 0.2,
+        "ci_low": 4.08,
+        "ci_high": 4.47
+      },
+      "prompt_alignment_entity_accuracy": {
+        "mean": 4.12,
+        "std": 0.65,
+        "ci_95": 0.2,
+        "ci_low": 3.92,
+        "ci_high": 4.33
+      },
+      "typography_indic_script_coherence": {
+        "mean": 2.9,
+        "std": 0.5,
+        "ci_95": 0.15,
+        "ci_low": 2.75,
+        "ci_high": 3.05
+      },
+      "composite_score": {
+        "mean": 3.96,
+        "std": 0.34,
+        "ci_95": 0.11,
+        "ci_low": 3.85,
+        "ci_high": 4.07
+      }
+    },
+    "OpenAI \u2014 GPT Image 1": {
+      "cultural_contextual_fidelity": {
+        "mean": 3.58,
+        "std": 0.78,
+        "ci_95": 0.24,
+        "ci_low": 3.33,
+        "ci_high": 3.82
+      },
+      "visual_quality_photorealism": {
+        "mean": 4.03,
+        "std": 0.48,
+        "ci_95": 0.15,
+        "ci_low": 3.88,
+        "ci_high": 4.17
+      },
+      "prompt_alignment_entity_accuracy": {
+        "mean": 3.75,
+        "std": 0.59,
+        "ci_95": 0.18,
+        "ci_low": 3.57,
+        "ci_high": 3.93
+      },
+      "typography_indic_script_coherence": {
+        "mean": 1.68,
+        "std": 0.69,
+        "ci_95": 0.22,
+        "ci_low": 1.46,
+        "ci_high": 1.89
+      },
+      "composite_score": {
+        "mean": 3.45,
+        "std": 0.37,
+        "ci_95": 0.12,
+        "ci_low": 3.33,
+        "ci_high": 3.56
+      }
+    }
+  },
+  "win_rate_matrix": {
+    "Google \u2014 Gemini 3.1 Flash Image Preview": {
+      "Google \u2014 Gemini 3.1 Flash Image Preview": null,
+      "Black Forest Labs \u2014 FLUX.1 [pro]": 0.712,
+      "Google \u2014 Gemini 2.5 Flash Image": 0.625,
+      "OpenAI \u2014 GPT Image 1": 0.738
+    },
+    "Black Forest Labs \u2014 FLUX.1 [pro]": {
+      "Google \u2014 Gemini 3.1 Flash Image Preview": 0.288,
+      "Black Forest Labs \u2014 FLUX.1 [pro]": null,
+      "Google \u2014 Gemini 2.5 Flash Image": 0.4,
+      "OpenAI \u2014 GPT Image 1": 0.65
+    },
+    "Google \u2014 Gemini 2.5 Flash Image": {
+      "Google \u2014 Gemini 3.1 Flash Image Preview": 0.375,
+      "Black Forest Labs \u2014 FLUX.1 [pro]": 0.6,
+      "Google \u2014 Gemini 2.5 Flash Image": null,
+      "OpenAI \u2014 GPT Image 1": 0.688
+    },
+    "OpenAI \u2014 GPT Image 1": {
+      "Google \u2014 Gemini 3.1 Flash Image Preview": 0.262,
+      "Black Forest Labs \u2014 FLUX.1 [pro]": 0.35,
+      "Google \u2014 Gemini 2.5 Flash Image": 0.312,
+      "OpenAI \u2014 GPT Image 1": null
+    }
+  }
+}

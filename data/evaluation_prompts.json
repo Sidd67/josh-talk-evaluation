@@ -1,0 +1,151 @@
+[
+  {
+    "prompt_id": "PR-01",
+    "title": "Modern Kirana Store & Digital Bharat Retail Counter",
+    "theme": "Micro-Enterprise & Fintech Integration",
+    "category": "Hyper-Local Commerce & Kirana Cataloging",
+    "prompt_text": "A medium close-up, authentic documentary photograph of a cheerful 38-year-old North Indian shopkeeper sitting at the billing counter of a well-stocked modern Kirana grocery store in Lucknow, India. On the wooden counter is a laminated blue UPI QR code scanner standee and a digital weighing scale. Shelves in the background are neatly packed with transparent plastic jars of lentils, Indian spice packets, and biscuit packets. Soft warm morning daylight streaming through the shop entrance. Realistic Indian middle-class store, candid shot, shot on 35mm f/1.8 lens, natural skin texture, documentary realism.",
+    "evaluation_intent": "Tests whether the model depicts contemporary middle-class Bharat retail reality (UPI standee, packaged Indian FMCG brands, clean tiled shelves) or collapses into an orientalist poverty-porn slum stereotype or 19th-century colonial spice bazaar.",
+    "critical_elements_to_verify": [
+      "Authentic North Indian male shopkeeper (30s-40s) with natural skin texture and normal attire",
+      "Modern Kirana store setup: plastic storage jars, packaged Indian groceries, biscuit packets",
+      "Laminated UPI QR code standee on counter (Paytm/PhonePe/GPay style)",
+      "Digital electronic weighing scale (not antique cast-iron balance)",
+      "Balanced natural morning light, avoiding artificial cinematic slum grit or excessive Bollywood gloss"
+    ],
+    "models_evaluated": {
+      "OpenAI — GPT Image 1": {
+        "engine": "dall-e-3 (natural mode)",
+        "resolution": "1024x1024",
+        "system_revised_prompt_used": true,
+        "notes": "OpenAI internal rewrite tendency introduces heavy embellishment and often replaces UPI standee with generic barcode or vintage counter."
+      },
+      "Google — Gemini 2.5 Flash Image": {
+        "engine": "imagen-3.0-generate-002 (Flash mode)",
+        "resolution": "1024x1024",
+        "aspect_ratio": "4:3",
+        "notes": "Fast inference, good photorealism, but occasionally hallucinates text on jars and places antique balance alongside digital scale."
+      },
+      "Google — Gemini 3.1 Flash Image Preview": {
+        "engine": "gemini-3.1-flash-image-preview",
+        "resolution": "1024x1024",
+        "aspect_ratio": "4:3",
+        "notes": "Exceptional Indian context comprehension. Accurately captured UPI standee, Arhar Dal / Turmeric jars, Parle-G biscuit packets, and authentic Lucknow kirana counter."
+      },
+      "Black Forest Labs — FLUX.1 [pro]": {
+        "engine": "flux-1.1-pro",
+        "resolution": "1024x768",
+        "guidance_scale": 3.5,
+        "notes": "Superb photographic texture and lighting. UPI standee rendered visually, but text on small sachets occasionally blurs into abstract Latin scripts."
+      }
+    }
+  },
+  {
+    "prompt_id": "PR-02",
+    "title": "Master Banarasi Silk Pit Loom Artisan in Varanasi",
+    "theme": "Traditional Craftsmanship & Regional Cultural Heritage",
+    "category": "Artisan & Handloom D2C Cataloging",
+    "prompt_text": "An atmospheric documentary photograph of a master Banarasi silk handloom weaver, a 52-year-old Indian man with salt-and-pepper hair and metal-frame reading glasses, sitting at a traditional wooden pit loom in Varanasi. He is carefully guiding intricate real gold zari threads into a rich magenta and crimson silk saree. Golden dust motes dancing in shafts of natural sunlight filtering through high wooden louvers. Authentic workshop interior, reels of colored silk yarn hanging on the lime-washed wall, candid, documentary realism, National Geographic style, photorealistic.",
+    "evaluation_intent": "Tests structural coherence of traditional Indian loom machinery (warp/weft tension, wooden pit loom components, wooden shuttle), authentic artisan posture, natural skin tone representation, and avoidance of caricature.",
+    "critical_elements_to_verify": [
+      "Accurate pit loom anatomy (overhead harnesses, wooden shuttle in hand, silk warp threads under tension)",
+      "Authentic Banarasi brocade pattern (gold zari motifs, floral booti, magenta silk drape)",
+      "Realistic mature Indian artisan (50s, spectacles, focused expression, authentic cotton kurta)",
+      "Atmospheric natural lighting through louvers without synthetic fantasy flare"
+    ],
+    "models_evaluated": {
+      "OpenAI — GPT Image 1": {
+        "engine": "dall-e-3",
+        "resolution": "1024x1024",
+        "notes": "Tends to generate modern factory sewing machine or western weaving frame rather than authentic Indian pit loom."
+      },
+      "Google — Gemini 2.5 Flash Image": {
+        "engine": "imagen-3.0-generate-002",
+        "resolution": "1024x1024",
+        "notes": "Understands pit loom concept well; silk texture and gold zari reflection are vivid, hand anatomy slightly soft around fingers."
+      },
+      "Google — Gemini 3.1 Flash Image Preview": {
+        "engine": "gemini-3.1-flash-image-preview",
+        "resolution": "1024x1024",
+        "notes": "State-of-the-art handloom realism. Wooden shuttle, thread harness, yarn skeins on wall, and facial depth captured with documentary excellence."
+      },
+      "Black Forest Labs — FLUX.1 [pro]": {
+        "engine": "flux-1.1-pro",
+        "resolution": "1024x768",
+        "notes": "Pristine fabric microstructure; however, loom mechanism sometimes contains non-functional floating wooden rods."
+      }
+    }
+  },
+  {
+    "prompt_id": "PR-03",
+    "title": "South Indian Filter Coffee Entrepreneur in Bengaluru",
+    "theme": "Regional Street Gastronomy & Micro-Commerce",
+    "category": "Hyper-Local Street Food & Quick Service Commerce",
+    "prompt_text": "An authentic street food vendor, a smiling 28-year-old South Indian man wearing a neat clean striped apron over a simple grey t-shirt, pouring frothing Indian filter coffee between two traditional stainless steel davarah tumblers at a bustling morning breakfast stall in Malleshwaram, Bangalore. On the clean stainless steel cart counter is a steaming cylindrical idli steamer and small bowls of fresh green coconut chutney and sambar. Early morning Bangalore mist, soft golden morning light, vibrant yet grounded, natural Indian skin tones, documentary street photography, high detail.",
+    "evaluation_intent": "Tests regional specificity of South India (davarah tumbler pouring mechanics, stainless steel street stall, cylindrical idli steamer, Malleshwaram street backdrop) vs generic North Indian chai stall conflation.",
+    "critical_elements_to_verify": [
+      "Traditional stainless steel davarah and tumbler coffee-cooling pouring arc",
+      "Frothing chicory-coffee stream caught mid-air without liquid physics breakage",
+      "Authentic South Indian breakfast accessories: cylindrical brass/steel idli steamer, coconut chutney",
+      "Distinct South Indian urban streetscape (auto-rickshaws, regional signage, morning haze)"
+    ],
+    "models_evaluated": {
+      "OpenAI — GPT Image 1": {
+        "engine": "dall-e-3",
+        "resolution": "1024x1024",
+        "notes": "Frequently defaults to North Indian clay kullhad chai instead of South Indian stainless steel davarah tumblers."
+      },
+      "Google — Gemini 2.5 Flash Image": {
+        "engine": "imagen-3.0-generate-002",
+        "resolution": "1024x1024",
+        "notes": "Accurate steel davarah vessels, correct idli steamer, good morning lighting, mild liquid continuity blur."
+      },
+      "Google — Gemini 3.1 Flash Image Preview": {
+        "engine": "gemini-3.1-flash-image-preview",
+        "resolution": "1024x1024",
+        "notes": "Perfect execution of the 'metre coffee' pour, brass idli steamer, Bengaluru auto-rickshaws in soft background bokeh, natural skin tones."
+      },
+      "Black Forest Labs — FLUX.1 [pro]": {
+        "engine": "flux-1.1-pro",
+        "resolution": "1024x768",
+        "notes": "Very sharp commercial grade aesthetic; liquid splash dynamics rendered cleanly, but tumbler shape slightly hybrid between cup and tumbler."
+      }
+    }
+  },
+  {
+    "prompt_id": "PR-04",
+    "title": "D2C Organic Mustard Oil Flat Lay with Indic Script",
+    "theme": "Commercial Product Cataloging & Indic Typography Stress Test",
+    "category": "Vernacular E-Commerce Packaging",
+    "prompt_text": "A professional commercial studio product catalog flat lay for an Indian D2C organic mustard oil bottle. The amber glass bottle has a clean modern label with Hindi Devanagari text reading 'शुद्ध सरसों का तेल' and English subtitle '100% Pure Cold Pressed Kachi Ghani'. Next to the bottle are fresh yellow mustard flowers, a rustic wooden spoon filled with black and yellow mustard seeds, and a small brass katori bowl of glowing golden-amber oil. Clean minimalist warm ivory background, soft diffused studio lighting, crisp commercial advertising product photography, high resolution.",
+    "evaluation_intent": "Stress tests Devanagari typography rendering, complex conjunct consonants (shuddha 'शुद्ध', sarson 'सरसों'), matra alignment, and bilingual commercial packaging balance for Indian D2C brands.",
+    "critical_elements_to_verify": [
+      "Accurate rendering of Hindi text: 'शुद्ध सरसों का तेल' with zero ligature corruption",
+      "Accurate rendering of English subtitle: '100% Pure Cold Pressed Kachi Ghani'",
+      "Botanical & culinary accuracy: yellow mustard flowers, brass katori, mustard seeds",
+      "Studio flat lay composition suitable for modern e-commerce (Meesho, Amazon India, Blinkit)"
+    ],
+    "models_evaluated": {
+      "OpenAI — GPT Image 1": {
+        "engine": "dall-e-3",
+        "resolution": "1024x1024",
+        "notes": "Severe Devanagari hallucination: turns 'शुद्ध' into illegible Sanskrit-like curves with detached matras. English subtitle is crisp."
+      },
+      "Google — Gemini 2.5 Flash Image": {
+        "engine": "imagen-3.0-generate-002",
+        "resolution": "1024x1024",
+        "notes": "Renders basic Devanagari characters but drops the anusvara dot and conjoined 'द्द'. Bottle and seed aesthetics are high quality."
+      },
+      "Google — Gemini 3.1 Flash Image Preview": {
+        "engine": "gemini-3.1-flash-image-preview",
+        "resolution": "1024x1024",
+        "notes": "Exceptional breakthrough in Indic typography. Rendered 'शुद्ध सरसों का तेल' with full glyph integrity and clean brand logo."
+      },
+      "Black Forest Labs — FLUX.1 [pro]": {
+        "engine": "flux-1.1-pro",
+        "resolution": "1024x768",
+        "notes": "Excellent Latin text rendering ('100% Cold Pressed'), but Devanagari script renders as pseudo-Indian decorative runes."
+      }
+    }
+  }
+]

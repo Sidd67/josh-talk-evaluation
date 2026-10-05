@@ -1,0 +1,4086 @@
+{
+  "raw_ratings": [
+    {
+      "participant_id": "P01",
+      "prompt_id": "PR-01",
+      "model_name": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "ratings": {
+        "cultural_contextual_fidelity": 5,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 5,
+        "typography_indic_script_coherence": 5,
+        "composite_score": 5.0
+      }
+    },
+    {
+      "participant_id": "P01",
+      "prompt_id": "PR-01",
+      "model_name": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 5,
+        "typography_indic_script_coherence": 3,
+        "composite_score": 4.35
+      }
+    },
+    {
+      "participant_id": "P01",
+      "prompt_id": "PR-01",
+      "model_name": "Google \u2014 Gemini 2.5 Flash Image",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 3,
+        "composite_score": 4.1
+      }
+    },
+    {
+      "participant_id": "P01",
+      "prompt_id": "PR-01",
+      "model_name": "OpenAI \u2014 GPT Image 1",
+      "ratings": {
+        "cultural_contextual_fidelity": 3,
+        "visual_quality_photorealism": 3,
+        "prompt_alignment_entity_accuracy": 3,
+        "typography_indic_script_coherence": 1,
+        "composite_score": 2.7
+      }
+    },
+    {
+      "participant_id": "P01",
+      "prompt_id": "PR-02",
+      "model_name": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "ratings": {
+        "cultural_contextual_fidelity": 5,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 4,
+        "composite_score": 4.35
+      }
+    },
+    {
+      "participant_id": "P01",
+      "prompt_id": "PR-02",
+      "model_name": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "ratings": {
+        "cultural_contextual_fidelity": 3,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 2,
+        "composite_score": 3.6
+      }
+    },
+    {
+      "participant_id": "P01",
+      "prompt_id": "PR-02",
+      "model_name": "Google \u2014 Gemini 2.5 Flash Image",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 2,
+        "composite_score": 3.95
+      }
+    },
+    {
+      "participant_id": "P01",
+      "prompt_id": "PR-02",
+      "model_name": "OpenAI \u2014 GPT Image 1",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 1,
+        "composite_score": 3.55
+      }
+    },
+    {
+      "participant_id": "P01",
+      "prompt_id": "PR-03",
+      "model_name": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 5,
+        "typography_indic_script_coherence": 4,
+        "composite_score": 4.25
+      }
+    },
+    {
+      "participant_id": "P01",
+      "prompt_id": "PR-03",
+      "model_name": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "ratings": {
+        "cultural_contextual_fidelity": 3,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 2,
+        "composite_score": 3.6
+      }
+    },
+    {
+      "participant_id": "P01",
+      "prompt_id": "PR-03",
+      "model_name": "Google \u2014 Gemini 2.5 Flash Image",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 5,
+        "typography_indic_script_coherence": 4,
+        "composite_score": 4.5
+      }
+    },
+    {
+      "participant_id": "P01",
+      "prompt_id": "PR-03",
+      "model_name": "OpenAI \u2014 GPT Image 1",
+      "ratings": {
+        "cultural_contextual_fidelity": 3,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 3,
+        "typography_indic_script_coherence": 3,
+        "composite_score": 3.25
+      }
+    },
+    {
+      "participant_id": "P01",
+      "prompt_id": "PR-04",
+      "model_name": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 5,
+        "typography_indic_script_coherence": 5,
+        "composite_score": 4.65
+      }
+    },
+    {
+      "participant_id": "P01",
+      "prompt_id": "PR-04",
+      "model_name": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 5,
+        "typography_indic_script_coherence": 1,
+        "composite_score": 3.8
+      }
+    },
+    {
+      "participant_id": "P01",
+      "prompt_id": "PR-04",
+      "model_name": "Google \u2014 Gemini 2.5 Flash Image",
+      "ratings": {
+        "cultural_contextual_fidelity": 3,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 3,
+        "typography_indic_script_coherence": 3,
+        "composite_score": 3.25
+      }
+    },
+    {
+      "participant_id": "P01",
+      "prompt_id": "PR-04",
+      "model_name": "OpenAI \u2014 GPT Image 1",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 3,
+        "typography_indic_script_coherence": 1,
+        "composite_score": 3.3
+      }
+    },
+    {
+      "participant_id": "P02",
+      "prompt_id": "PR-01",
+      "model_name": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "ratings": {
+        "cultural_contextual_fidelity": 5,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 5,
+        "composite_score": 4.75
+      }
+    },
+    {
+      "participant_id": "P02",
+      "prompt_id": "PR-01",
+      "model_name": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 2,
+        "composite_score": 3.95
+      }
+    },
+    {
+      "participant_id": "P02",
+      "prompt_id": "PR-01",
+      "model_name": "Google \u2014 Gemini 2.5 Flash Image",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 3,
+        "composite_score": 3.85
+      }
+    },
+    {
+      "participant_id": "P02",
+      "prompt_id": "PR-01",
+      "model_name": "OpenAI \u2014 GPT Image 1",
+      "ratings": {
+        "cultural_contextual_fidelity": 3,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 3,
+        "typography_indic_script_coherence": 1,
+        "composite_score": 2.95
+      }
+    },
+    {
+      "participant_id": "P02",
+      "prompt_id": "PR-02",
+      "model_name": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "ratings": {
+        "cultural_contextual_fidelity": 5,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 4,
+        "composite_score": 4.35
+      }
+    },
+    {
+      "participant_id": "P02",
+      "prompt_id": "PR-02",
+      "model_name": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 2,
+        "composite_score": 3.95
+      }
+    },
+    {
+      "participant_id": "P02",
+      "prompt_id": "PR-02",
+      "model_name": "Google \u2014 Gemini 2.5 Flash Image",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 3,
+        "composite_score": 3.85
+      }
+    },
+    {
+      "participant_id": "P02",
+      "prompt_id": "PR-02",
+      "model_name": "OpenAI \u2014 GPT Image 1",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 1,
+        "composite_score": 3.55
+      }
+    },
+    {
+      "participant_id": "P02",
+      "prompt_id": "PR-03",
+      "model_name": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 5,
+        "typography_indic_script_coherence": 4,
+        "composite_score": 4.5
+      }
+    },
+    {
+      "participant_id": "P02",
+      "prompt_id": "PR-03",
+      "model_name": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "ratings": {
+        "cultural_contextual_fidelity": 3,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 3,
+        "composite_score": 3.75
+      }
+    },
+    {
+      "participant_id": "P02",
+      "prompt_id": "PR-03",
+      "model_name": "Google \u2014 Gemini 2.5 Flash Image",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 3,
+        "composite_score": 4.1
+      }
+    },
+    {
+      "participant_id": "P02",
+      "prompt_id": "PR-03",
+      "model_name": "OpenAI \u2014 GPT Image 1",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 3,
+        "composite_score": 3.85
+      }
+    },
+    {
+      "participant_id": "P02",
+      "prompt_id": "PR-04",
+      "model_name": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "ratings": {
+        "cultural_contextual_fidelity": 5,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 5,
+        "typography_indic_script_coherence": 5,
+        "composite_score": 5.0
+      }
+    },
+    {
+      "participant_id": "P02",
+      "prompt_id": "PR-04",
+      "model_name": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "ratings": {
+        "cultural_contextual_fidelity": 3,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 1,
+        "composite_score": 3.2
+      }
+    },
+    {
+      "participant_id": "P02",
+      "prompt_id": "PR-04",
+      "model_name": "Google \u2014 Gemini 2.5 Flash Image",
+      "ratings": {
+        "cultural_contextual_fidelity": 5,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 3,
+        "typography_indic_script_coherence": 3,
+        "composite_score": 3.95
+      }
+    },
+    {
+      "participant_id": "P02",
+      "prompt_id": "PR-04",
+      "model_name": "OpenAI \u2014 GPT Image 1",
+      "ratings": {
+        "cultural_contextual_fidelity": 2,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 1,
+        "composite_score": 2.85
+      }
+    },
+    {
+      "participant_id": "P03",
+      "prompt_id": "PR-01",
+      "model_name": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 5,
+        "typography_indic_script_coherence": 4,
+        "composite_score": 4.25
+      }
+    },
+    {
+      "participant_id": "P03",
+      "prompt_id": "PR-01",
+      "model_name": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 3,
+        "composite_score": 4.1
+      }
+    },
+    {
+      "participant_id": "P03",
+      "prompt_id": "PR-01",
+      "model_name": "Google \u2014 Gemini 2.5 Flash Image",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 5,
+        "typography_indic_script_coherence": 3,
+        "composite_score": 4.35
+      }
+    },
+    {
+      "participant_id": "P03",
+      "prompt_id": "PR-01",
+      "model_name": "OpenAI \u2014 GPT Image 1",
+      "ratings": {
+        "cultural_contextual_fidelity": 2,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 3,
+        "typography_indic_script_coherence": 2,
+        "composite_score": 2.75
+      }
+    },
+    {
+      "participant_id": "P03",
+      "prompt_id": "PR-02",
+      "model_name": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 5,
+        "typography_indic_script_coherence": 4,
+        "composite_score": 4.5
+      }
+    },
+    {
+      "participant_id": "P03",
+      "prompt_id": "PR-02",
+      "model_name": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 2,
+        "composite_score": 3.95
+      }
+    },
+    {
+      "participant_id": "P03",
+      "prompt_id": "PR-02",
+      "model_name": "Google \u2014 Gemini 2.5 Flash Image",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 3,
+        "composite_score": 3.85
+      }
+    },
+    {
+      "participant_id": "P03",
+      "prompt_id": "PR-02",
+      "model_name": "OpenAI \u2014 GPT Image 1",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 3,
+        "typography_indic_script_coherence": 2,
+        "composite_score": 3.7
+      }
+    },
+    {
+      "participant_id": "P03",
+      "prompt_id": "PR-03",
+      "model_name": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "ratings": {
+        "cultural_contextual_fidelity": 5,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 5,
+        "typography_indic_script_coherence": 5,
+        "composite_score": 5.0
+      }
+    },
+    {
+      "participant_id": "P03",
+      "prompt_id": "PR-03",
+      "model_name": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "ratings": {
+        "cultural_contextual_fidelity": 3,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 2,
+        "composite_score": 3.6
+      }
+    },
+    {
+      "participant_id": "P03",
+      "prompt_id": "PR-03",
+      "model_name": "Google \u2014 Gemini 2.5 Flash Image",
+      "ratings": {
+        "cultural_contextual_fidelity": 5,
+        "visual_quality_photorealism": 3,
+        "prompt_alignment_entity_accuracy": 5,
+        "typography_indic_script_coherence": 2,
+        "composite_score": 4.05
+      }
+    },
+    {
+      "participant_id": "P03",
+      "prompt_id": "PR-03",
+      "model_name": "OpenAI \u2014 GPT Image 1",
+      "ratings": {
+        "cultural_contextual_fidelity": 3,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 1,
+        "composite_score": 3.45
+      }
+    },
+    {
+      "participant_id": "P03",
+      "prompt_id": "PR-04",
+      "model_name": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "ratings": {
+        "cultural_contextual_fidelity": 5,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 5,
+        "typography_indic_script_coherence": 5,
+        "composite_score": 5.0
+      }
+    },
+    {
+      "participant_id": "P03",
+      "prompt_id": "PR-04",
+      "model_name": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 3,
+        "typography_indic_script_coherence": 1,
+        "composite_score": 3.3
+      }
+    },
+    {
+      "participant_id": "P03",
+      "prompt_id": "PR-04",
+      "model_name": "Google \u2014 Gemini 2.5 Flash Image",
+      "ratings": {
+        "cultural_contextual_fidelity": 3,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 2,
+        "composite_score": 3.6
+      }
+    },
+    {
+      "participant_id": "P03",
+      "prompt_id": "PR-04",
+      "model_name": "OpenAI \u2014 GPT Image 1",
+      "ratings": {
+        "cultural_contextual_fidelity": 3,
+        "visual_quality_photorealism": 3,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 2,
+        "composite_score": 3.1
+      }
+    },
+    {
+      "participant_id": "P04",
+      "prompt_id": "PR-01",
+      "model_name": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "ratings": {
+        "cultural_contextual_fidelity": 5,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 5,
+        "typography_indic_script_coherence": 5,
+        "composite_score": 4.75
+      }
+    },
+    {
+      "participant_id": "P04",
+      "prompt_id": "PR-01",
+      "model_name": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "ratings": {
+        "cultural_contextual_fidelity": 3,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 3,
+        "typography_indic_script_coherence": 2,
+        "composite_score": 3.35
+      }
+    },
+    {
+      "participant_id": "P04",
+      "prompt_id": "PR-01",
+      "model_name": "Google \u2014 Gemini 2.5 Flash Image",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 5,
+        "typography_indic_script_coherence": 2,
+        "composite_score": 3.95
+      }
+    },
+    {
+      "participant_id": "P04",
+      "prompt_id": "PR-01",
+      "model_name": "OpenAI \u2014 GPT Image 1",
+      "ratings": {
+        "cultural_contextual_fidelity": 3,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 1,
+        "composite_score": 3.2
+      }
+    },
+    {
+      "participant_id": "P04",
+      "prompt_id": "PR-02",
+      "model_name": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "ratings": {
+        "cultural_contextual_fidelity": 5,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 5,
+        "composite_score": 4.75
+      }
+    },
+    {
+      "participant_id": "P04",
+      "prompt_id": "PR-02",
+      "model_name": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "ratings": {
+        "cultural_contextual_fidelity": 3,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 5,
+        "typography_indic_script_coherence": 2,
+        "composite_score": 3.85
+      }
+    },
+    {
+      "participant_id": "P04",
+      "prompt_id": "PR-02",
+      "model_name": "Google \u2014 Gemini 2.5 Flash Image",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 3,
+        "composite_score": 3.85
+      }
+    },
+    {
+      "participant_id": "P04",
+      "prompt_id": "PR-02",
+      "model_name": "OpenAI \u2014 GPT Image 1",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 2,
+        "composite_score": 3.7
+      }
+    },
+    {
+      "participant_id": "P04",
+      "prompt_id": "PR-03",
+      "model_name": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "ratings": {
+        "cultural_contextual_fidelity": 5,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 5,
+        "typography_indic_script_coherence": 4,
+        "composite_score": 4.85
+      }
+    },
+    {
+      "participant_id": "P04",
+      "prompt_id": "PR-03",
+      "model_name": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 3,
+        "composite_score": 4.1
+      }
+    },
+    {
+      "participant_id": "P04",
+      "prompt_id": "PR-03",
+      "model_name": "Google \u2014 Gemini 2.5 Flash Image",
+      "ratings": {
+        "cultural_contextual_fidelity": 5,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 5,
+        "typography_indic_script_coherence": 3,
+        "composite_score": 4.7
+      }
+    },
+    {
+      "participant_id": "P04",
+      "prompt_id": "PR-03",
+      "model_name": "OpenAI \u2014 GPT Image 1",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 2,
+        "composite_score": 3.7
+      }
+    },
+    {
+      "participant_id": "P04",
+      "prompt_id": "PR-04",
+      "model_name": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "ratings": {
+        "cultural_contextual_fidelity": 5,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 5,
+        "typography_indic_script_coherence": 4,
+        "composite_score": 4.85
+      }
+    },
+    {
+      "participant_id": "P04",
+      "prompt_id": "PR-04",
+      "model_name": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "ratings": {
+        "cultural_contextual_fidelity": 2,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 2,
+        "composite_score": 3.25
+      }
+    },
+    {
+      "participant_id": "P04",
+      "prompt_id": "PR-04",
+      "model_name": "Google \u2014 Gemini 2.5 Flash Image",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 3,
+        "composite_score": 3.85
+      }
+    },
+    {
+      "participant_id": "P04",
+      "prompt_id": "PR-04",
+      "model_name": "OpenAI \u2014 GPT Image 1",
+      "ratings": {
+        "cultural_contextual_fidelity": 3,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 1,
+        "composite_score": 3.2
+      }
+    },
+    {
+      "participant_id": "P05",
+      "prompt_id": "PR-01",
+      "model_name": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "ratings": {
+        "cultural_contextual_fidelity": 5,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 5,
+        "typography_indic_script_coherence": 4,
+        "composite_score": 4.85
+      }
+    },
+    {
+      "participant_id": "P05",
+      "prompt_id": "PR-01",
+      "model_name": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 2,
+        "composite_score": 3.95
+      }
+    },
+    {
+      "participant_id": "P05",
+      "prompt_id": "PR-01",
+      "model_name": "Google \u2014 Gemini 2.5 Flash Image",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 3,
+        "composite_score": 4.1
+      }
+    },
+    {
+      "participant_id": "P05",
+      "prompt_id": "PR-01",
+      "model_name": "OpenAI \u2014 GPT Image 1",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 2,
+        "composite_score": 3.7
+      }
+    },
+    {
+      "participant_id": "P05",
+      "prompt_id": "PR-02",
+      "model_name": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "ratings": {
+        "cultural_contextual_fidelity": 5,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 5,
+        "typography_indic_script_coherence": 5,
+        "composite_score": 5.0
+      }
+    },
+    {
+      "participant_id": "P05",
+      "prompt_id": "PR-02",
+      "model_name": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "ratings": {
+        "cultural_contextual_fidelity": 3,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 1,
+        "composite_score": 3.45
+      }
+    },
+    {
+      "participant_id": "P05",
+      "prompt_id": "PR-02",
+      "model_name": "Google \u2014 Gemini 2.5 Flash Image",
+      "ratings": {
+        "cultural_contextual_fidelity": 5,
+        "visual_quality_photorealism": 3,
+        "prompt_alignment_entity_accuracy": 3,
+        "typography_indic_script_coherence": 3,
+        "composite_score": 3.7
+      }
+    },
+    {
+      "participant_id": "P05",
+      "prompt_id": "PR-02",
+      "model_name": "OpenAI \u2014 GPT Image 1",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 3,
+        "composite_score": 4.1
+      }
+    },
+    {
+      "participant_id": "P05",
+      "prompt_id": "PR-03",
+      "model_name": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "ratings": {
+        "cultural_contextual_fidelity": 5,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 5,
+        "typography_indic_script_coherence": 4,
+        "composite_score": 4.6
+      }
+    },
+    {
+      "participant_id": "P05",
+      "prompt_id": "PR-03",
+      "model_name": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 3,
+        "typography_indic_script_coherence": 2,
+        "composite_score": 3.7
+      }
+    },
+    {
+      "participant_id": "P05",
+      "prompt_id": "PR-03",
+      "model_name": "Google \u2014 Gemini 2.5 Flash Image",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 3,
+        "composite_score": 3.85
+      }
+    },
+    {
+      "participant_id": "P05",
+      "prompt_id": "PR-03",
+      "model_name": "OpenAI \u2014 GPT Image 1",
+      "ratings": {
+        "cultural_contextual_fidelity": 5,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 1,
+        "composite_score": 3.9
+      }
+    },
+    {
+      "participant_id": "P05",
+      "prompt_id": "PR-04",
+      "model_name": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "ratings": {
+        "cultural_contextual_fidelity": 5,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 5,
+        "typography_indic_script_coherence": 5,
+        "composite_score": 5.0
+      }
+    },
+    {
+      "participant_id": "P05",
+      "prompt_id": "PR-04",
+      "model_name": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "ratings": {
+        "cultural_contextual_fidelity": 5,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 3,
+        "composite_score": 4.45
+      }
+    },
+    {
+      "participant_id": "P05",
+      "prompt_id": "PR-04",
+      "model_name": "Google \u2014 Gemini 2.5 Flash Image",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 3,
+        "typography_indic_script_coherence": 3,
+        "composite_score": 3.6
+      }
+    },
+    {
+      "participant_id": "P05",
+      "prompt_id": "PR-04",
+      "model_name": "OpenAI \u2014 GPT Image 1",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 3,
+        "prompt_alignment_entity_accuracy": 3,
+        "typography_indic_script_coherence": 1,
+        "composite_score": 3.05
+      }
+    },
+    {
+      "participant_id": "P06",
+      "prompt_id": "PR-01",
+      "model_name": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 5,
+        "typography_indic_script_coherence": 4,
+        "composite_score": 4.5
+      }
+    },
+    {
+      "participant_id": "P06",
+      "prompt_id": "PR-01",
+      "model_name": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "ratings": {
+        "cultural_contextual_fidelity": 3,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 3,
+        "composite_score": 3.75
+      }
+    },
+    {
+      "participant_id": "P06",
+      "prompt_id": "PR-01",
+      "model_name": "Google \u2014 Gemini 2.5 Flash Image",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 2,
+        "composite_score": 3.7
+      }
+    },
+    {
+      "participant_id": "P06",
+      "prompt_id": "PR-01",
+      "model_name": "OpenAI \u2014 GPT Image 1",
+      "ratings": {
+        "cultural_contextual_fidelity": 3,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 3,
+        "typography_indic_script_coherence": 2,
+        "composite_score": 3.1
+      }
+    },
+    {
+      "participant_id": "P06",
+      "prompt_id": "PR-02",
+      "model_name": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 5,
+        "typography_indic_script_coherence": 3,
+        "composite_score": 4.35
+      }
+    },
+    {
+      "participant_id": "P06",
+      "prompt_id": "PR-02",
+      "model_name": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 3,
+        "composite_score": 4.1
+      }
+    },
+    {
+      "participant_id": "P06",
+      "prompt_id": "PR-02",
+      "model_name": "Google \u2014 Gemini 2.5 Flash Image",
+      "ratings": {
+        "cultural_contextual_fidelity": 5,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 3,
+        "composite_score": 4.2
+      }
+    },
+    {
+      "participant_id": "P06",
+      "prompt_id": "PR-02",
+      "model_name": "OpenAI \u2014 GPT Image 1",
+      "ratings": {
+        "cultural_contextual_fidelity": 3,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 5,
+        "typography_indic_script_coherence": 2,
+        "composite_score": 3.6
+      }
+    },
+    {
+      "participant_id": "P06",
+      "prompt_id": "PR-03",
+      "model_name": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 5,
+        "typography_indic_script_coherence": 3,
+        "composite_score": 4.35
+      }
+    },
+    {
+      "participant_id": "P06",
+      "prompt_id": "PR-03",
+      "model_name": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "ratings": {
+        "cultural_contextual_fidelity": 3,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 2,
+        "composite_score": 3.6
+      }
+    },
+    {
+      "participant_id": "P06",
+      "prompt_id": "PR-03",
+      "model_name": "Google \u2014 Gemini 2.5 Flash Image",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 3,
+        "composite_score": 3.85
+      }
+    },
+    {
+      "participant_id": "P06",
+      "prompt_id": "PR-03",
+      "model_name": "OpenAI \u2014 GPT Image 1",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 2,
+        "composite_score": 3.95
+      }
+    },
+    {
+      "participant_id": "P06",
+      "prompt_id": "PR-04",
+      "model_name": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 5,
+        "typography_indic_script_coherence": 5,
+        "composite_score": 4.4
+      }
+    },
+    {
+      "participant_id": "P06",
+      "prompt_id": "PR-04",
+      "model_name": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "ratings": {
+        "cultural_contextual_fidelity": 3,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 3,
+        "typography_indic_script_coherence": 2,
+        "composite_score": 3.1
+      }
+    },
+    {
+      "participant_id": "P06",
+      "prompt_id": "PR-04",
+      "model_name": "Google \u2014 Gemini 2.5 Flash Image",
+      "ratings": {
+        "cultural_contextual_fidelity": 3,
+        "visual_quality_photorealism": 3,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 2,
+        "composite_score": 3.1
+      }
+    },
+    {
+      "participant_id": "P06",
+      "prompt_id": "PR-04",
+      "model_name": "OpenAI \u2014 GPT Image 1",
+      "ratings": {
+        "cultural_contextual_fidelity": 3,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 3,
+        "typography_indic_script_coherence": 1,
+        "composite_score": 2.95
+      }
+    },
+    {
+      "participant_id": "P07",
+      "prompt_id": "PR-01",
+      "model_name": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "ratings": {
+        "cultural_contextual_fidelity": 5,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 4,
+        "composite_score": 4.35
+      }
+    },
+    {
+      "participant_id": "P07",
+      "prompt_id": "PR-01",
+      "model_name": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 2,
+        "composite_score": 3.7
+      }
+    },
+    {
+      "participant_id": "P07",
+      "prompt_id": "PR-01",
+      "model_name": "Google \u2014 Gemini 2.5 Flash Image",
+      "ratings": {
+        "cultural_contextual_fidelity": 3,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 3,
+        "composite_score": 3.75
+      }
+    },
+    {
+      "participant_id": "P07",
+      "prompt_id": "PR-01",
+      "model_name": "OpenAI \u2014 GPT Image 1",
+      "ratings": {
+        "cultural_contextual_fidelity": 5,
+        "visual_quality_photorealism": 3,
+        "prompt_alignment_entity_accuracy": 3,
+        "typography_indic_script_coherence": 1,
+        "composite_score": 3.4
+      }
+    },
+    {
+      "participant_id": "P07",
+      "prompt_id": "PR-02",
+      "model_name": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "ratings": {
+        "cultural_contextual_fidelity": 5,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 4,
+        "composite_score": 4.6
+      }
+    },
+    {
+      "participant_id": "P07",
+      "prompt_id": "PR-02",
+      "model_name": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 2,
+        "composite_score": 3.95
+      }
+    },
+    {
+      "participant_id": "P07",
+      "prompt_id": "PR-02",
+      "model_name": "Google \u2014 Gemini 2.5 Flash Image",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 5,
+        "typography_indic_script_coherence": 3,
+        "composite_score": 4.1
+      }
+    },
+    {
+      "participant_id": "P07",
+      "prompt_id": "PR-02",
+      "model_name": "OpenAI \u2014 GPT Image 1",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 2,
+        "composite_score": 3.7
+      }
+    },
+    {
+      "participant_id": "P07",
+      "prompt_id": "PR-03",
+      "model_name": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 3,
+        "composite_score": 4.1
+      }
+    },
+    {
+      "participant_id": "P07",
+      "prompt_id": "PR-03",
+      "model_name": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 3,
+        "typography_indic_script_coherence": 2,
+        "composite_score": 3.7
+      }
+    },
+    {
+      "participant_id": "P07",
+      "prompt_id": "PR-03",
+      "model_name": "Google \u2014 Gemini 2.5 Flash Image",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 5,
+        "typography_indic_script_coherence": 3,
+        "composite_score": 4.35
+      }
+    },
+    {
+      "participant_id": "P07",
+      "prompt_id": "PR-03",
+      "model_name": "OpenAI \u2014 GPT Image 1",
+      "ratings": {
+        "cultural_contextual_fidelity": 3,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 2,
+        "composite_score": 3.35
+      }
+    },
+    {
+      "participant_id": "P07",
+      "prompt_id": "PR-04",
+      "model_name": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "ratings": {
+        "cultural_contextual_fidelity": 5,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 4,
+        "composite_score": 4.6
+      }
+    },
+    {
+      "participant_id": "P07",
+      "prompt_id": "PR-04",
+      "model_name": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 2,
+        "composite_score": 3.7
+      }
+    },
+    {
+      "participant_id": "P07",
+      "prompt_id": "PR-04",
+      "model_name": "Google \u2014 Gemini 2.5 Flash Image",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 2,
+        "composite_score": 3.7
+      }
+    },
+    {
+      "participant_id": "P07",
+      "prompt_id": "PR-04",
+      "model_name": "OpenAI \u2014 GPT Image 1",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 2,
+        "composite_score": 3.7
+      }
+    },
+    {
+      "participant_id": "P08",
+      "prompt_id": "PR-01",
+      "model_name": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "ratings": {
+        "cultural_contextual_fidelity": 5,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 5,
+        "typography_indic_script_coherence": 4,
+        "composite_score": 4.6
+      }
+    },
+    {
+      "participant_id": "P08",
+      "prompt_id": "PR-01",
+      "model_name": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 3,
+        "composite_score": 4.1
+      }
+    },
+    {
+      "participant_id": "P08",
+      "prompt_id": "PR-01",
+      "model_name": "Google \u2014 Gemini 2.5 Flash Image",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 5,
+        "typography_indic_script_coherence": 4,
+        "composite_score": 4.5
+      }
+    },
+    {
+      "participant_id": "P08",
+      "prompt_id": "PR-01",
+      "model_name": "OpenAI \u2014 GPT Image 1",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 3,
+        "typography_indic_script_coherence": 2,
+        "composite_score": 3.45
+      }
+    },
+    {
+      "participant_id": "P08",
+      "prompt_id": "PR-02",
+      "model_name": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 5,
+        "typography_indic_script_coherence": 4,
+        "composite_score": 4.5
+      }
+    },
+    {
+      "participant_id": "P08",
+      "prompt_id": "PR-02",
+      "model_name": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 3,
+        "composite_score": 3.85
+      }
+    },
+    {
+      "participant_id": "P08",
+      "prompt_id": "PR-02",
+      "model_name": "Google \u2014 Gemini 2.5 Flash Image",
+      "ratings": {
+        "cultural_contextual_fidelity": 5,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 3,
+        "composite_score": 4.2
+      }
+    },
+    {
+      "participant_id": "P08",
+      "prompt_id": "PR-02",
+      "model_name": "OpenAI \u2014 GPT Image 1",
+      "ratings": {
+        "cultural_contextual_fidelity": 3,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 1,
+        "composite_score": 3.2
+      }
+    },
+    {
+      "participant_id": "P08",
+      "prompt_id": "PR-03",
+      "model_name": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 4,
+        "composite_score": 4.25
+      }
+    },
+    {
+      "participant_id": "P08",
+      "prompt_id": "PR-03",
+      "model_name": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 2,
+        "composite_score": 3.95
+      }
+    },
+    {
+      "participant_id": "P08",
+      "prompt_id": "PR-03",
+      "model_name": "Google \u2014 Gemini 2.5 Flash Image",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 3,
+        "composite_score": 4.1
+      }
+    },
+    {
+      "participant_id": "P08",
+      "prompt_id": "PR-03",
+      "model_name": "OpenAI \u2014 GPT Image 1",
+      "ratings": {
+        "cultural_contextual_fidelity": 5,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 5,
+        "typography_indic_script_coherence": 1,
+        "composite_score": 4.15
+      }
+    },
+    {
+      "participant_id": "P08",
+      "prompt_id": "PR-04",
+      "model_name": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "ratings": {
+        "cultural_contextual_fidelity": 5,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 5,
+        "typography_indic_script_coherence": 4,
+        "composite_score": 4.85
+      }
+    },
+    {
+      "participant_id": "P08",
+      "prompt_id": "PR-04",
+      "model_name": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "ratings": {
+        "cultural_contextual_fidelity": 3,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 3,
+        "typography_indic_script_coherence": 2,
+        "composite_score": 3.1
+      }
+    },
+    {
+      "participant_id": "P08",
+      "prompt_id": "PR-04",
+      "model_name": "Google \u2014 Gemini 2.5 Flash Image",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 3,
+        "composite_score": 3.85
+      }
+    },
+    {
+      "participant_id": "P08",
+      "prompt_id": "PR-04",
+      "model_name": "OpenAI \u2014 GPT Image 1",
+      "ratings": {
+        "cultural_contextual_fidelity": 3,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 3,
+        "typography_indic_script_coherence": 2,
+        "composite_score": 3.1
+      }
+    },
+    {
+      "participant_id": "P09",
+      "prompt_id": "PR-01",
+      "model_name": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 4,
+        "composite_score": 4.25
+      }
+    },
+    {
+      "participant_id": "P09",
+      "prompt_id": "PR-01",
+      "model_name": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "ratings": {
+        "cultural_contextual_fidelity": 5,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 5,
+        "typography_indic_script_coherence": 1,
+        "composite_score": 4.15
+      }
+    },
+    {
+      "participant_id": "P09",
+      "prompt_id": "PR-01",
+      "model_name": "Google \u2014 Gemini 2.5 Flash Image",
+      "ratings": {
+        "cultural_contextual_fidelity": 5,
+        "visual_quality_photorealism": 3,
+        "prompt_alignment_entity_accuracy": 3,
+        "typography_indic_script_coherence": 3,
+        "composite_score": 3.7
+      }
+    },
+    {
+      "participant_id": "P09",
+      "prompt_id": "PR-01",
+      "model_name": "OpenAI \u2014 GPT Image 1",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 3,
+        "typography_indic_script_coherence": 3,
+        "composite_score": 3.6
+      }
+    },
+    {
+      "participant_id": "P09",
+      "prompt_id": "PR-02",
+      "model_name": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 5,
+        "composite_score": 4.4
+      }
+    },
+    {
+      "participant_id": "P09",
+      "prompt_id": "PR-02",
+      "model_name": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "ratings": {
+        "cultural_contextual_fidelity": 5,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 3,
+        "composite_score": 4.45
+      }
+    },
+    {
+      "participant_id": "P09",
+      "prompt_id": "PR-02",
+      "model_name": "Google \u2014 Gemini 2.5 Flash Image",
+      "ratings": {
+        "cultural_contextual_fidelity": 5,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 3,
+        "composite_score": 4.45
+      }
+    },
+    {
+      "participant_id": "P09",
+      "prompt_id": "PR-02",
+      "model_name": "OpenAI \u2014 GPT Image 1",
+      "ratings": {
+        "cultural_contextual_fidelity": 3,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 1,
+        "composite_score": 3.45
+      }
+    },
+    {
+      "participant_id": "P09",
+      "prompt_id": "PR-03",
+      "model_name": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 5,
+        "composite_score": 4.4
+      }
+    },
+    {
+      "participant_id": "P09",
+      "prompt_id": "PR-03",
+      "model_name": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 3,
+        "composite_score": 4.1
+      }
+    },
+    {
+      "participant_id": "P09",
+      "prompt_id": "PR-03",
+      "model_name": "Google \u2014 Gemini 2.5 Flash Image",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 5,
+        "typography_indic_script_coherence": 3,
+        "composite_score": 4.1
+      }
+    },
+    {
+      "participant_id": "P09",
+      "prompt_id": "PR-03",
+      "model_name": "OpenAI \u2014 GPT Image 1",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 3,
+        "composite_score": 3.85
+      }
+    },
+    {
+      "participant_id": "P09",
+      "prompt_id": "PR-04",
+      "model_name": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 5,
+        "typography_indic_script_coherence": 5,
+        "composite_score": 4.65
+      }
+    },
+    {
+      "participant_id": "P09",
+      "prompt_id": "PR-04",
+      "model_name": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 3,
+        "composite_score": 3.85
+      }
+    },
+    {
+      "participant_id": "P09",
+      "prompt_id": "PR-04",
+      "model_name": "Google \u2014 Gemini 2.5 Flash Image",
+      "ratings": {
+        "cultural_contextual_fidelity": 3,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 3,
+        "typography_indic_script_coherence": 3,
+        "composite_score": 3.25
+      }
+    },
+    {
+      "participant_id": "P09",
+      "prompt_id": "PR-04",
+      "model_name": "OpenAI \u2014 GPT Image 1",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 1,
+        "composite_score": 3.55
+      }
+    },
+    {
+      "participant_id": "P10",
+      "prompt_id": "PR-01",
+      "model_name": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 5,
+        "composite_score": 4.4
+      }
+    },
+    {
+      "participant_id": "P10",
+      "prompt_id": "PR-01",
+      "model_name": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 1,
+        "composite_score": 3.8
+      }
+    },
+    {
+      "participant_id": "P10",
+      "prompt_id": "PR-01",
+      "model_name": "Google \u2014 Gemini 2.5 Flash Image",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 5,
+        "typography_indic_script_coherence": 3,
+        "composite_score": 4.35
+      }
+    },
+    {
+      "participant_id": "P10",
+      "prompt_id": "PR-01",
+      "model_name": "OpenAI \u2014 GPT Image 1",
+      "ratings": {
+        "cultural_contextual_fidelity": 2,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 2,
+        "composite_score": 3.0
+      }
+    },
+    {
+      "participant_id": "P10",
+      "prompt_id": "PR-02",
+      "model_name": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 5,
+        "typography_indic_script_coherence": 4,
+        "composite_score": 4.5
+      }
+    },
+    {
+      "participant_id": "P10",
+      "prompt_id": "PR-02",
+      "model_name": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 2,
+        "composite_score": 3.95
+      }
+    },
+    {
+      "participant_id": "P10",
+      "prompt_id": "PR-02",
+      "model_name": "Google \u2014 Gemini 2.5 Flash Image",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 3,
+        "composite_score": 3.85
+      }
+    },
+    {
+      "participant_id": "P10",
+      "prompt_id": "PR-02",
+      "model_name": "OpenAI \u2014 GPT Image 1",
+      "ratings": {
+        "cultural_contextual_fidelity": 5,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 2,
+        "composite_score": 4.05
+      }
+    },
+    {
+      "participant_id": "P10",
+      "prompt_id": "PR-03",
+      "model_name": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 4,
+        "composite_score": 4.25
+      }
+    },
+    {
+      "participant_id": "P10",
+      "prompt_id": "PR-03",
+      "model_name": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 2,
+        "composite_score": 3.95
+      }
+    },
+    {
+      "participant_id": "P10",
+      "prompt_id": "PR-03",
+      "model_name": "Google \u2014 Gemini 2.5 Flash Image",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 5,
+        "typography_indic_script_coherence": 4,
+        "composite_score": 4.25
+      }
+    },
+    {
+      "participant_id": "P10",
+      "prompt_id": "PR-03",
+      "model_name": "OpenAI \u2014 GPT Image 1",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 2,
+        "composite_score": 3.7
+      }
+    },
+    {
+      "participant_id": "P10",
+      "prompt_id": "PR-04",
+      "model_name": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "ratings": {
+        "cultural_contextual_fidelity": 5,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 5,
+        "typography_indic_script_coherence": 5,
+        "composite_score": 5.0
+      }
+    },
+    {
+      "participant_id": "P10",
+      "prompt_id": "PR-04",
+      "model_name": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "ratings": {
+        "cultural_contextual_fidelity": 3,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 3,
+        "typography_indic_script_coherence": 1,
+        "composite_score": 2.95
+      }
+    },
+    {
+      "participant_id": "P10",
+      "prompt_id": "PR-04",
+      "model_name": "Google \u2014 Gemini 2.5 Flash Image",
+      "ratings": {
+        "cultural_contextual_fidelity": 4,
+        "visual_quality_photorealism": 5,
+        "prompt_alignment_entity_accuracy": 4,
+        "typography_indic_script_coherence": 3,
+        "composite_score": 4.1
+      }
+    },
+    {
+      "participant_id": "P10",
+      "prompt_id": "PR-04",
+      "model_name": "OpenAI \u2014 GPT Image 1",
+      "ratings": {
+        "cultural_contextual_fidelity": 3,
+        "visual_quality_photorealism": 4,
+        "prompt_alignment_entity_accuracy": 5,
+        "typography_indic_script_coherence": 1,
+        "composite_score": 3.45
+      }
+    }
+  ],
+  "pairwise_battles": [
+    {
+      "participant_id": "P01",
+      "prompt_id": "PR-01",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "outcome": "win_a",
+      "score_a": 5.0,
+      "score_b": 4.35
+    },
+    {
+      "participant_id": "P01",
+      "prompt_id": "PR-01",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_a",
+      "score_a": 5.0,
+      "score_b": 4.1
+    },
+    {
+      "participant_id": "P01",
+      "prompt_id": "PR-01",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 5.0,
+      "score_b": 2.7
+    },
+    {
+      "participant_id": "P01",
+      "prompt_id": "PR-01",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_a",
+      "score_a": 4.35,
+      "score_b": 4.1
+    },
+    {
+      "participant_id": "P01",
+      "prompt_id": "PR-01",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 4.35,
+      "score_b": 2.7
+    },
+    {
+      "participant_id": "P01",
+      "prompt_id": "PR-01",
+      "model_a": "Google \u2014 Gemini 2.5 Flash Image",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 4.1,
+      "score_b": 2.7
+    },
+    {
+      "participant_id": "P01",
+      "prompt_id": "PR-02",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "outcome": "win_a",
+      "score_a": 4.35,
+      "score_b": 3.6
+    },
+    {
+      "participant_id": "P01",
+      "prompt_id": "PR-02",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_a",
+      "score_a": 4.35,
+      "score_b": 3.95
+    },
+    {
+      "participant_id": "P01",
+      "prompt_id": "PR-02",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_b",
+      "score_a": 4.35,
+      "score_b": 3.55
+    },
+    {
+      "participant_id": "P01",
+      "prompt_id": "PR-02",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_b",
+      "score_a": 3.6,
+      "score_b": 3.95
+    },
+    {
+      "participant_id": "P01",
+      "prompt_id": "PR-02",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_b",
+      "score_a": 3.6,
+      "score_b": 3.55
+    },
+    {
+      "participant_id": "P01",
+      "prompt_id": "PR-02",
+      "model_a": "Google \u2014 Gemini 2.5 Flash Image",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 3.95,
+      "score_b": 3.55
+    },
+    {
+      "participant_id": "P01",
+      "prompt_id": "PR-03",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "outcome": "win_a",
+      "score_a": 4.25,
+      "score_b": 3.6
+    },
+    {
+      "participant_id": "P01",
+      "prompt_id": "PR-03",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_a",
+      "score_a": 4.25,
+      "score_b": 4.5
+    },
+    {
+      "participant_id": "P01",
+      "prompt_id": "PR-03",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 4.25,
+      "score_b": 3.25
+    },
+    {
+      "participant_id": "P01",
+      "prompt_id": "PR-03",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_b",
+      "score_a": 3.6,
+      "score_b": 4.5
+    },
+    {
+      "participant_id": "P01",
+      "prompt_id": "PR-03",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_b",
+      "score_a": 3.6,
+      "score_b": 3.25
+    },
+    {
+      "participant_id": "P01",
+      "prompt_id": "PR-03",
+      "model_a": "Google \u2014 Gemini 2.5 Flash Image",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_b",
+      "score_a": 4.5,
+      "score_b": 3.25
+    },
+    {
+      "participant_id": "P01",
+      "prompt_id": "PR-04",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "outcome": "win_a",
+      "score_a": 4.65,
+      "score_b": 3.8
+    },
+    {
+      "participant_id": "P01",
+      "prompt_id": "PR-04",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_a",
+      "score_a": 4.65,
+      "score_b": 3.25
+    },
+    {
+      "participant_id": "P01",
+      "prompt_id": "PR-04",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 4.65,
+      "score_b": 3.3
+    },
+    {
+      "participant_id": "P01",
+      "prompt_id": "PR-04",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_a",
+      "score_a": 3.8,
+      "score_b": 3.25
+    },
+    {
+      "participant_id": "P01",
+      "prompt_id": "PR-04",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 3.8,
+      "score_b": 3.3
+    },
+    {
+      "participant_id": "P01",
+      "prompt_id": "PR-04",
+      "model_a": "Google \u2014 Gemini 2.5 Flash Image",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_b",
+      "score_a": 3.25,
+      "score_b": 3.3
+    },
+    {
+      "participant_id": "P02",
+      "prompt_id": "PR-01",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "outcome": "win_a",
+      "score_a": 4.75,
+      "score_b": 3.95
+    },
+    {
+      "participant_id": "P02",
+      "prompt_id": "PR-01",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_a",
+      "score_a": 4.75,
+      "score_b": 3.85
+    },
+    {
+      "participant_id": "P02",
+      "prompt_id": "PR-01",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_b",
+      "score_a": 4.75,
+      "score_b": 2.95
+    },
+    {
+      "participant_id": "P02",
+      "prompt_id": "PR-01",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_a",
+      "score_a": 3.95,
+      "score_b": 3.85
+    },
+    {
+      "participant_id": "P02",
+      "prompt_id": "PR-01",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 3.95,
+      "score_b": 2.95
+    },
+    {
+      "participant_id": "P02",
+      "prompt_id": "PR-01",
+      "model_a": "Google \u2014 Gemini 2.5 Flash Image",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 3.85,
+      "score_b": 2.95
+    },
+    {
+      "participant_id": "P02",
+      "prompt_id": "PR-02",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "outcome": "win_b",
+      "score_a": 4.35,
+      "score_b": 3.95
+    },
+    {
+      "participant_id": "P02",
+      "prompt_id": "PR-02",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_a",
+      "score_a": 4.35,
+      "score_b": 3.85
+    },
+    {
+      "participant_id": "P02",
+      "prompt_id": "PR-02",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 4.35,
+      "score_b": 3.55
+    },
+    {
+      "participant_id": "P02",
+      "prompt_id": "PR-02",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_a",
+      "score_a": 3.95,
+      "score_b": 3.85
+    },
+    {
+      "participant_id": "P02",
+      "prompt_id": "PR-02",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 3.95,
+      "score_b": 3.55
+    },
+    {
+      "participant_id": "P02",
+      "prompt_id": "PR-02",
+      "model_a": "Google \u2014 Gemini 2.5 Flash Image",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 3.85,
+      "score_b": 3.55
+    },
+    {
+      "participant_id": "P02",
+      "prompt_id": "PR-03",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "outcome": "win_a",
+      "score_a": 4.5,
+      "score_b": 3.75
+    },
+    {
+      "participant_id": "P02",
+      "prompt_id": "PR-03",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_a",
+      "score_a": 4.5,
+      "score_b": 4.1
+    },
+    {
+      "participant_id": "P02",
+      "prompt_id": "PR-03",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 4.5,
+      "score_b": 3.85
+    },
+    {
+      "participant_id": "P02",
+      "prompt_id": "PR-03",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_b",
+      "score_a": 3.75,
+      "score_b": 4.1
+    },
+    {
+      "participant_id": "P02",
+      "prompt_id": "PR-03",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_b",
+      "score_a": 3.75,
+      "score_b": 3.85
+    },
+    {
+      "participant_id": "P02",
+      "prompt_id": "PR-03",
+      "model_a": "Google \u2014 Gemini 2.5 Flash Image",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 4.1,
+      "score_b": 3.85
+    },
+    {
+      "participant_id": "P02",
+      "prompt_id": "PR-04",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "outcome": "win_a",
+      "score_a": 5.0,
+      "score_b": 3.2
+    },
+    {
+      "participant_id": "P02",
+      "prompt_id": "PR-04",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_b",
+      "score_a": 5.0,
+      "score_b": 3.95
+    },
+    {
+      "participant_id": "P02",
+      "prompt_id": "PR-04",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 5.0,
+      "score_b": 2.85
+    },
+    {
+      "participant_id": "P02",
+      "prompt_id": "PR-04",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_b",
+      "score_a": 3.2,
+      "score_b": 3.95
+    },
+    {
+      "participant_id": "P02",
+      "prompt_id": "PR-04",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 3.2,
+      "score_b": 2.85
+    },
+    {
+      "participant_id": "P02",
+      "prompt_id": "PR-04",
+      "model_a": "Google \u2014 Gemini 2.5 Flash Image",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 3.95,
+      "score_b": 2.85
+    },
+    {
+      "participant_id": "P03",
+      "prompt_id": "PR-01",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "outcome": "win_a",
+      "score_a": 4.25,
+      "score_b": 4.1
+    },
+    {
+      "participant_id": "P03",
+      "prompt_id": "PR-01",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_a",
+      "score_a": 4.25,
+      "score_b": 4.35
+    },
+    {
+      "participant_id": "P03",
+      "prompt_id": "PR-01",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_b",
+      "score_a": 4.25,
+      "score_b": 2.75
+    },
+    {
+      "participant_id": "P03",
+      "prompt_id": "PR-01",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_b",
+      "score_a": 4.1,
+      "score_b": 4.35
+    },
+    {
+      "participant_id": "P03",
+      "prompt_id": "PR-01",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 4.1,
+      "score_b": 2.75
+    },
+    {
+      "participant_id": "P03",
+      "prompt_id": "PR-01",
+      "model_a": "Google \u2014 Gemini 2.5 Flash Image",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 4.35,
+      "score_b": 2.75
+    },
+    {
+      "participant_id": "P03",
+      "prompt_id": "PR-02",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "outcome": "win_b",
+      "score_a": 4.5,
+      "score_b": 3.95
+    },
+    {
+      "participant_id": "P03",
+      "prompt_id": "PR-02",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_b",
+      "score_a": 4.5,
+      "score_b": 3.85
+    },
+    {
+      "participant_id": "P03",
+      "prompt_id": "PR-02",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_b",
+      "score_a": 4.5,
+      "score_b": 3.7
+    },
+    {
+      "participant_id": "P03",
+      "prompt_id": "PR-02",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_b",
+      "score_a": 3.95,
+      "score_b": 3.85
+    },
+    {
+      "participant_id": "P03",
+      "prompt_id": "PR-02",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 3.95,
+      "score_b": 3.7
+    },
+    {
+      "participant_id": "P03",
+      "prompt_id": "PR-02",
+      "model_a": "Google \u2014 Gemini 2.5 Flash Image",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_b",
+      "score_a": 3.85,
+      "score_b": 3.7
+    },
+    {
+      "participant_id": "P03",
+      "prompt_id": "PR-03",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "outcome": "win_a",
+      "score_a": 5.0,
+      "score_b": 3.6
+    },
+    {
+      "participant_id": "P03",
+      "prompt_id": "PR-03",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_a",
+      "score_a": 5.0,
+      "score_b": 4.05
+    },
+    {
+      "participant_id": "P03",
+      "prompt_id": "PR-03",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 5.0,
+      "score_b": 3.45
+    },
+    {
+      "participant_id": "P03",
+      "prompt_id": "PR-03",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_a",
+      "score_a": 3.6,
+      "score_b": 4.05
+    },
+    {
+      "participant_id": "P03",
+      "prompt_id": "PR-03",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 3.6,
+      "score_b": 3.45
+    },
+    {
+      "participant_id": "P03",
+      "prompt_id": "PR-03",
+      "model_a": "Google \u2014 Gemini 2.5 Flash Image",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 4.05,
+      "score_b": 3.45
+    },
+    {
+      "participant_id": "P03",
+      "prompt_id": "PR-04",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "outcome": "win_a",
+      "score_a": 5.0,
+      "score_b": 3.3
+    },
+    {
+      "participant_id": "P03",
+      "prompt_id": "PR-04",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_b",
+      "score_a": 5.0,
+      "score_b": 3.6
+    },
+    {
+      "participant_id": "P03",
+      "prompt_id": "PR-04",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 5.0,
+      "score_b": 3.1
+    },
+    {
+      "participant_id": "P03",
+      "prompt_id": "PR-04",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_b",
+      "score_a": 3.3,
+      "score_b": 3.6
+    },
+    {
+      "participant_id": "P03",
+      "prompt_id": "PR-04",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_b",
+      "score_a": 3.3,
+      "score_b": 3.1
+    },
+    {
+      "participant_id": "P03",
+      "prompt_id": "PR-04",
+      "model_a": "Google \u2014 Gemini 2.5 Flash Image",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 3.6,
+      "score_b": 3.1
+    },
+    {
+      "participant_id": "P04",
+      "prompt_id": "PR-01",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "outcome": "win_a",
+      "score_a": 4.75,
+      "score_b": 3.35
+    },
+    {
+      "participant_id": "P04",
+      "prompt_id": "PR-01",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_b",
+      "score_a": 4.75,
+      "score_b": 3.95
+    },
+    {
+      "participant_id": "P04",
+      "prompt_id": "PR-01",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 4.75,
+      "score_b": 3.2
+    },
+    {
+      "participant_id": "P04",
+      "prompt_id": "PR-01",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_a",
+      "score_a": 3.35,
+      "score_b": 3.95
+    },
+    {
+      "participant_id": "P04",
+      "prompt_id": "PR-01",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 3.35,
+      "score_b": 3.2
+    },
+    {
+      "participant_id": "P04",
+      "prompt_id": "PR-01",
+      "model_a": "Google \u2014 Gemini 2.5 Flash Image",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 3.95,
+      "score_b": 3.2
+    },
+    {
+      "participant_id": "P04",
+      "prompt_id": "PR-02",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "outcome": "win_a",
+      "score_a": 4.75,
+      "score_b": 3.85
+    },
+    {
+      "participant_id": "P04",
+      "prompt_id": "PR-02",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_a",
+      "score_a": 4.75,
+      "score_b": 3.85
+    },
+    {
+      "participant_id": "P04",
+      "prompt_id": "PR-02",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_b",
+      "score_a": 4.75,
+      "score_b": 3.7
+    },
+    {
+      "participant_id": "P04",
+      "prompt_id": "PR-02",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_b",
+      "score_a": 3.85,
+      "score_b": 3.85
+    },
+    {
+      "participant_id": "P04",
+      "prompt_id": "PR-02",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "tie",
+      "score_a": 3.85,
+      "score_b": 3.7
+    },
+    {
+      "participant_id": "P04",
+      "prompt_id": "PR-02",
+      "model_a": "Google \u2014 Gemini 2.5 Flash Image",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_b",
+      "score_a": 3.85,
+      "score_b": 3.7
+    },
+    {
+      "participant_id": "P04",
+      "prompt_id": "PR-03",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "outcome": "win_b",
+      "score_a": 4.85,
+      "score_b": 4.1
+    },
+    {
+      "participant_id": "P04",
+      "prompt_id": "PR-03",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_b",
+      "score_a": 4.85,
+      "score_b": 4.7
+    },
+    {
+      "participant_id": "P04",
+      "prompt_id": "PR-03",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 4.85,
+      "score_b": 3.7
+    },
+    {
+      "participant_id": "P04",
+      "prompt_id": "PR-03",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_b",
+      "score_a": 4.1,
+      "score_b": 4.7
+    },
+    {
+      "participant_id": "P04",
+      "prompt_id": "PR-03",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 4.1,
+      "score_b": 3.7
+    },
+    {
+      "participant_id": "P04",
+      "prompt_id": "PR-03",
+      "model_a": "Google \u2014 Gemini 2.5 Flash Image",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 4.7,
+      "score_b": 3.7
+    },
+    {
+      "participant_id": "P04",
+      "prompt_id": "PR-04",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "outcome": "win_b",
+      "score_a": 4.85,
+      "score_b": 3.25
+    },
+    {
+      "participant_id": "P04",
+      "prompt_id": "PR-04",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_b",
+      "score_a": 4.85,
+      "score_b": 3.85
+    },
+    {
+      "participant_id": "P04",
+      "prompt_id": "PR-04",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 4.85,
+      "score_b": 3.2
+    },
+    {
+      "participant_id": "P04",
+      "prompt_id": "PR-04",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_b",
+      "score_a": 3.25,
+      "score_b": 3.85
+    },
+    {
+      "participant_id": "P04",
+      "prompt_id": "PR-04",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 3.25,
+      "score_b": 3.2
+    },
+    {
+      "participant_id": "P04",
+      "prompt_id": "PR-04",
+      "model_a": "Google \u2014 Gemini 2.5 Flash Image",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 3.85,
+      "score_b": 3.2
+    },
+    {
+      "participant_id": "P05",
+      "prompt_id": "PR-01",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "outcome": "win_a",
+      "score_a": 4.85,
+      "score_b": 3.95
+    },
+    {
+      "participant_id": "P05",
+      "prompt_id": "PR-01",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_a",
+      "score_a": 4.85,
+      "score_b": 4.1
+    },
+    {
+      "participant_id": "P05",
+      "prompt_id": "PR-01",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_b",
+      "score_a": 4.85,
+      "score_b": 3.7
+    },
+    {
+      "participant_id": "P05",
+      "prompt_id": "PR-01",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_b",
+      "score_a": 3.95,
+      "score_b": 4.1
+    },
+    {
+      "participant_id": "P05",
+      "prompt_id": "PR-01",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_b",
+      "score_a": 3.95,
+      "score_b": 3.7
+    },
+    {
+      "participant_id": "P05",
+      "prompt_id": "PR-01",
+      "model_a": "Google \u2014 Gemini 2.5 Flash Image",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 4.1,
+      "score_b": 3.7
+    },
+    {
+      "participant_id": "P05",
+      "prompt_id": "PR-02",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "outcome": "win_a",
+      "score_a": 5.0,
+      "score_b": 3.45
+    },
+    {
+      "participant_id": "P05",
+      "prompt_id": "PR-02",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_b",
+      "score_a": 5.0,
+      "score_b": 3.7
+    },
+    {
+      "participant_id": "P05",
+      "prompt_id": "PR-02",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_b",
+      "score_a": 5.0,
+      "score_b": 4.1
+    },
+    {
+      "participant_id": "P05",
+      "prompt_id": "PR-02",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_a",
+      "score_a": 3.45,
+      "score_b": 3.7
+    },
+    {
+      "participant_id": "P05",
+      "prompt_id": "PR-02",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 3.45,
+      "score_b": 4.1
+    },
+    {
+      "participant_id": "P05",
+      "prompt_id": "PR-02",
+      "model_a": "Google \u2014 Gemini 2.5 Flash Image",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_b",
+      "score_a": 3.7,
+      "score_b": 4.1
+    },
+    {
+      "participant_id": "P05",
+      "prompt_id": "PR-03",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "outcome": "win_a",
+      "score_a": 4.6,
+      "score_b": 3.7
+    },
+    {
+      "participant_id": "P05",
+      "prompt_id": "PR-03",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_b",
+      "score_a": 4.6,
+      "score_b": 3.85
+    },
+    {
+      "participant_id": "P05",
+      "prompt_id": "PR-03",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 4.6,
+      "score_b": 3.9
+    },
+    {
+      "participant_id": "P05",
+      "prompt_id": "PR-03",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_a",
+      "score_a": 3.7,
+      "score_b": 3.85
+    },
+    {
+      "participant_id": "P05",
+      "prompt_id": "PR-03",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_b",
+      "score_a": 3.7,
+      "score_b": 3.9
+    },
+    {
+      "participant_id": "P05",
+      "prompt_id": "PR-03",
+      "model_a": "Google \u2014 Gemini 2.5 Flash Image",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 3.85,
+      "score_b": 3.9
+    },
+    {
+      "participant_id": "P05",
+      "prompt_id": "PR-04",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "outcome": "win_b",
+      "score_a": 5.0,
+      "score_b": 4.45
+    },
+    {
+      "participant_id": "P05",
+      "prompt_id": "PR-04",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_a",
+      "score_a": 5.0,
+      "score_b": 3.6
+    },
+    {
+      "participant_id": "P05",
+      "prompt_id": "PR-04",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 5.0,
+      "score_b": 3.05
+    },
+    {
+      "participant_id": "P05",
+      "prompt_id": "PR-04",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_b",
+      "score_a": 4.45,
+      "score_b": 3.6
+    },
+    {
+      "participant_id": "P05",
+      "prompt_id": "PR-04",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 4.45,
+      "score_b": 3.05
+    },
+    {
+      "participant_id": "P05",
+      "prompt_id": "PR-04",
+      "model_a": "Google \u2014 Gemini 2.5 Flash Image",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 3.6,
+      "score_b": 3.05
+    },
+    {
+      "participant_id": "P06",
+      "prompt_id": "PR-01",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "outcome": "win_a",
+      "score_a": 4.5,
+      "score_b": 3.75
+    },
+    {
+      "participant_id": "P06",
+      "prompt_id": "PR-01",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_a",
+      "score_a": 4.5,
+      "score_b": 3.7
+    },
+    {
+      "participant_id": "P06",
+      "prompt_id": "PR-01",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 4.5,
+      "score_b": 3.1
+    },
+    {
+      "participant_id": "P06",
+      "prompt_id": "PR-01",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "tie",
+      "score_a": 3.75,
+      "score_b": 3.7
+    },
+    {
+      "participant_id": "P06",
+      "prompt_id": "PR-01",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 3.75,
+      "score_b": 3.1
+    },
+    {
+      "participant_id": "P06",
+      "prompt_id": "PR-01",
+      "model_a": "Google \u2014 Gemini 2.5 Flash Image",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 3.7,
+      "score_b": 3.1
+    },
+    {
+      "participant_id": "P06",
+      "prompt_id": "PR-02",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "outcome": "win_a",
+      "score_a": 4.35,
+      "score_b": 4.1
+    },
+    {
+      "participant_id": "P06",
+      "prompt_id": "PR-02",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_a",
+      "score_a": 4.35,
+      "score_b": 4.2
+    },
+    {
+      "participant_id": "P06",
+      "prompt_id": "PR-02",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 4.35,
+      "score_b": 3.6
+    },
+    {
+      "participant_id": "P06",
+      "prompt_id": "PR-02",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_a",
+      "score_a": 4.1,
+      "score_b": 4.2
+    },
+    {
+      "participant_id": "P06",
+      "prompt_id": "PR-02",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_b",
+      "score_a": 4.1,
+      "score_b": 3.6
+    },
+    {
+      "participant_id": "P06",
+      "prompt_id": "PR-02",
+      "model_a": "Google \u2014 Gemini 2.5 Flash Image",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 4.2,
+      "score_b": 3.6
+    },
+    {
+      "participant_id": "P06",
+      "prompt_id": "PR-03",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "outcome": "win_a",
+      "score_a": 4.35,
+      "score_b": 3.6
+    },
+    {
+      "participant_id": "P06",
+      "prompt_id": "PR-03",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_a",
+      "score_a": 4.35,
+      "score_b": 3.85
+    },
+    {
+      "participant_id": "P06",
+      "prompt_id": "PR-03",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 4.35,
+      "score_b": 3.95
+    },
+    {
+      "participant_id": "P06",
+      "prompt_id": "PR-03",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_b",
+      "score_a": 3.6,
+      "score_b": 3.85
+    },
+    {
+      "participant_id": "P06",
+      "prompt_id": "PR-03",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_b",
+      "score_a": 3.6,
+      "score_b": 3.95
+    },
+    {
+      "participant_id": "P06",
+      "prompt_id": "PR-03",
+      "model_a": "Google \u2014 Gemini 2.5 Flash Image",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "tie",
+      "score_a": 3.85,
+      "score_b": 3.95
+    },
+    {
+      "participant_id": "P06",
+      "prompt_id": "PR-04",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "outcome": "win_b",
+      "score_a": 4.4,
+      "score_b": 3.1
+    },
+    {
+      "participant_id": "P06",
+      "prompt_id": "PR-04",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_a",
+      "score_a": 4.4,
+      "score_b": 3.1
+    },
+    {
+      "participant_id": "P06",
+      "prompt_id": "PR-04",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 4.4,
+      "score_b": 2.95
+    },
+    {
+      "participant_id": "P06",
+      "prompt_id": "PR-04",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "tie",
+      "score_a": 3.1,
+      "score_b": 3.1
+    },
+    {
+      "participant_id": "P06",
+      "prompt_id": "PR-04",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_b",
+      "score_a": 3.1,
+      "score_b": 2.95
+    },
+    {
+      "participant_id": "P06",
+      "prompt_id": "PR-04",
+      "model_a": "Google \u2014 Gemini 2.5 Flash Image",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_b",
+      "score_a": 3.1,
+      "score_b": 2.95
+    },
+    {
+      "participant_id": "P07",
+      "prompt_id": "PR-01",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "outcome": "win_a",
+      "score_a": 4.35,
+      "score_b": 3.7
+    },
+    {
+      "participant_id": "P07",
+      "prompt_id": "PR-01",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_a",
+      "score_a": 4.35,
+      "score_b": 3.75
+    },
+    {
+      "participant_id": "P07",
+      "prompt_id": "PR-01",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_b",
+      "score_a": 4.35,
+      "score_b": 3.4
+    },
+    {
+      "participant_id": "P07",
+      "prompt_id": "PR-01",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_a",
+      "score_a": 3.7,
+      "score_b": 3.75
+    },
+    {
+      "participant_id": "P07",
+      "prompt_id": "PR-01",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 3.7,
+      "score_b": 3.4
+    },
+    {
+      "participant_id": "P07",
+      "prompt_id": "PR-01",
+      "model_a": "Google \u2014 Gemini 2.5 Flash Image",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_b",
+      "score_a": 3.75,
+      "score_b": 3.4
+    },
+    {
+      "participant_id": "P07",
+      "prompt_id": "PR-02",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "outcome": "win_a",
+      "score_a": 4.6,
+      "score_b": 3.95
+    },
+    {
+      "participant_id": "P07",
+      "prompt_id": "PR-02",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_b",
+      "score_a": 4.6,
+      "score_b": 4.1
+    },
+    {
+      "participant_id": "P07",
+      "prompt_id": "PR-02",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 4.6,
+      "score_b": 3.7
+    },
+    {
+      "participant_id": "P07",
+      "prompt_id": "PR-02",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_b",
+      "score_a": 3.95,
+      "score_b": 4.1
+    },
+    {
+      "participant_id": "P07",
+      "prompt_id": "PR-02",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_b",
+      "score_a": 3.95,
+      "score_b": 3.7
+    },
+    {
+      "participant_id": "P07",
+      "prompt_id": "PR-02",
+      "model_a": "Google \u2014 Gemini 2.5 Flash Image",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 4.1,
+      "score_b": 3.7
+    },
+    {
+      "participant_id": "P07",
+      "prompt_id": "PR-03",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "outcome": "win_a",
+      "score_a": 4.1,
+      "score_b": 3.7
+    },
+    {
+      "participant_id": "P07",
+      "prompt_id": "PR-03",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_a",
+      "score_a": 4.1,
+      "score_b": 4.35
+    },
+    {
+      "participant_id": "P07",
+      "prompt_id": "PR-03",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_b",
+      "score_a": 4.1,
+      "score_b": 3.35
+    },
+    {
+      "participant_id": "P07",
+      "prompt_id": "PR-03",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_b",
+      "score_a": 3.7,
+      "score_b": 4.35
+    },
+    {
+      "participant_id": "P07",
+      "prompt_id": "PR-03",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 3.7,
+      "score_b": 3.35
+    },
+    {
+      "participant_id": "P07",
+      "prompt_id": "PR-03",
+      "model_a": "Google \u2014 Gemini 2.5 Flash Image",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_b",
+      "score_a": 4.35,
+      "score_b": 3.35
+    },
+    {
+      "participant_id": "P07",
+      "prompt_id": "PR-04",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "outcome": "win_a",
+      "score_a": 4.6,
+      "score_b": 3.7
+    },
+    {
+      "participant_id": "P07",
+      "prompt_id": "PR-04",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_a",
+      "score_a": 4.6,
+      "score_b": 3.7
+    },
+    {
+      "participant_id": "P07",
+      "prompt_id": "PR-04",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 4.6,
+      "score_b": 3.7
+    },
+    {
+      "participant_id": "P07",
+      "prompt_id": "PR-04",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_a",
+      "score_a": 3.7,
+      "score_b": 3.7
+    },
+    {
+      "participant_id": "P07",
+      "prompt_id": "PR-04",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_b",
+      "score_a": 3.7,
+      "score_b": 3.7
+    },
+    {
+      "participant_id": "P07",
+      "prompt_id": "PR-04",
+      "model_a": "Google \u2014 Gemini 2.5 Flash Image",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 3.7,
+      "score_b": 3.7
+    },
+    {
+      "participant_id": "P08",
+      "prompt_id": "PR-01",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "outcome": "win_b",
+      "score_a": 4.6,
+      "score_b": 4.1
+    },
+    {
+      "participant_id": "P08",
+      "prompt_id": "PR-01",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "tie",
+      "score_a": 4.6,
+      "score_b": 4.5
+    },
+    {
+      "participant_id": "P08",
+      "prompt_id": "PR-01",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_b",
+      "score_a": 4.6,
+      "score_b": 3.45
+    },
+    {
+      "participant_id": "P08",
+      "prompt_id": "PR-01",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_b",
+      "score_a": 4.1,
+      "score_b": 4.5
+    },
+    {
+      "participant_id": "P08",
+      "prompt_id": "PR-01",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 4.1,
+      "score_b": 3.45
+    },
+    {
+      "participant_id": "P08",
+      "prompt_id": "PR-01",
+      "model_a": "Google \u2014 Gemini 2.5 Flash Image",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 4.5,
+      "score_b": 3.45
+    },
+    {
+      "participant_id": "P08",
+      "prompt_id": "PR-02",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "outcome": "win_a",
+      "score_a": 4.5,
+      "score_b": 3.85
+    },
+    {
+      "participant_id": "P08",
+      "prompt_id": "PR-02",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_b",
+      "score_a": 4.5,
+      "score_b": 4.2
+    },
+    {
+      "participant_id": "P08",
+      "prompt_id": "PR-02",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 4.5,
+      "score_b": 3.2
+    },
+    {
+      "participant_id": "P08",
+      "prompt_id": "PR-02",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_b",
+      "score_a": 3.85,
+      "score_b": 4.2
+    },
+    {
+      "participant_id": "P08",
+      "prompt_id": "PR-02",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 3.85,
+      "score_b": 3.2
+    },
+    {
+      "participant_id": "P08",
+      "prompt_id": "PR-02",
+      "model_a": "Google \u2014 Gemini 2.5 Flash Image",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 4.2,
+      "score_b": 3.2
+    },
+    {
+      "participant_id": "P08",
+      "prompt_id": "PR-03",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "outcome": "win_a",
+      "score_a": 4.25,
+      "score_b": 3.95
+    },
+    {
+      "participant_id": "P08",
+      "prompt_id": "PR-03",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_a",
+      "score_a": 4.25,
+      "score_b": 4.1
+    },
+    {
+      "participant_id": "P08",
+      "prompt_id": "PR-03",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "tie",
+      "score_a": 4.25,
+      "score_b": 4.15
+    },
+    {
+      "participant_id": "P08",
+      "prompt_id": "PR-03",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_b",
+      "score_a": 3.95,
+      "score_b": 4.1
+    },
+    {
+      "participant_id": "P08",
+      "prompt_id": "PR-03",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 3.95,
+      "score_b": 4.15
+    },
+    {
+      "participant_id": "P08",
+      "prompt_id": "PR-03",
+      "model_a": "Google \u2014 Gemini 2.5 Flash Image",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_b",
+      "score_a": 4.1,
+      "score_b": 4.15
+    },
+    {
+      "participant_id": "P08",
+      "prompt_id": "PR-04",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "outcome": "win_a",
+      "score_a": 4.85,
+      "score_b": 3.1
+    },
+    {
+      "participant_id": "P08",
+      "prompt_id": "PR-04",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_b",
+      "score_a": 4.85,
+      "score_b": 3.85
+    },
+    {
+      "participant_id": "P08",
+      "prompt_id": "PR-04",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 4.85,
+      "score_b": 3.1
+    },
+    {
+      "participant_id": "P08",
+      "prompt_id": "PR-04",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_a",
+      "score_a": 3.1,
+      "score_b": 3.85
+    },
+    {
+      "participant_id": "P08",
+      "prompt_id": "PR-04",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "tie",
+      "score_a": 3.1,
+      "score_b": 3.1
+    },
+    {
+      "participant_id": "P08",
+      "prompt_id": "PR-04",
+      "model_a": "Google \u2014 Gemini 2.5 Flash Image",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 3.85,
+      "score_b": 3.1
+    },
+    {
+      "participant_id": "P09",
+      "prompt_id": "PR-01",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "outcome": "win_a",
+      "score_a": 4.25,
+      "score_b": 4.15
+    },
+    {
+      "participant_id": "P09",
+      "prompt_id": "PR-01",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_a",
+      "score_a": 4.25,
+      "score_b": 3.7
+    },
+    {
+      "participant_id": "P09",
+      "prompt_id": "PR-01",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 4.25,
+      "score_b": 3.6
+    },
+    {
+      "participant_id": "P09",
+      "prompt_id": "PR-01",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_a",
+      "score_a": 4.15,
+      "score_b": 3.7
+    },
+    {
+      "participant_id": "P09",
+      "prompt_id": "PR-01",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 4.15,
+      "score_b": 3.6
+    },
+    {
+      "participant_id": "P09",
+      "prompt_id": "PR-01",
+      "model_a": "Google \u2014 Gemini 2.5 Flash Image",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_b",
+      "score_a": 3.7,
+      "score_b": 3.6
+    },
+    {
+      "participant_id": "P09",
+      "prompt_id": "PR-02",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "outcome": "tie",
+      "score_a": 4.4,
+      "score_b": 4.45
+    },
+    {
+      "participant_id": "P09",
+      "prompt_id": "PR-02",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "tie",
+      "score_a": 4.4,
+      "score_b": 4.45
+    },
+    {
+      "participant_id": "P09",
+      "prompt_id": "PR-02",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 4.4,
+      "score_b": 3.45
+    },
+    {
+      "participant_id": "P09",
+      "prompt_id": "PR-02",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_a",
+      "score_a": 4.45,
+      "score_b": 4.45
+    },
+    {
+      "participant_id": "P09",
+      "prompt_id": "PR-02",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 4.45,
+      "score_b": 3.45
+    },
+    {
+      "participant_id": "P09",
+      "prompt_id": "PR-02",
+      "model_a": "Google \u2014 Gemini 2.5 Flash Image",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 4.45,
+      "score_b": 3.45
+    },
+    {
+      "participant_id": "P09",
+      "prompt_id": "PR-03",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "outcome": "win_b",
+      "score_a": 4.4,
+      "score_b": 4.1
+    },
+    {
+      "participant_id": "P09",
+      "prompt_id": "PR-03",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_a",
+      "score_a": 4.4,
+      "score_b": 4.1
+    },
+    {
+      "participant_id": "P09",
+      "prompt_id": "PR-03",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 4.4,
+      "score_b": 3.85
+    },
+    {
+      "participant_id": "P09",
+      "prompt_id": "PR-03",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_b",
+      "score_a": 4.1,
+      "score_b": 4.1
+    },
+    {
+      "participant_id": "P09",
+      "prompt_id": "PR-03",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_b",
+      "score_a": 4.1,
+      "score_b": 3.85
+    },
+    {
+      "participant_id": "P09",
+      "prompt_id": "PR-03",
+      "model_a": "Google \u2014 Gemini 2.5 Flash Image",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 4.1,
+      "score_b": 3.85
+    },
+    {
+      "participant_id": "P09",
+      "prompt_id": "PR-04",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "outcome": "win_b",
+      "score_a": 4.65,
+      "score_b": 3.85
+    },
+    {
+      "participant_id": "P09",
+      "prompt_id": "PR-04",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_b",
+      "score_a": 4.65,
+      "score_b": 3.25
+    },
+    {
+      "participant_id": "P09",
+      "prompt_id": "PR-04",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 4.65,
+      "score_b": 3.55
+    },
+    {
+      "participant_id": "P09",
+      "prompt_id": "PR-04",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_b",
+      "score_a": 3.85,
+      "score_b": 3.25
+    },
+    {
+      "participant_id": "P09",
+      "prompt_id": "PR-04",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_b",
+      "score_a": 3.85,
+      "score_b": 3.55
+    },
+    {
+      "participant_id": "P09",
+      "prompt_id": "PR-04",
+      "model_a": "Google \u2014 Gemini 2.5 Flash Image",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 3.25,
+      "score_b": 3.55
+    },
+    {
+      "participant_id": "P10",
+      "prompt_id": "PR-01",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "outcome": "win_b",
+      "score_a": 4.4,
+      "score_b": 3.8
+    },
+    {
+      "participant_id": "P10",
+      "prompt_id": "PR-01",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_b",
+      "score_a": 4.4,
+      "score_b": 4.35
+    },
+    {
+      "participant_id": "P10",
+      "prompt_id": "PR-01",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 4.4,
+      "score_b": 3.0
+    },
+    {
+      "participant_id": "P10",
+      "prompt_id": "PR-01",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_b",
+      "score_a": 3.8,
+      "score_b": 4.35
+    },
+    {
+      "participant_id": "P10",
+      "prompt_id": "PR-01",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 3.8,
+      "score_b": 3.0
+    },
+    {
+      "participant_id": "P10",
+      "prompt_id": "PR-01",
+      "model_a": "Google \u2014 Gemini 2.5 Flash Image",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 4.35,
+      "score_b": 3.0
+    },
+    {
+      "participant_id": "P10",
+      "prompt_id": "PR-02",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "outcome": "win_b",
+      "score_a": 4.5,
+      "score_b": 3.95
+    },
+    {
+      "participant_id": "P10",
+      "prompt_id": "PR-02",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_a",
+      "score_a": 4.5,
+      "score_b": 3.85
+    },
+    {
+      "participant_id": "P10",
+      "prompt_id": "PR-02",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 4.5,
+      "score_b": 4.05
+    },
+    {
+      "participant_id": "P10",
+      "prompt_id": "PR-02",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_a",
+      "score_a": 3.95,
+      "score_b": 3.85
+    },
+    {
+      "participant_id": "P10",
+      "prompt_id": "PR-02",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 3.95,
+      "score_b": 4.05
+    },
+    {
+      "participant_id": "P10",
+      "prompt_id": "PR-02",
+      "model_a": "Google \u2014 Gemini 2.5 Flash Image",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_b",
+      "score_a": 3.85,
+      "score_b": 4.05
+    },
+    {
+      "participant_id": "P10",
+      "prompt_id": "PR-03",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "outcome": "win_a",
+      "score_a": 4.25,
+      "score_b": 3.95
+    },
+    {
+      "participant_id": "P10",
+      "prompt_id": "PR-03",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_b",
+      "score_a": 4.25,
+      "score_b": 4.25
+    },
+    {
+      "participant_id": "P10",
+      "prompt_id": "PR-03",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 4.25,
+      "score_b": 3.7
+    },
+    {
+      "participant_id": "P10",
+      "prompt_id": "PR-03",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_b",
+      "score_a": 3.95,
+      "score_b": 4.25
+    },
+    {
+      "participant_id": "P10",
+      "prompt_id": "PR-03",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 3.95,
+      "score_b": 3.7
+    },
+    {
+      "participant_id": "P10",
+      "prompt_id": "PR-03",
+      "model_a": "Google \u2014 Gemini 2.5 Flash Image",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 4.25,
+      "score_b": 3.7
+    },
+    {
+      "participant_id": "P10",
+      "prompt_id": "PR-04",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "outcome": "win_a",
+      "score_a": 5.0,
+      "score_b": 2.95
+    },
+    {
+      "participant_id": "P10",
+      "prompt_id": "PR-04",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_a",
+      "score_a": 5.0,
+      "score_b": 4.1
+    },
+    {
+      "participant_id": "P10",
+      "prompt_id": "PR-04",
+      "model_a": "Google \u2014 Gemini 3.1 Flash Image Preview",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 5.0,
+      "score_b": 3.45
+    },
+    {
+      "participant_id": "P10",
+      "prompt_id": "PR-04",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "Google \u2014 Gemini 2.5 Flash Image",
+      "outcome": "win_b",
+      "score_a": 2.95,
+      "score_b": 4.1
+    },
+    {
+      "participant_id": "P10",
+      "prompt_id": "PR-04",
+      "model_a": "Black Forest Labs \u2014 FLUX.1 [pro]",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_a",
+      "score_a": 2.95,
+      "score_b": 3.45
+    },
+    {
+      "participant_id": "P10",
+      "prompt_id": "PR-04",
+      "model_a": "Google \u2014 Gemini 2.5 Flash Image",
+      "model_b": "OpenAI \u2014 GPT Image 1",
+      "outcome": "win_b",
+      "score_a": 4.1,
+      "score_b": 3.45
+    }
+  ]
+}
